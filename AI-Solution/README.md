@@ -18,15 +18,18 @@ This project provides an AI-powered analysis tool that processes CHAT format tra
 
 ```
 AI-Agent/
-├── agent.py                          # Main analysis agent
+├── agent.py                          # Original analysis agent
+├── agent1.py                         # Improved analysis agent (recommended)
 ├── parser.py                         # CHAT file parser
 ├── HyperactivityKnowledge.py         # Knowledge base loader
 ├── HyperactivityKnowledge.yaml       # Trait definitions and examples
 ├── requirements.txt                  # Python dependencies
-├── Nadig/                           # Sample transcript files
-│   ├── *.cha                        # CHAT format transcripts
-│   └── *_analyzed.csv               # Analysis results
-└── ParserOutput/                    # Parsed transcript outputs
+├── Outputs/                          # Analysis results (agent1.py)
+│   └── *_analyzed.csv                # Processed analysis files
+├── Nadig/                            # Sample transcript files
+│   ├── *.cha                         # CHAT format transcripts
+│   └── *_analyzed.csv                # Legacy analysis results
+└── ParserOutput/                     # Parsed transcript outputs
 ```
 
 ## Installation
@@ -59,11 +62,11 @@ AI-Agent/
 
 ## Usage
 
-### Basic Analysis
+### Basic Analysis (Recommended)
 
-1. **Run the main agent**:
+1. **Run the improved agent**:
    ```bash
-   python agent.py
+   python agent1.py
    ```
 
 2. **Enter the path to your .cha file** when prompted:
@@ -72,7 +75,14 @@ AI-Agent/
    ```
 
 3. **Review the results**:
-   The system will generate an `*_analyzed.csv` file with detailed analysis.
+   The system will generate an `*_analyzed.csv` file in the `Outputs/` directory with detailed analysis.
+
+### Legacy Analysis
+
+For the original agent (less robust):
+```bash
+python agent.py
+```
 
 ### Standalone Parser
 
@@ -130,8 +140,11 @@ The analysis generates CSV files with the following columns:
 
 ```csv
 Index,Timestamp,Speaker,Utterance,Traits,Justification
-0,,MOT,what animal's on there Tracy ?,T01,"T01: Talks Excessively - The speaker is asking a question and engaging in conversation about the animal on the phone, indicating a desire to dominate the dialogue."
-1,,CHI,hm: horsie ?,NONE,"NONE - no traits"
+0,,MOT,what animal's on there Tracy ?,NONE,normal conversational response
+1,,CHI,hm: horsie ?,NONE,normal conversational response
+2,,CHI,I can make the airplane .,NONE,normal conversational response
+3,,MOT,you're gonna make the airplane ?,NONE,normal question
+4,,CHI,&=flying .,T07,fidgeting and vocal restlessness
 ```
 
 ## Configuration
@@ -151,6 +164,11 @@ Trait definitions are stored in `HyperactivityKnowledge.yaml` and include:
 - Example utterances
 - Severity weights (1-3 scale)
 
+### Output Settings
+- **Output Directory**: All results saved to `Outputs/` folder
+- **File Naming**: `{filename}_analyzed.csv` format
+- **Encoding**: UTF-8 for international character support
+
 ## Dependencies
 
 - **openai**: OpenAI API client
@@ -168,6 +186,13 @@ This tool is designed for:
 - **Monitoring**: Tracking treatment progress
 - **Documentation**: Creating detailed speech analysis reports
 
+### Recommended Workflow
+
+1. **Use agent1.py** for improved accuracy and reliability
+2. **Review outputs** in the `Outputs/` directory
+3. **Validate results** with clinical expertise
+4. **Track progress** using the detailed statistics provided
+
 ## Limitations
 
 - Requires OpenAI API access
@@ -175,6 +200,24 @@ This tool is designed for:
 - CHAT format specific
 - English language transcripts only
 - Requires manual review for clinical decisions
+
+## Improvements in agent1.py
+
+The improved version (`agent1.py`) addresses several limitations of the original agent:
+
+### Enhanced Features
+- **Clinical Validation**: Automatic correction of inappropriate classifications
+- **Deduplication**: Prevents duplicate analysis of the same utterance
+- **Robust Parsing**: Multiple fallback strategies for LLM response parsing
+- **Speaker-Aware Analysis**: Different validation rules for children vs. adults
+- **Conservative Classification**: Reduces false positives by being more selective
+- **Enhanced Reporting**: Detailed statistics and trait frequency analysis
+
+### Quality Improvements
+- **Better Error Handling**: Graceful handling of malformed responses
+- **Type Safety**: Comprehensive type hints and null checking
+- **Organized Outputs**: All results saved to dedicated `Outputs/` directory
+- **Clinical Accuracy**: Normal conversational patterns are properly identified
 
 ## Contributing
 
@@ -202,4 +245,4 @@ For questions or issues, please [create an issue](link-to-issues) or contact the
 
 ---
 
-**Note**: This tool is designed for research and clinical support purposes. Clinical decisions should always be made by qualified healthcare professionals. 
+**Note**: This tool is designed for research and clinical support purposes. Clinical decisions should always be made by qualified healthcare professionals.

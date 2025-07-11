@@ -44,7 +44,13 @@ def query_llm(system_prompt: str, user_prompt: str) -> str:
     )
     elapsed = time.time() - start
     logger.info("LLM call took %.2f sec", elapsed)
-    return resp.choices[0].message.content
+    
+    content = resp.choices[0].message.content
+    if content is None:
+        logger.error("LLM returned None content")
+        raise ValueError("LLM response content is None")
+    
+    return content
 
 def format_traits_for_prompt(traits: list) -> str:
     lines = []
