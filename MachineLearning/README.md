@@ -1,7 +1,7 @@
 # Pragmatic Feature Extraction and Clustering from the Nadig Corpus
 
 **Author:** Daniela Cifuentes Barrios  
-**Copyright © 2024 Daniela Cifuentes Barrios**
+**Copyright © 2025 Daniela Cifuentes Barrios**
 
 ## Overview
 
@@ -83,7 +83,7 @@ This project is licensed under the MIT License:
 ```
 MIT License
 
-Copyright (c) 2024 Daniela Cifuentes Barrios
+Copyright (c) 2025 Daniela Cifuentes Barrios
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
