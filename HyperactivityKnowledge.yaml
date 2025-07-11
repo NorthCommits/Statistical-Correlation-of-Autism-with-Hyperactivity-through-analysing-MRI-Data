@@ -1,0 +1,511 @@
+hyperactivity_traits:
+  - id: T01
+    label: "Talks Excessively"
+    description: "Speaks more than typical in conversations, often dominating the dialogue."
+    cues:
+      - "High word count per utterance"
+      - "Monopolizes turns"
+      - "Little opportunity for listener to speak"
+    examples:
+      - "I just had this thought and then I also noticed that..."
+    severity_weight: 3
+
+  - id: T02
+    label: "Rapid Speech (Pressured Speech)"
+    description: "Speaks at a very fast rate, with minimal pauses or breathing."
+    cues:
+      - "Few pauses between phrases"
+      - "Elevated speech tempo"
+    examples:
+      - "Long, fast utterances with few stops"
+    severity_weight: 3
+
+  - id: T03
+    label: "Interruptive Speech"
+    description: "Interrupts others, cuts in mid-sentence, intrudes on turns."
+    cues:
+      - "Overlaps in conversation"
+      - "Cuts others off or finishes sentences"
+    examples:
+      - "Yeah, but I was—No, you’re missing the point..."
+    severity_weight: 3
+
+  - id: T04
+    label: "Topic Switching / Tangential Speech"
+    description: "Abruptly changes topic without context or smooth transition."
+    cues:
+      - "Sudden topic shift"
+      - "Difficulty maintaining conversational thread"
+    examples:
+      - "I went to school. Speaking of school, did you see that movie?"
+    severity_weight: 2
+
+  - id: T05
+    label: "Blurting Out Answers"
+    description: "Responds impulsively before the question is completed."
+    cues:
+      - "Answers before question ends"
+      - "Over-eager replies"
+    examples:
+      - "Answer is 42!"
+    severity_weight: 2
+
+  - id: T06
+    label: "Difficulty Waiting Their Turn"
+    description: "Struggles to wait for conversational turn; may interrupt or fidget."
+    cues:
+      - "Premature start of speech"
+      - "Visible restlessness (vocal or otherwise)"
+    examples:
+      - "Starts speaking while another is talking"
+    severity_weight: 2
+
+  - id: T07
+    label: "Fidgeting & Vocal Restlessness"
+    description: "Excess movement or vocal noises during conversation."
+    cues:
+      - "Humming, lip movements, tapping voice"
+      - "Frequent filler sounds"
+    examples:
+      - "um, uh, like"
+    severity_weight: 2
+
+  - id: T08
+    label: "Disfluency & Stuttering-like Patterns"
+    description: "Frequent hesitations, repetitions, restarts in speech."
+    cues:
+      - "um, uh, restarts, word repetitions"
+    examples:
+      - "I—I mean, um, we could go to the… to the park."
+    severity_weight: 2
+
+  - id: T09
+    label: "Echolalia / Repetition"
+    description: "Repeats words or phrases heard, either immediately or after a delay."
+    cues:
+      - "Echoing another person's words or phrases"
+    examples:
+      - "Speaker A: 'Let’s go now.' Speaker B: 'Let’s go now.'"
+    severity_weight: 1
+
+  - id: T10
+    label: "Stilted or Pedantic Speech"
+    description: "Overly formal or precise language inappropriate for context."
+    cues:
+      - "Formal tone, unusual vocabulary"
+      - "Overly detailed explanation"
+    examples:
+      - "Permit me to elaborate…"
+    severity_weight: 1
+
+  - id: T11
+    label: "Emotional Reactivity in Speech"
+    description: "Mood shifts or emotional tone changes rapidly during conversation."
+    cues:
+      - "Sudden laughter, irritation, or excitement"
+      - "Vocal pitch or pace shifts with emotion"
+    examples:
+      - "Changing tone mid-utterance with strong emotion"
+    severity_weight: 2
+
+  # Additional ADHD-like features observed in ASD
+  - id: T12
+    label: "Inattentiveness"
+    description: "Shows difficulty sustaining focus or easily distracted."
+    cues:
+      - "Loses train of thought mid-sentence"
+      - "Looks away frequently during conversation"
+    examples:
+      - "I was… what were we talking about?"
+    severity_weight: 2
+
+  - id: T13
+    label: "Impulsive Responses"
+    description: "Replies immediately without reflection, may speak out of turn."
+    cues:
+      - "Answers before fully hearing prompt"
+      - "Offers unrelated remarks suddenly"
+    examples:
+      - "Yes, because I love pizza!"
+    severity_weight: 2
+
+  - id: T14
+    label: "Working Memory Lapses"
+    description: "Forgets or loses continuity, repeats questions or statements."
+    cues:
+      - "Asks same question twice"
+      - "Needs prompts to complete thought"
+    examples:
+      - "Where did I put my… what were we doing?"
+    severity_weight: 1
+
+  - id: T15
+    label: "Motor Restlessness"
+    description: "Excessive bodily movement or shifting during conversation."
+    cues:
+      - "Frequently changes posture"
+      - "Sways or taps feet"
+    examples:
+      - "Bouncing leg while speaking"
+    severity_weight: 2
+
+  - id: T16
+    label: "Delay Aversion"
+    description: "Shows discomfort or impatience when asked to wait."
+    cues:
+      - "Expresses frustration at pauses"
+      - "Interrupts pauses with chatter"
+    examples:
+      - "Can we just move on?"
+    severity_weight: 2
+
+  - id: T17
+    label: "Overactive Gesturing"
+    description: "Uses large or frequent hand movements when speaking."
+    cues:
+      - "Animated arm motions"
+      - "Points or waves excessively"
+    examples:
+      - "Gesticulating vigorously to illustrate point"
+    severity_weight: 1
+
+  - id: T18
+    label: "Sensory Distractibility"
+    description: "Reacting vocally or physically to background noises or stimuli."
+    cues:
+      - "Stops mid-sentence at sudden sound"
+      - "Comments on irrelevant events"
+    examples:
+      - "Did you hear that honk?!"
+    severity_weight: 1
+
+  - id: T19
+    label: "Reward-Seeking Urgency"
+    description: "Expresses immediate desire for a reward or feedback."
+    cues:
+      - "Asks repeatedly when activity will start"
+      - "Demands immediate feedback"
+    examples:
+      - "Tell me now if I did it right!"
+    severity_weight: 1
+
+  - id: T20
+    label: "Emotional Dysregulation"
+    description: "Mood swings or tone shifts abruptly tied to minor triggers."
+    cues:
+      - "Crying or anger erupting quickly"
+      - "Laughing without cue"
+    examples:
+      - "You said no? That's not fair!"
+    severity_weight: 2
+
+  # Expanded set: 30 more traits
+  - id: T21
+    label: "Perseverative Speech"
+    description: "Repeats same topic or phrase beyond relevance."
+    cues:
+      - "Returns to prior topic repeatedly"
+      - "Uses same phrase out of context"
+    examples:
+      - "As I said before… as I said before…"
+    severity_weight: 2
+
+#  - id: T22
+#    label: "Monosyllabic Responses"
+#    description: "Overuse of single-word answers lacking elaboration."
+#    cues:
+#      - "Yes/no only replies"
+#      - "Lack of follow-up detail"
+#    examples:
+#      - "Did you like it?" "Yes."
+#    severity_weight: 1
+
+  - id: T22
+    label: "Monosyllabic Responses"
+    description: "Overuse of single-word answers lacking elaboration."
+    cues:
+      - "Yes/no only replies"
+      - "Lack of follow-up detail"
+    examples:
+      - "Did you like it?"
+      - "Yes."
+    severity_weight: 1
+
+  - id: T23
+    label: "Excessive Inquiries"
+    description: "Asks too many questions rapidly."
+    cues:
+      - "Multiple questions back-to-back"
+      - "Interrupts with new question before answering"
+    examples:
+      - "What? When? How? Why?"
+    severity_weight: 2
+
+  - id: T24
+    label: "Rapid Topic Overrun"
+    description: "Flows through several topics in single breath."
+    cues:
+      - "Multiple subjects in one sentence"
+      - "Little coherence"
+    examples:
+      - "I went to school, saw a friend, then the movie, then dinner…"
+    severity_weight: 2
+
+  - id: T25
+    label: "Sentence Fragments"
+    description: "Uses incomplete sentences frequently."
+    cues:
+      - "Leaves sentences unfinished"
+      - "Drops subjects or verbs"
+    examples:
+      - "When we get there… then… never mind."
+    severity_weight: 1
+
+  - id: T26
+    label: "Vocal Fillers Overuse"
+    description: "Excessive use of filler words beyond context."
+    cues:
+      - "um, uh, like over multiple uses"
+      - "Filler interrupts flow"
+    examples:
+      - "Um, like, you know, um, it was, like…"
+    severity_weight: 2
+
+  - id: T27
+    label: "Rapid Laughter"
+    description: "Laughs quickly or inappropriately mid-sentence."
+    cues:
+      - "Burst of laughter"
+      - "Cannot control laughter"
+    examples:
+      - "I went to the… (laughs) that day was fun!"
+    severity_weight: 1
+
+  - id: T28
+    label: "Abrupt Volume Changes"
+    description: "Shifts from quiet to loud unexpectedly."
+    cues:
+      - "Yells at random"
+      - "Speaks softly then suddenly loud"
+    examples:
+      - "This is… (shouts) AMAZING!"
+    severity_weight: 2
+
+  - id: T29
+    label: "Garbled Articulation"
+    description: "Words slur together due to haste."
+    cues:
+      - "Words run together"
+      - "Hard to decipher speech"
+    examples:
+      - "Iwannagotoschoolnow"
+    severity_weight: 1
+
+  - id: T30
+    label: "Frequent Self-Correction"
+    description: "Stops to fix own speech often."
+    cues:
+      - "Corrects words mid-sentence"
+      - "Repeated restarts"
+    examples:
+      - "I want—no, I mean—let's go."
+    severity_weight: 1
+
+  - id: T31
+    label: "Auditory Overload Response"
+    description: "Covers ears or reacts negatively to sound."
+    cues:
+      - "Hand over ears"
+      - "Winces at noise"
+    examples:
+      - "Too loud! Stop it!"
+    severity_weight: 2
+
+  - id: T32
+    label: "Sensory Hyperfocus"
+    description: "Becomes fixated on unusual sensory detail."
+    cues:
+      - "Describes textures or sounds obsessively"
+    examples:
+      - "The hum of the fan… it's so rhythmic."
+    severity_weight: 1
+
+  - id: T33
+    label: "Nonstop Oral Motor Noise"
+    description: "Makes continuous mouth sounds."
+    cues:
+      - "Clicking tongue"
+      - "Lip smacking"
+    examples:
+      - "ts-ts-ts..."
+    severity_weight: 1
+
+  - id: T34
+    label: "Peripheral Awareness Distraction"
+    description: "Shifts attention to movement in periphery."
+    cues:
+      - "Looks around at movement"
+      - "Interrupts to comment on minor motion"
+    examples:
+      - "Who is that over there?"
+    severity_weight: 1
+
+  - id: T35
+    label: "Rapid Topic Recap"
+    description: "Summarizes previous points too quickly."
+    cues:
+      - "Short, fast recaps"
+      - "Omits key details"
+    examples:
+      - "So basically, we did this, then that, end."
+    severity_weight: 1
+
+  - id: T36
+    label: "Over-enthusiastic Tone"
+    description: "Excess excitement in normal context."
+    cues:
+      - "Voice peaks with excitement"
+      - "Enthusiasm disproportionate"
+    examples:
+      - "We're going to talk about lunch and I'm SO excited!"
+    severity_weight: 1
+
+  - id: T37
+    label: "Forced Humor"
+    description: "Attempts jokes repeatedly, even when inappropriate."
+    cues:
+      - "Tells multiple jokes"
+      - "Laughs at own joke"
+    examples:
+      - "What did the zero say to the eight? Haha…"
+    severity_weight: 1
+
+  - id: T38
+    label: "Distracted Eye Contact"
+    description: "Avoids or cannot maintain eye contact due to distraction."
+    cues:
+      - "Looks away"
+      - "Shifts gaze frequently"
+    examples:
+      - "(Stares off) Sorry, what were you saying?"
+    severity_weight: 1
+
+  - id: T39
+    label: "Repetitive Questioning"
+    description: "Asks same or similar questions to stay engaged."
+    cues:
+      - "Loops back to earlier question"
+      - "Rephrases same ask repeatedly"
+    examples:
+      - "Are you sure? Like, really sure?"
+    severity_weight: 1
+
+  - id: T40
+    label: "Meta-Talk Overuse"
+    description: "Talks about talking or process rather than content."
+    cues:
+      - "Discusses conversation mechanics"
+      - "Comments on turn-taking"
+    examples:
+      - "Am I talking too much?"
+    severity_weight: 1
+
+  - id: T41
+    label: "Peripheral Vocalizations"
+    description: "Makes unrelated sounds (sighs, whistles)."
+    cues:
+      - "Whistles mid-sentence"
+      - "Sighs loudly"
+    examples:
+      - "Sigh… I don't know."
+    severity_weight: 1
+
+  - id: T42
+    label: "Segmented Speech"
+    description: "Splits words unnaturally into parts."
+    cues:
+      - "Hyphenated utterance"
+      - "Segments within words"
+    examples:
+      - "To-day we will…"
+    severity_weight: 1
+
+  - id: T43
+    label: "Excessive Qualifiers"
+    description: "Adds too many qualifying adjectives."
+    cues:
+      - "Very, really, super repeated"
+      - "Qualifiers overshadow content"
+    examples:
+      - "I am, like, super, really happy."
+    severity_weight: 1
+
+  - id: T44
+    label: "Pseudo-Questions"
+    description: "Uses questions as filler rather than genuine asks."
+    cues:
+      - "Isn't it? Right?"
+      - "Tags at end of statements"
+    examples:
+      - "We’re going, right?"
+    severity_weight: 1
+
+  - id: T45
+    label: "Immediate Repair"
+    description: "Self-corrects single words constantly."
+    cues:
+      - "Fixes pronunciation mid-word"
+      - "Micro-corrections"
+    examples:
+      - "I saw the bi—boat yesterday."
+    severity_weight: 1
+
+  - id: T46
+    label: "Spatial Drift"
+    description: "Leans or moves body excessively while talking."
+    cues:
+      - "Drifts in seat"
+      - "Shifts weight frequently"
+    examples:
+      - "(Leans forward) And then..."
+    severity_weight: 1
+
+  - id: T47
+    label: "Content Overload"
+    description: "Provides excessive detail for simple query."
+    cues:
+      - "Long-winded explanation"
+      - "Excess context"
+    examples:
+      - "I left home at 7:02 AM after breakfast that I made with..."
+    severity_weight: 2
+
+  - id: T48
+    label: "Rapid Ideation"
+    description: "Expresses multiple ideas in rapid succession."
+    cues:
+      - "Lists many ideas back-to-back"
+      - "Brainstorm style speech"
+    examples:
+      - "We could go here, there, maybe there, or perhaps this."
+    severity_weight: 2
+
+  - id: T49
+    label: "Externalization"
+    description: "Frequently attributes thoughts aloud (thinking out loud)."
+    cues:
+      - "Verbalizing internal thought process"
+      - "Inner monologue shared"
+    examples:
+      - "Hmm, should I go left or right..."
+    severity_weight: 1
+
+  - id: T50
+    label: "Anticipatory Speech"
+    description: "Speaks about upcoming events prematurely."
+    cues:
+      - "Talks about next steps before current finishes"
+      - "Premature planning"
+    examples:
+      - "Once we finish, we'll choose where to go next."
+    severity_weight: 1
