@@ -444,7 +444,8 @@ def parse_llm_response(line: str, valid_ids: set) -> Optional[Dict]:
 
     # ─── EXTRACT SCORES ────────────────────────────────────────────────────
     scores = {}
-    for key in ("clarity", "uniqueness", "speaker", "quality", "confidence"):
+    # for key in ("clarity", "uniqueness", "speaker", "quality", "confidence")
+    for key in ("clarity", "uniqueness",  "quality", "confidence"):
         m = re.search(rf"{key}\s*=\s*([0-9]*\.?[0-9]+)", line, re.IGNORECASE)
         scores[key] = float(m.group(1)) if m else 0.0
     parsed["scores"] = scores
@@ -526,8 +527,13 @@ Trait definitions:
 Finally, for each utterance, that has been marked as having Hyperactivity Trait, append numeric scores [0.0–1.0] for:
   • clarity: Check if how much the utterance marked as Hyperactivity Trait is clear.[Perfectly shows signs - score closer to 1.0, if ambiguous, weak signs - score closer to 0.0
   • uniqueness: Check if only only one trait can fit the utterance - should be higher score (closer to 1.0), if multiple traits could apply - score closer to 0.0
-  • quality: If the quality is detailed and precise -  High score (closer to 1.0), if it is vague or short then score should be closer to 0.0
- Compute overall confidence = mean of these threee.
+  • quality: How strong and specific is your justification?  Use:
+      0.0  – no justification or just one short word (“yes”/“no”)
+      0.25 – very generic (“interrupts”) or off‑hand
+      0.50 – somewhat specific but missing context (“child cut in”)
+      0.75 – detailed with context (“child cut mother off mid‑sentence, showing impatience”)
+      1.0  – highly detailed, references multiple cues and context
+ Compute overall confidence = mean of these three.
  Format exactly:
  [index]: TRAIT_IDS – justification; clarity=0.75; uniqueness=1.00; confidence=0.85
 """.strip()
@@ -578,7 +584,7 @@ Finally, for each utterance, that has been marked as having Hyperactivity Trait,
                     f"[{idx}] Confidence: {conf:.2f} "
                     f"(clarity={scores['clarity']:.2f}, "
                     f"uniqueness={scores['uniqueness']:.2f}, "
-                    f"speaker={scores['speaker']:.2f}, "
+                    # f"speaker={scores['speaker']:.2f}, "
                     f"quality={scores['quality']:.2f})"
                 )
 
@@ -592,7 +598,7 @@ Finally, for each utterance, that has been marked as having Hyperactivity Trait,
                     "Confidence": round(conf, 2),
                     "ClarityScore": round(scores["clarity"], 2),
                     "UniquenessScore": round(scores["uniqueness"], 2),
-                    "SpeakerScore": round(scores["speaker"], 2),
+                    # "SpeakerScore": round(scores["speaker"], 2),
                     "QualityScore": round(scores["quality"], 2),
                 })
 
