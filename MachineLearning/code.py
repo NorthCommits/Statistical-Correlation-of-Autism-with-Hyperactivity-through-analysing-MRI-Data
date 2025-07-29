@@ -1,30 +1,34 @@
 import os
-from pathlib import Path
 import re
-from statistics import mean, median
-from typing import Dict, List
-
+import shutil
 import pandas as pd
-from IPython.display import display
-
-os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
-
+from pathlib import Path
+from typing import List, Dict
 from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
+from sklearn.cluster import AgglomerativeClustering
 from sklearn.metrics import silhouette_score
+from scipy.cluster.hierarchy import dendrogram, linkage
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy.stats import pearsonr, spearmanr
 
-cha_folder = Path(r"C:/Users/danci/OneDrive - University of Birmingham/Documents/Final Project/Nadig")
+BASE_DIR = Path(__file__).resolve().parent
+cha_folder = BASE_DIR / "Nadig"
+features_folder = BASE_DIR / "Features Results"
+features_folder.mkdir(exist_ok=True, parents=True)
+
+if features_folder.exists():
+    shutil.rmtree(features_folder)
+    features_folder.mkdir()
+
 cha_files = list(cha_folder.glob("*.cha"))
 print(f"Found {len(cha_files)} .cha files")
 
-FILLER_RE     = re.compile(r"\b(uh|um|erm|er|mmm+|hmm+)\b", re.I)
-REPEAT_RE     = re.compile(r"\b(\w+)\s+\1\b", re.I)
-REPAIR_RE     = re.compile(r"\b(i mean|i meant|no,? i|sorry)\b", re.I)
-TOPICSHIFT_RE = re.compile(r"\b(anyway|whatever|let’s talk about|change the subject)\b", re.I)
-INTERRUPT_RE  = re.compile(r"\.\.\.|//|\[/|\\]\\")
+FILLER_RE = re.compile(r"\b(uh|um|erm|er|mmm+|hmm+)\b", re.I)
+REPEAT_RE = re.compile(r"\b(\w+)\s+\1\b", re.I)
 
 def child_utts(chat_path: Path) -> List[str]:
-    utts: List[str] = []
+    utts = []
     with chat_path.open(encoding="utf-8", errors="ignore") as fh:
         for line in fh:
             if line.startswith("*CHI:"):
@@ -33,129 +37,154 @@ def child_utts(chat_path: Path) -> List[str]:
                     utts.append(parts[1].strip())
     return utts
 
-def pragmatic_counts(utts: List[str]) -> Dict[str, int]:
+def pragmatic_counts(utts: List[str]) -> Dict[str, int | float]:
     c = {
-        "fillers": 0, "repairs": 0, "repetitions": 0,
-        "topic_shifts": 0, "interruptions": 0, "short_utts": 0,
-        "total_utts": len(utts), "total_words": 0,
+        "filled_pauses": 0,
+        "repetitions": 0,
+        "coherent_turns": 0,
+        "clear_turns": 0,
+        "grammar_mistakes": 0,
+        "total_utts": len(utts),
+        "total_words": 0,
     }
     for u in utts:
         words = u.split()
-        c["total_words"] += len(words)
-        if len(words) < 3:
-            c["short_utts"] += 1
-        if FILLER_RE.search(u):       c["fillers"]       += 1
-        if REPEAT_RE.search(u):       c["repetitions"]   += 1
-        if REPAIR_RE.search(u):       c["repairs"]       += 1
-        if TOPICSHIFT_RE.search(u):   c["topic_shifts"]  += 1
-        if INTERRUPT_RE.search(u):    c["interruptions"] += 1
+        num_words = len(words)
+        c["total_words"] += num_words
+        if FILLER_RE.search(u): c["filled_pauses"] += 1
+        if REPEAT_RE.search(u): c["repetitions"] += 1
+        if num_words > 5: c["coherent_turns"] += 1
+        if num_words >= 4 and u[0].isupper(): c["clear_turns"] += 1
+        if num_words <= 2 and u.endswith("?"): c["grammar_mistakes"] += 1
     return c
 
-def length_metrics(utts: List[str]) -> Dict[str, float]:
-    lens = [len(u.split()) for u in utts]
-    return {
-        "mean_tokens_per_utt":   mean(lens) if lens else 0,
-        "median_tokens_per_utt": median(lens) if lens else 0,
-    }
-
-def densities(c: Dict[str, int]) -> Dict[str, float]:
+def densities(c: Dict[str, int | float]) -> Dict[str, float]:
     w = c["total_words"] or 1
-    u = c["total_utts"]  or 1
+    u = c["total_utts"] or 1
     return {
-        "fillers_per100w"       : c["fillers"]       / w * 100,
-        "repairs_per100w"       : c["repairs"]       / w * 100,
-        "topicshifts_per100utts": c["topic_shifts"]  / u * 100,
-        "interrupts_per100utts" : c["interruptions"] / u * 100,
+        "filled_pauses_per100w": c["filled_pauses"] / w * 100,
+        "repetitions_per100w": c["repetitions"] / w * 100,
+        "coherent_turns_per100utts": c["coherent_turns"] / u * 100,
+        "clear_turns_per100utts": c["clear_turns"] / u * 100,
+        "grammar_mistakes_per100utts": c["grammar_mistakes"] / u * 100,
     }
 
 def extract_features(file: Path) -> Dict[str, int | float | str]:
-    utts   = child_utts(file)
+    utts = child_utts(file)
     counts = pragmatic_counts(utts)
     return {
         "file": file.name,
         **counts,
-        **length_metrics(utts),
         **densities(counts),
     }
 
 data = [extract_features(f) for f in cha_files]
-df   = pd.DataFrame(data)
-print("\nExtracted features for all files:")
-display(df.head())
+df = pd.DataFrame(data)
+out_csv = features_folder / "Features_Extracted.csv"
+df.to_csv(out_csv, index=False)
+print(f"\n Features saved to: {out_csv}\n")
 
-base_csv = Path("C:/Users/danci/Desktop/features_all.csv")
-df.to_csv(base_csv, index=False)
-print(f"Features saved → {base_csv}\n")
-
-pos = [
-    "fillers_per100w", "repairs_per100w", "topicshifts_per100utts",
-    "interrupts_per100utts", "short_utts"
+features = [
+    "filled_pauses_per100w",
+    "repetitions_per100w",
+    "coherent_turns_per100utts",
+    "clear_turns_per100utts",
+    "grammar_mistakes_per100utts"
 ]
-neg = ["mean_tokens_per_utt", "median_tokens_per_utt"]
 
-num_cols = df.select_dtypes("number").columns
+df_clustering = df.dropna(subset=features).copy()
 scaler = StandardScaler()
-Z = pd.DataFrame(scaler.fit_transform(df[num_cols]), columns=num_cols)
+X_scaled = scaler.fit_transform(df_clustering[features])
+agg_cluster = AgglomerativeClustering(n_clusters=2)
+df_clustering["cluster"] = agg_cluster.fit_predict(X_scaled)
+sil_score = silhouette_score(X_scaled, df_clustering["cluster"])
+print(f" Silhouette Score (using validated features): {sil_score:.2f}")
 
-df["adhd_index"] = Z[pos].mean(axis=1) - Z[neg].mean(axis=1)
-
-X_std = scaler.fit_transform(df.select_dtypes("number"))
-km    = KMeans(n_clusters=2, random_state=42).fit(X_std)
-df["cluster"] = km.labels_
-
-print("Silhouette score:", silhouette_score(X_std, km.labels_))
-print("\nCluster‑wise means (numeric):\n")
-print(df.groupby("cluster").mean(numeric_only=True))
-
-idx_means = df.groupby("cluster")["adhd_index"].mean()
-adhd_like_cluster = idx_means.idxmax()
-
-df["adhd_like"] = (df["cluster"] == adhd_like_cluster).astype(int)
-print(f"\nCluster {adhd_like_cluster} labelled as ADHD‑like (adhd_like = 1)")
-
-cluster_csv = Path("C:/Users/danci/Desktop/clustered.csv")
-df.to_csv(cluster_csv, index=False)
-print(f"Clustered results saved → {cluster_csv}")
-
-import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans
-from sklearn.metrics import silhouette_score
-from sklearn.preprocessing import StandardScaler
-import numpy as np
-
-num_cols = df.select_dtypes("number").columns
-X_std = StandardScaler().fit_transform(df[num_cols])
-
-ks = range(1, 11)
-inertias   = []
-silhouettes = []
-
-for k in ks:
-    km = KMeans(n_clusters=k, random_state=42, n_init=10).fit(X_std)
-    inertias.append(km.inertia_)
-    
-    if k > 1:
-        silhouettes.append(silhouette_score(X_std, km.labels_))
-    else:
-        silhouettes.append(np.nan)
-
-fig, ax1 = plt.subplots(figsize=(7, 4))
-ax2 = ax1.twinx()
-
-ax1.plot(ks, inertias, marker='o', label='Inertia (WCSS)', color='tab:blue')
-ax2.plot(ks, silhouettes, marker='s', label='Silhouette', color='tab:orange')
-
-ax1.set_xlabel("Number of clusters (k)")
-ax1.set_ylabel("Inertia (lower is better)")
-ax2.set_ylabel("Silhouette score (higher is better)")
-
-ax1.set_xticks(ks)
-ax1.grid(True, linestyle='--', alpha=0.4)
-
-lines, labels = ax1.get_legend_handles_labels()
-lines2, labels2 = ax2.get_legend_handles_labels()
-ax1.legend(lines + lines2, labels + labels2, loc="upper right")
-
-plt.title("Elbow & Silhouette analysis for K-Means")
+linkage_matrix = linkage(X_scaled, method="ward")
+plt.figure(figsize=(10, 6))
+dendrogram(linkage_matrix, labels=df_clustering["file"].values, leaf_rotation=90)
+plt.title("Dendrogram - Agglomerative Clustering")
+plt.xlabel("Transcript File")
+plt.ylabel("Distance")
 plt.tight_layout()
 plt.show()
+
+ml_features_path = BASE_DIR / "Features Results" / "Features_Extracted.csv"
+llm_folder = BASE_DIR / "LLM Result"
+llm_percentages_path = BASE_DIR / "LLM ADHD%" / "llm_adhd_percentages.csv"
+llm_percentages_path.parent.mkdir(parents=True, exist_ok=True)
+
+llm_files = list(llm_folder.glob("*.csv"))
+print(f"Found {len(llm_files)} LLM result files")
+
+def extract_llm_adhd_percentage(file_path: Path) -> dict:
+    try:
+        df = pd.read_csv(file_path)
+        if "Speaker" not in df or "Traits" not in df:
+            return None
+        chi_only = df[df["Speaker"] == "CHI"]
+        if chi_only.empty:
+            return None
+        adhd_flag = chi_only["Traits"].str.upper() != "NONE"
+        pct_adhd = adhd_flag.mean()
+        return {
+            "file": file_path.stem.replace("_analyzed", "") + ".cha",
+            "adhd_llm_pct": round(pct_adhd * 100, 2),
+            "n_chi_utts": len(chi_only)
+        }
+    except Exception as e:
+        print(f"Error processing {file_path.name}: {e}")
+        return None
+
+llm_results = [extract_llm_adhd_percentage(f) for f in llm_files]
+llm_results = [res for res in llm_results if res is not None]
+llm_df = pd.DataFrame(llm_results)
+print("\nExtracted ADHD % from LLM outputs:")
+print(llm_df.head())
+llm_df.to_csv(llm_percentages_path, index=False)
+print(f" Saved LLM summary to: {llm_percentages_path}")
+
+ml_df = pd.read_csv(ml_features_path)
+merged_df = pd.merge(ml_df, llm_df, on="file")
+
+features_to_test = [
+    "filled_pauses_per100w",
+    "repetitions_per100w",
+    "coherent_turns_per100utts"
+]
+
+correlation_results = []
+for feature in features_to_test:
+    pearson_r, pearson_p = pearsonr(merged_df[feature], merged_df["adhd_llm_pct"])
+    spearman_r, spearman_p = spearmanr(merged_df[feature], merged_df["adhd_llm_pct"])
+    correlation_results.append({
+        "Feature": feature,
+        "Pearson r": round(pearson_r, 3),
+        "Pearson p": round(pearson_p, 4),
+        "Spearman r": round(spearman_r, 3),
+        "Spearman p": round(spearman_p, 4)
+    })
+
+correlation_df = pd.DataFrame(correlation_results)
+print("\n Correlation Between LLM and ML Features:")
+print(correlation_df)
+
+sns.set(style="whitegrid")
+plt.figure(figsize=(15, 4))
+for i, feature in enumerate(features_to_test, 1):
+    plt.subplot(1, 3, i)
+    sns.regplot(data=merged_df, x=feature, y="adhd_llm_pct",
+                scatter_kws={'s': 60, 'alpha': 0.7},
+                line_kws={"color": "red", "linestyle": "--"})
+    plt.title(f"{feature} vs LLM ADHD %")
+    plt.xlabel(feature.replace("_", " ").title())
+    plt.ylabel("LLM ADHD-like %")
+
+plt.tight_layout()
+plt.suptitle("LLM vs ML Feature Comparison", fontsize=16, y=1.05)
+plt.show()
+
+correlation_out_path = BASE_DIR / "LLM ADHD%" / "llm_vs_ml_correlations.csv"
+correlation_df.to_csv(correlation_out_path, index=False)
+print(f"Correlation results saved to: {correlation_out_path}")
+
