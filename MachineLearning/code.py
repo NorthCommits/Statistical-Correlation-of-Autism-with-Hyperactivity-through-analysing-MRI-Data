@@ -12,11 +12,13 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy.stats import pearsonr, spearmanr
 
+# Set up paths
 BASE_DIR = Path(__file__).resolve().parent
 cha_folder = BASE_DIR / "Nadig"
 features_folder = BASE_DIR / "Features Results"
 features_folder.mkdir(exist_ok=True, parents=True)
 
+# Clear previous results
 if features_folder.exists():
     shutil.rmtree(features_folder)
     features_folder.mkdir()
@@ -24,9 +26,11 @@ if features_folder.exists():
 cha_files = list(cha_folder.glob("*.cha"))
 print(f"Found {len(cha_files)} .cha files")
 
+# Regex for disfluency detection
 FILLER_RE = re.compile(r"\b(uh|um|erm|er|mmm+|hmm+)\b", re.I)
 REPEAT_RE = re.compile(r"\b(\w+)\s+\1\b", re.I)
 
+# Extract child utterances
 def child_utts(chat_path: Path) -> List[str]:
     utts = []
     with chat_path.open(encoding="utf-8", errors="ignore") as fh:
@@ -37,6 +41,7 @@ def child_utts(chat_path: Path) -> List[str]:
                     utts.append(parts[1].strip())
     return utts
 
+# Count pragmatic features
 def pragmatic_counts(utts: List[str]) -> Dict[str, int | float]:
     c = {
         "filled_pauses": 0,
@@ -58,17 +63,19 @@ def pragmatic_counts(utts: List[str]) -> Dict[str, int | float]:
         if num_words <= 2 and u.endswith("?"): c["grammar_mistakes"] += 1
     return c
 
+# Normalize to densities
 def densities(c: Dict[str, int | float]) -> Dict[str, float]:
     w = c["total_words"] or 1
     u = c["total_utts"] or 1
     return {
-        "filled_pauses_per100w": c["filled_pauses"] / w * 100,
-        "repetitions_per100w": c["repetitions"] / w * 100,
-        "coherent_turns_per100utts": c["coherent_turns"] / u * 100,
-        "clear_turns_per100utts": c["clear_turns"] / u * 100,
-        "grammar_mistakes_per100utts": c["grammar_mistakes"] / u * 100,
+        "Filled Pauses Per100w": c["filled_pauses"] / w * 100,
+        "Repetitions Per100w": c["repetitions"] / w * 100,
+        "Coherent Turns Per100utts": c["coherent_turns"] / u * 100,
+        "Clear Turns Per100utts": c["clear_turns"] / u * 100,
+        "Grammar Mistakes Per100utts": c["grammar_mistakes"] / u * 100,
     }
 
+# Extract all features
 def extract_features(file: Path) -> Dict[str, int | float | str]:
     utts = child_utts(file)
     counts = pragmatic_counts(utts)
@@ -78,38 +85,44 @@ def extract_features(file: Path) -> Dict[str, int | float | str]:
         **densities(counts),
     }
 
+# Process CHA files
 data = [extract_features(f) for f in cha_files]
 df = pd.DataFrame(data)
 out_csv = features_folder / "Features_Extracted.csv"
 df.to_csv(out_csv, index=False)
-print(f"\n Features saved to: {out_csv}\n")
+print(f"\n✅ Features saved to: {out_csv}\n")
 
+# Feature list for clustering and correlation
 features = [
-    "filled_pauses_per100w",
-    "repetitions_per100w",
-    "coherent_turns_per100utts",
-    "clear_turns_per100utts",
-    "grammar_mistakes_per100utts"
+    "Filled Pauses Per100w",
+    "Repetitions Per100w",
+    "Coherent Turns Per100utts",
+    "Clear Turns Per100utts",
+    "Grammar Mistakes Per100utts"
 ]
 
+# Clustering
 df_clustering = df.dropna(subset=features).copy()
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(df_clustering[features])
 agg_cluster = AgglomerativeClustering(n_clusters=2)
 df_clustering["cluster"] = agg_cluster.fit_predict(X_scaled)
 sil_score = silhouette_score(X_scaled, df_clustering["cluster"])
-print(f" Silhouette Score (using validated features): {sil_score:.2f}")
+print(f"✅ Silhouette Score (using validated features): {sil_score:.2f}")
 
+# Dendrogram
 linkage_matrix = linkage(X_scaled, method="ward")
 plt.figure(figsize=(10, 6))
 dendrogram(linkage_matrix, labels=df_clustering["file"].values, leaf_rotation=90)
-plt.title("Dendrogram - Agglomerative Clustering")
+plt.title("Dendrogram - Agglomerative Clustering",fontsize=20, fontweight='bold')
 plt.xlabel("Transcript File")
 plt.ylabel("Distance")
+plt.grid(False)
 plt.tight_layout()
 plt.show()
 
-ml_features_path = BASE_DIR / "Features Results" / "Features_Extracted.csv"
+# LLM ADHD scores
+ml_features_path = features_folder / "Features_Extracted.csv"
 llm_folder = BASE_DIR / "LLM Result"
 llm_percentages_path = BASE_DIR / "LLM ADHD%" / "llm_adhd_percentages.csv"
 llm_percentages_path.parent.mkdir(parents=True, exist_ok=True)
@@ -142,16 +155,14 @@ llm_df = pd.DataFrame(llm_results)
 print("\nExtracted ADHD % from LLM outputs:")
 print(llm_df.head())
 llm_df.to_csv(llm_percentages_path, index=False)
-print(f" Saved LLM summary to: {llm_percentages_path}")
+print(f"Saved LLM summary to: {llm_percentages_path}")
 
+# Merge LLM with ML features
 ml_df = pd.read_csv(ml_features_path)
 merged_df = pd.merge(ml_df, llm_df, on="file")
 
-features_to_test = [
-    "filled_pauses_per100w",
-    "repetitions_per100w",
-    "coherent_turns_per100utts"
-]
+# 🔄 Correlation for all five features
+features_to_test = features  # Use all features
 
 correlation_results = []
 for feature in features_to_test:
@@ -169,22 +180,25 @@ correlation_df = pd.DataFrame(correlation_results)
 print("\n Correlation Between LLM and ML Features:")
 print(correlation_df)
 
+# 🔍 Plot all 5 correlations
 sns.set(style="whitegrid")
-plt.figure(figsize=(15, 4))
+plt.figure(figsize=(18, 8))
 for i, feature in enumerate(features_to_test, 1):
-    plt.subplot(1, 3, i)
+    plt.subplot(2, 3, i)
     sns.regplot(data=merged_df, x=feature, y="adhd_llm_pct",
                 scatter_kws={'s': 60, 'alpha': 0.7},
                 line_kws={"color": "red", "linestyle": "--"})
     plt.title(f"{feature} vs LLM ADHD %")
     plt.xlabel(feature.replace("_", " ").title())
     plt.ylabel("LLM ADHD-like %")
+    plt.grid(False)
 
 plt.tight_layout()
-plt.suptitle("LLM vs ML Feature Comparison", fontsize=16, y=1.05)
+plt.suptitle("LLM vs ML Feature Comparison", fontsize=20, fontweight='bold', y=1.05)
 plt.show()
 
+# Save results
 correlation_out_path = BASE_DIR / "LLM ADHD%" / "llm_vs_ml_correlations.csv"
 correlation_df.to_csv(correlation_out_path, index=False)
-print(f"Correlation results saved to: {correlation_out_path}")
+print(f" Correlation results saved to: {correlation_out_path}")
 
