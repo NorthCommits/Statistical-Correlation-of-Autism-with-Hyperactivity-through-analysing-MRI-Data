@@ -1,0 +1,206 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,CHI,xxx what the phone .,NONE,unclear utterance with no context,0.0,0.0,0.0,0.0
+1,,CHI,on Mommy's knee and on Mommy's glasses .,NONE,unclear utterance with no context,0.0,0.0,0.0,0.0
+2,,MOT,Mommy's glasses .,NONE,simple statement,0.0,0.0,0.0,0.0
+3,,CHI,down !,NONE,simple exclamation,0.0,0.0,0.0,0.0
+4,,MOT,www .,NONE,unclear utterance with no context,0.0,0.0,0.0,0.0
+5,,MOT,"alright Hagrid , we're gonna build , we're gonna stack the blocks .",NONE,normal statement,0.0,0.0,0.0,0.0
+6,,CHI,oh want that .,NONE,unclear utterance with no context,0.0,0.0,0.0,0.0
+7,,MOT,I know you do .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+8,,MOT,"oh look , what are you gonna do with that .",NONE,normal question,0.0,0.0,0.0,0.0
+9,,CHI,xxx do that .,NONE,unclear utterance with no context,0.0,0.0,0.0,0.0
+10,,MOT,oh  [/] oh wait is there another one in there ?,NONE,normal question,0.0,0.0,0.0,0.0
+11,,CHI,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+12,,MOT,"oh ah very good , oh !",NONE,positive acknowledgment,0.0,0.0,0.0,0.0
+13,,CHI,oops .,NONE,simple exclamation,0.0,0.0,0.0,0.0
+14,,MOT,try again .,NONE,normal encouragement,0.0,0.0,0.0,0.0
+15,,MOT,very good .,NONE,positive acknowledgment,0.0,0.0,0.0,0.0
+16,,MOT,and that goes on top of that .,NONE,normal statement,0.0,0.0,0.0,0.0
+17,,MOT,very good .,NONE,positive acknowledgment,0.0,0.0,0.0,0.0
+18,,MOT,oh is there another one in there ?,NONE,normal question,0.0,0.0,0.0,0.0
+19,,MOT,oh &=grunts very good .,NONE,unclear utterance with no context,0.0,0.0,0.0,0.0
+20,,MOT,&=laughs oh no it fell down .,NONE,normal exclamation,0.0,0.0,0.0,0.0
+21,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+22,,CHI,it's mine .,NONE,simple statement,0.0,0.0,0.0,0.0
+23,,MOT,what about on there .,NONE,normal question,0.0,0.0,0.0,0.0
+24,,CHI,no put it in there .,NONE,directive statement,0.0,0.0,0.0,0.0
+25,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+26,,MOT,"and what about <the other>  [/] , the other block .",NONE,normal question,0.0,0.0,0.0,0.0
+27,,CHI,no that block .,NONE,directive statement,0.0,0.0,0.0,0.0
+28,,MOT,you're gonna take that one ?,NONE,normal question,0.0,0.0,0.0,0.0
+29,,MOT,oh no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+30,,CHI,it's mine !,NONE,emphatic statement,0.0,0.0,0.0,0.0
+31,,MOT,are you gonna stack (th)em ?,NONE,normal question,0.0,0.0,0.0,0.0
+32,,CHI,I'm gon(na) stack &~m and that's Rachel !,NONE,unclear utterance with no context,0.0,0.0,0.0,0.0
+33,,MOT,that's &~luca .,NONE,simple statement,0.0,0.0,0.0,0.0
+34,,MOT,okay here <we do that>  [/] we do that .,NONE,normal statement,0.0,0.0,0.0,0.0
+35,,MOT,&=gasps how (a)bout like that ?,NONE,normal exclamation,0.0,0.0,0.0,0.0
+36,,CHI,"no , <like this>  [/] like this .",NONE,directive statement,0.0,0.0,0.0,0.0
+37,,MOT,oh you wanna put it like that okay .,NONE,normal acknowledgment,0.0,0.0,0.0,0.0
+38,,MOT,"and <what about this>  [/] , what about this one , where do you wanna put that one ?",NONE,normal question,0.0,0.0,0.0,0.0
+39,,CHI,put it that one .,NONE,unclear directive,0.0,0.0,0.0,0.0
+40,,CHI,put it that way .,NONE,unclear directive,0.0,0.0,0.0,0.0
+41,,MOT,oh try again .,NONE,normal encouragement,0.0,0.0,0.0,0.0
+42,,MOT,okay what about the baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+43,,CHI,how (a)bout the baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+44,,CHI,"<that's the>  [/] , that's the way we &~k , you got this belly .",NONE,unclear utterance with no context,0.0,0.0,0.0,0.0
+45,,MOT,that's her belly ?,NONE,normal question,0.0,0.0,0.0,0.0
+46,,MOT,is she gonna have something to drink ?,NONE,normal question,0.0,0.0,0.0,0.0
+47,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+48,,MOT,she gon(na) have something to drink ?,NONE,normal question,0.0,0.0,0.0,0.0
+49,,MOT,what is it ?,NONE,normal question,0.0,0.0,0.0,0.0
+50,,MOT,is that juice ?,NONE,normal question,0.0,0.0,0.0,0.0
+51,,MOT,milk ?,NONE,normal question,0.0,0.0,0.0,0.0
+52,,CHI,yes it's milk .,NONE,simple response,0.0,0.0,0.0,0.0
+53,,MOT,it's milk .,NONE,simple statement,0.0,0.0,0.0,0.0
+54,,MOT,okay does she want some milk ?,NONE,normal question,0.0,0.0,0.0,0.0
+55,,CHI,0 .,NONE,unclear response,0.0,0.0,0.0,0.0
+56,,MOT,&=sips .,NONE,unclear action,0.0,0.0,0.0,0.0
+57,,MOT,oh thank_you Hagrid .,NONE,normal statement,0.0,0.0,0.0,0.0
+58,,CHI,it's a baby .,NONE,simple statement,0.0,0.0,0.0,0.0
+59,,MOT,it's a baby .,NONE,simple statement,0.0,0.0,0.0,0.0
+60,,CHI,it's a xxx +/.,NONE,unclear response,0.0,0.0,0.0,0.0
+61,,MOT,xxx she do dodos@g ?,NONE,unclear question,0.0,0.0,0.0,0.0
+62,,MOT,is she doing dodos@g ?,NONE,normal question,0.0,0.0,0.0,0.0
+63,,CHI,xxx go dodos@g .,NONE,unclear statement,0.0,0.0,0.0,0.0
+64,,MOT,she go dodos@g .,NONE,simple statement,0.0,0.0,0.0,0.0
+65,,MOT,oh she's gonna have some milk first &=sips ?,NONE,normal question,0.0,0.0,0.0,0.0
+66,,MOT,mm: &=sips .,NONE,unclear action,0.0,0.0,0.0,0.0
+67,,MOT,good milk .,NONE,simple statement,0.0,0.0,0.0,0.0
+68,,MOT,oh is the phone ringing ?,NONE,normal question,0.0,0.0,0.0,0.0
+69,,CHI,that's my phone .,NONE,simple statement,0.0,0.0,0.0,0.0
+70,,MOT,is there a phone ringing ?,NONE,normal question,0.0,0.0,0.0,0.0
+71,,MOT,is there anyone there ?,NONE,normal question,0.0,0.0,0.0,0.0
+72,,CHI,hello ?,NONE,simple question,0.0,0.0,0.0,0.0
+73,,CHI,he says there's some there's a phone .,NONE,simple statement,0.0,0.0,0.0,0.0
+74,,CHI,it's my phone .,NONE,simple statement,0.0,0.0,0.0,0.0
+75,,CHI,what's in there ?,NONE,normal question,0.0,0.0,0.0,0.0
+76,,CHI,there's toys in there ?,NONE,normal question,0.0,0.0,0.0,0.0
+77,,CHI,hello ?,NONE,simple question,0.0,0.0,0.0,0.0
+78,,MOT,hello ?,NONE,simple question,0.0,0.0,0.0,0.0
+79,,CHI,"it's a , it's my , it's a phone .",NONE,unclear statement,0.0,0.0,0.0,0.0
+80,,MOT,who are you talking to ?,NONE,normal question,0.0,0.0,0.0,0.0
+81,,MOT,who's on the other end of the phone ?,NONE,normal question,0.0,0.0,0.0,0.0
+82,,CHI,it's Mommy !,NONE,simple statement,0.0,0.0,0.0,0.0
+83,,MOT,is it ?,NONE,normal question,0.0,0.0,0.0,0.0
+84,,MOT,Mommy's on the other end of the phone ?,NONE,normal question,0.0,0.0,0.0,0.0
+85,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+86,,MOT,"hello , hi Hagrid !",NONE,normal statement,0.0,0.0,0.0,0.0
+87,,CHI,that's Rachel !,NONE,simple statement,0.0,0.0,0.0,0.0
+88,,MOT,it's &~luca ?,NONE,unclear statement,0.0,0.0,0.0,0.0
+89,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+90,,MOT,Rachel ?,NONE,normal question,0.0,0.0,0.0,0.0
+91,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+92,,CHI,that's Rachel !,NONE,simple statement,0.0,0.0,0.0,0.0
+93,,MOT,okay here's another baby Hagrid .,NONE,normal statement,0.0,0.0,0.0,0.0
+94,,MOT,look !,NONE,simple command,0.0,0.0,0.0,0.0
+95,,MOT,oh it's a tiny baby !,NONE,simple statement,0.0,0.0,0.0,0.0
+96,,MOT,that's a tiny baby !,NONE,simple statement,0.0,0.0,0.0,0.0
+97,,CHI,he got a hat !,NONE,simple statement,0.0,0.0,0.0,0.0
+98,,MOT,is she got ribbons in her hair !,NONE,normal question,0.0,0.0,0.0,0.0
+99,,MOT,he's got a hat !,NONE,simple statement,0.0,0.0,0.0,0.0
+100,,MOT,or she .,NONE,incomplete thought; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+101,,CHI,that's another baby .,NONE,simple statement; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+102,,MOT,it's another baby .,NONE,simple statement; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+103,,CHI,"this is a , another baby .",T25,uses incomplete sentence frequently; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+104,,MOT,"&~d , do you think this baby needs some milk ?",NONE,question about baby; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+105,,CHI,"oh  [/] , oh for &~th , oh lemme &~k milk ?",T08,frequent hesitations and unclear speech; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+106,,CHI,milk ?,NONE,simple question; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+107,,CHI,xxx .,NONE,unclear utterance; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+108,,MOT,yeah is it right there ?,NONE,simple question; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+109,,CHI,yeah no he wants some .,NONE,simple statement; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+110,,MOT,oh baby says thank_you .,NONE,simple statement; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+111,,CHI,no that one's the baby .,NONE,simple statement; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+112,,MOT,oh the bigger baby needs some milk &=sips ?,NONE,question about baby; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+113,,CHI,xxx the baby .,NONE,unclear utterance; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+114,,MOT,&=sips .,NONE,unclear utterance; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+115,,CHI,he wants the baby .,NONE,simple statement; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+116,,MOT,"here's the big  [/] , big baby and the little baby .",NONE,simple statement; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+117,,CHI,no I wanna play with it .,NONE,simple statement; clarity=0.0; uniqueness=1.00; confidence=0.00,0.0,0.0,1.0,0.0
+118,,MOT,okay .,NONE,normal conversational response,0.0,0.0,1.0,0.0
+150,,MOT,oh good milk !,NONE,normal statement,0.0,0.0,0.0,0.0
+151,,CHI,&=sips .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+152,,MOT,oh good milk !,NONE,normal statement,0.0,0.0,0.0,0.0
+153,,MOT,it's delicious !,NONE,normal statement,0.0,0.0,0.0,0.0
+154,,MOT,it's delicious !,NONE,normal statement,0.0,0.0,0.0,0.0
+155,,CHI,sorry Mom .,NONE,normal apology,0.0,0.0,0.0,0.0
+156,,CHI,xxx milk in there ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+157,,MOT,are you gonna put the milk in the plate ?,NONE,normal question,0.0,0.0,0.0,0.0
+158,,MOT,oh no we hafta do clean up !,NONE,normal statement,0.0,0.0,0.0,0.0
+159,,CHI,it's my cup .,NONE,normal statement,0.0,0.0,0.0,0.0
+160,,MOT,"it's your , oh very good Hagrid .",NONE,normal statement,0.0,0.0,0.0,0.0
+161,,CHI,oh I wanna xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+162,,MOT,are you having your milk ?,NONE,normal question,0.0,0.0,0.0,0.0
+163,,MOT,is it good milk ?,NONE,normal question,0.0,0.0,0.0,0.0
+164,,CHI,Mommy has milk .,NONE,normal statement,0.0,0.0,0.0,0.0
+165,,MOT,is it delicious ?,NONE,normal question,0.0,0.0,0.0,0.0
+166,,CHI,Mommy &~ha has some milk .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+167,,MOT,oh I'm gonna stir my tea .,NONE,normal statement,0.0,0.0,0.0,0.0
+168,,MOT,gonna stir my tea .,NONE,normal statement,0.0,0.0,0.0,0.0
+169,,MOT,is it good milk ?,NONE,normal question,0.0,0.0,0.0,0.0
+170,,CHI,where's the baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+171,,MOT,where's the baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+172,,MOT,you put the baby over there .,NONE,normal statement,0.0,0.0,0.0,0.0
+173,,MOT,"oh look I got , what's that ?",NONE,normal statement,0.0,0.0,0.0,0.0
+174,,CHI,that's a spoon .,NONE,normal statement,0.0,0.0,0.0,0.0
+175,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+176,,MOT,you gonna stir your tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+177,,MOT,mm: it's delicious !,NONE,normal statement,0.0,0.0,0.0,0.0
+178,,CHI,I'm stirring my cheerios .,NONE,normal statement,0.0,0.0,0.0,0.0
+179,,MOT,oh you're stirring your cheerios .,NONE,normal statement,0.0,0.0,0.0,0.0
+180,,MOT,okay oh it's delicious !,NONE,normal statement,0.0,0.0,0.0,0.0
+181,,CHI,that's &~luca .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+182,,MOT,that's Rachel !,NONE,normal statement,0.0,0.0,0.0,0.0
+183,,MOT,mm:  [/] mm:  [/] mm: those are good cheerios ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+184,,CHI,mm:  [/] mm: good !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+185,,CHI,mm:  [/] mm:  [/] mm:  [/] mm: .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+186,,MOT,<was it>  [/] <was it>  [/] was it shreddies@g ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+187,,MOT,or was it porridge ?,NONE,normal question,0.0,0.0,0.0,0.0
+188,,CHI,it's porridge ?,NONE,normal statement,0.0,0.0,0.0,0.0
+189,,MOT,it's porridge ?,NONE,normal statement,0.0,0.0,0.0,0.0
+190,,MOT,oh does the baby need some milk Hagrid ?,NONE,normal question,0.0,0.0,0.0,0.0
+191,,MOT,does the baby need some milk ?,NONE,normal question,0.0,0.0,0.0,0.0
+192,,MOT,oh you're giving the baby cheerios !,NONE,normal statement,0.0,0.0,0.0,0.0
+193,,MOT,oh and you're eating the cheerios !,NONE,normal statement,0.0,0.0,0.0,0.0
+194,,MOT,"oh , wow , putting your cheerios in the teapot .",NONE,normal statement,0.0,0.0,0.0,0.0
+195,,CHI,"and more &~c , more &~c , more milk ?",NONE,unclear utterance,0.0,0.0,0.0,0.0
+196,,MOT,you're putting the milk in the teacup ?,NONE,normal question,0.0,0.0,0.0,0.0
+197,,MOT,it's delicious !,NONE,normal statement,0.0,0.0,0.0,0.0
+198,,CHI,mm: .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+199,,MOT,mm: good .,NONE,normal statement,0.0,0.0,0.0,0.0
+200,,CHI,how (a)bout that cup !,NONE,simple statement about the cup,0.0,0.0,0.0,0.0
+201,,CHI,that's my cup !,NONE,simple statement about ownership,0.0,0.0,0.0,0.0
+202,,MOT,that's your cup ?,NONE,normal question,0.0,0.0,0.0,0.0
+203,,CHI,what's in your cup Hagrid ?,T23,asks multiple questions rapidly about the cup; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+204,,CHI,hm: it's milk in there .,NONE,simple statement about the contents of the cup,0.0,0.0,0.0,0.0
+205,,MOT,there's milk in the cup .,NONE,simple statement about the contents of the cup,0.0,0.0,0.0,0.0
+206,,CHI,no its nothing there Hagrid .,T05,responds impulsively before the question is completed; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+207,,MOT,there's nothing there ?,NONE,normal question,0.0,0.0,0.0,0.0
+208,,MOT,there's nothing there ?,NONE,normal question,0.0,0.0,0.0,0.0
+209,,MOT,"<where's the>  [/] , where's the little baby Hagrid ?",NONE,normal question,0.0,0.0,0.0,0.0
+210,,CHI,oh  [/] oh where the baby where the &~bay .,T06,"struggles to wait for conversational turn, speaking over others; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+211,,MOT,oh there's the little baby .,NONE,simple statement about the baby,0.0,0.0,0.0,0.0
+212,,CHI,here Mom .,NONE,simple statement to mother,0.0,0.0,0.0,0.0
+213,,MOT,oh well thank_you Hagrid .,NONE,simple statement of gratitude,0.0,0.0,0.0,0.0
+214,,MOT,we'll put the little baby next to the big sister .,NONE,simple statement about the baby,0.0,0.0,0.0,0.0
+215,,MOT,that's the big sister that's the little baby .,NONE,simple statement about the baby,0.0,0.0,0.0,0.0
+216,,CHI,<it's belly>  [/] it's belly .,NONE,simple statement about the belly,0.0,0.0,0.0,0.0
+217,,MOT,that's her belly .,NONE,simple statement about the belly,0.0,0.0,0.0,0.0
+218,,MOT,yeah that's her belly .,NONE,simple statement about the belly,0.0,0.0,0.0,0.0
+219,,CHI,this is jammies@g .,T09,"repeats phrase ""jammies"" in a non-contextual manner; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+220,,MOT,oh she's in her jammies@g ?,NONE,normal question,0.0,0.0,0.0,0.0
+221,,MOT,is she going dodos@g ?,NONE,normal question,0.0,0.0,0.0,0.0
+222,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+223,,MOT,is she going dodos@g ?,NONE,normal question,0.0,0.0,0.0,0.0
+224,,CHI,is  [/] is tummy .,T25,uses incomplete sentence frequently; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+225,,MOT,that's her tummy .,NONE,simple statement about the tummy,0.0,0.0,0.0,0.0
+226,,MOT,&=grunts &~sh &=grunts &~sh .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+227,,CHI,&~i &~ah I'll touch it .,T33,makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+228,,MOT,&=grunts &~sh .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+229,,CHI,this belly .,NONE,simple statement about the belly,0.0,0.0,0.0,0.0
+230,,MOT,that's her belly .,NONE,simple statement about the belly,0.0,0.0,0.0,0.0
+231,,CHI,xxx broke .,NONE,"unclear statement, lacks context",0.0,0.0,0.0,0.0
+232,,MOT,I think she hasta go dodos@g .,NONE,simple statement about the baby,0.0,0.0,0.0,0.0
+233,,MOT,she hasta go dodos@g .,NONE,simple statement about the baby,0.0,0.0,0.0,0.0
+234,,MOT,quiet .,NONE,simple command,0.0,0.0,0.0,0.0
+235,,CHI,xxx no he's not sleeping now .,T12,shows,0.0,0.0,0.0,0.0

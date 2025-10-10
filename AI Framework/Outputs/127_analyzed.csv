@@ -1,0 +1,165 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,MOT,where do you wanna put that ?,NONE,normal question,0.0,0.0,0.0,0.0
+1,,CHI,&~e .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+2,,MOT,wanna make a tower ?,NONE,normal question,0.0,0.0,0.0,0.0
+3,,MOT,&~w where are you gonna put that one ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+4,,MOT,ah !,NONE,"exclamation, no context",0.0,0.0,0.0,0.0
+5,,MOT,good_job !,NONE,positive reinforcement,0.0,0.0,0.0,0.0
+6,,MOT,here you put this one &~ch wherever you want .,NONE,normal instruction,0.0,0.0,0.0,0.0
+7,,MOT,cool .,NONE,simple response,0.0,0.0,0.0,0.0
+8,,CHI,but these are the big .,NONE,incomplete thought,0.0,0.0,0.0,0.0
+9,,MOT,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+10,,CHI,but these are the baby's  [/] baby's plates .,NONE,incomplete thought,0.0,0.0,0.0,0.0
+11,,MOT,yes they are .,NONE,affirmation,0.0,0.0,0.0,0.0
+12,,MOT,and spoons .,NONE,additional information,0.0,0.0,0.0,0.0
+13,,CHI,but that's a fork .,NONE,clarification,0.0,0.0,0.0,0.0
+14,,MOT,that's a fork ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+15,,CHI,ye(a)h .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+16,,MOT,that's a spoon honey .,NONE,clarification,0.0,0.0,0.0,0.0
+17,,CHI,that's a fork !,NONE,assertion,0.0,0.0,0.0,0.0
+18,,MOT,&=grunts .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+19,,CHI,for a girl .,NONE,simple statement,0.0,0.0,0.0,0.0
+20,,MOT,for a girl ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+21,,MOT,what are we drinking ?,NONE,inquiry,0.0,0.0,0.0,0.0
+22,,CHI,&~m tea .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+23,,MOT,"tea , can I have some tea ?",NONE,request,0.0,0.0,0.0,0.0
+24,,CHI,ye(a)h .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+25,,MOT,won't we have cups ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+26,,CHI,oh !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+27,,CHI,this is the best for my girl .,NONE,statement,0.0,0.0,0.0,0.0
+28,,CHI,deserbash@c .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+29,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+30,,CHI,&~psh .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+31,,MOT,&=gasps thank_you .,NONE,expression of gratitude,0.0,0.0,0.0,0.0
+32,,MOT,are you gonna drink with me ?,NONE,inquiry,0.0,0.0,0.0,0.0
+33,,CHI,in minute but not right now .,NONE,statement,0.0,0.0,0.0,0.0
+34,,MOT,but not right yet .,NONE,clarification,0.0,0.0,0.0,0.0
+35,,CHI,&~sh &=sips .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+36,,MOT,mm: yummy .,NONE,expression of enjoyment,0.0,0.0,0.0,0.0
+37,,CHI,xxx go get go  [/] go wash it at the sink (o)kay .,T04,child abruptly changes topic to washing; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+38,,MOT,you're gonna wash it at the sink ?,NONE,inquiry,0.0,0.0,0.0,0.0
+39,,CHI,ye(a)h .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+40,,MOT,(o)kay we'll do that later .,NONE,statement,0.0,0.0,0.0,0.0
+41,,MOT,what's this ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+42,,MOT,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+43,,CHI,that's mine .,NONE,assertion,0.0,0.0,0.0,0.0
+44,,MOT,that's yours ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+45,,MOT,you were calling Daddy earlier .,NONE,statement,0.0,0.0,0.0,0.0
+46,,CHI,mine .,NONE,simple assertion,0.0,0.0,0.0,0.0
+47,,MOT,ye(a)h ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+48,,MOT,what's on there ?,NONE,inquiry,0.0,0.0,0.0,0.0
+49,,CHI,horse .,NONE,simple statement,0.0,0.0,0.0,0.0
+50,,MOT,&~s a horse .,NONE,unclear utterance with no discernible meaning,0.0,0.0,0.0,0.0
+51,,CHI,I useta call it .,NONE,unclear utterance with no discernible meaning,0.0,0.0,0.0,0.0
+52,,MOT,mhm .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+53,,CHI,&-uh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+54,,CHI,I wanna show +...,T01,"child expresses eagerness to show something, indicating a desire to dominate the conversation; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+55,,MOT,here why don't you stay here buddy ?,NONE,simple suggestion from mother,0.0,0.0,0.0,0.0
+56,,MOT,we're gonna play with the toys .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+57,,CHI,"but  [/] , but my toys are under , that .",T12,"child shows difficulty maintaining focus, indicating distraction; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+58,,MOT,ye(a)h we're gonna play with these ones .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+59,,MOT,Heidi brought all these toys for us to play with .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+60,,MOT,&~s that look like fun ?,NONE,unclear utterance with no discernible meaning,0.0,0.0,0.0,0.0
+61,,CHI,and she brought her &~t her &~tephone .,T09,"child repeats a phrase, indicating echolalia; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+62,,MOT,that's right she brought her telephone .,NONE,straightforward acknowledgment,0.0,0.0,0.0,0.0
+63,,MOT,it's a different telephone isn't it ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+64,,CHI,ye(a)h .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+65,,MOT,ye(a)h .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+66,,CHI,red and black .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+67,,MOT,red and black .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+68,,MOT,&=sneezes (e)xcuse me .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+69,,MOT,do you think the baby's thirsty ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+70,,MOT,you think baby's thirsty honey ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+71,,CHI,what's that ?,NONE,normal conversational response,0.85,0.75,1.0,0.0
+72,,MOT,it's like a little hat .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+73,,MOT,there .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+74,,MOT,right .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+75,,MOT,got a little hat .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+76,,MOT,you gonna put the baby in the blanket ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+77,,CHI,where ?,NONE,normal conversational response,0.85,0.75,1.0,0.0
+78,,MOT,well in this one .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+79,,CHI,no !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+80,,MOT,no !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+81,,CHI,they were upstairs .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+82,,MOT,&~oop .,NONE,unclear utterance with no discernible meaning,0.0,0.0,0.0,0.0
+83,,CHI,&=laughs .,T27,"child laughs inappropriately mid-sentence, indicating rapid laughter; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+84,,CHI,I wanna go get my blankie .,T19,"child expresses immediate desire to get something, indicating reward-seeking urgency; clarity=0.75; uniqueness=1.00",0.0,0.75,1.0,0.0
+100,,CHI,that's a boy and that's a girl .,NONE,simple statement,0.0,0.0,0.0,0.0
+101,,MOT,oh ye(a)h ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+102,,MOT,they brother and sister ?,NONE,normal question,0.0,0.0,0.0,0.0
+103,,CHI,that's a boy and that's a girl .,NONE,repetition of previous statement,0.0,0.0,0.0,0.0
+104,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+105,,CHI,Mommy .,NONE,simple call,0.0,0.0,0.0,0.0
+106,,MOT,yup .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+107,,CHI,I want show something .,T05,child expresses desire to show something impulsively; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+108,,MOT,what do you wanna show ?,NONE,normal question,0.0,0.0,0.0,0.0
+109,,CHI,&-um .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+110,,CHI,&-um .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+111,,CHI,&-uh Mommy .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+112,,MOT,ya ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+113,,CHI,I going get my blankie@g .,T05,child expresses intention to get something before the thought is complete; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+114,,MOT,Kaylee why don't you stay here honey .,NONE,normal suggestion,0.0,0.0,0.0,0.0
+115,,CHI,but I'm going get xxx .,T05,child responds impulsively about getting something; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+116,,MOT,Kaylee .,NONE,simple call,0.0,0.0,0.0,0.0
+117,,CHI,xxx these .,NONE,unclear statement,0.0,0.0,0.0,0.0
+118,,MOT,ya you do ?,NONE,simple question,0.0,0.0,0.0,0.0
+119,,CHI,these are my babies .,NONE,simple statement,0.0,0.0,0.0,0.0
+120,,MOT,uhhuh .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+121,,CHI,I &~gon put it on her .,NONE,unclear statement,0.0,0.0,0.0,0.0
+122,,CHI,a big one !,NONE,simple statement,0.0,0.0,0.0,0.0
+123,,MOT,mhm big orange one .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+124,,CHI,I had that one before .,NONE,simple statement,0.0,0.0,0.0,0.0
+125,,MOT,uhhuh ?,NONE,simple question,0.0,0.0,0.0,0.0
+126,,CHI,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+127,,CHI,&~oo !,NONE,unclear exclamation,0.0,0.0,0.0,0.0
+128,,MOT,there .,NONE,simple statement,0.0,0.0,0.0,0.0
+129,,MOT,are they all nice and warm now ?,NONE,normal question,0.0,0.0,0.0,0.0
+130,,CHI,ye(a)h .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+131,,MOT,what do you think of this one ?,NONE,normal question,0.0,0.0,0.0,0.0
+132,,CHI,I have blocks too .,T05,child responds impulsively about having blocks; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+133,,MOT,yes you do have blocks .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+134,,MOT,whoa !,NONE,simple exclamation,0.0,0.0,0.0,0.0
+135,,MOT,Mommy's tower's gonna fall down .,NONE,simple statement,0.0,0.0,0.0,0.0
+136,,MOT,wanna put one on ?,NONE,normal question,0.0,0.0,0.0,0.0
+137,,MOT,wow !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+138,,MOT,good_job !,NONE,simple praise,0.0,0.0,0.0,0.0
+139,,MOT,do you think a plate will fit on it ?,NONE,normal question,0.0,0.0,0.0,0.0
+140,,CHI,ye(a)h .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+141,,MOT,&~wo .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+142,,MOT,&=gasps whoa !,NONE,unclear exclamation,0.0,0.0,0.0,0.0
+143,,MOT,whoa !,NONE,simple exclamation,0.0,0.0,0.0,0.0
+144,,CHI,&=squeals .,T07,child makes vocal noise indicating excitement; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+150,,CHI,&-uh I wanna build <and this>  [/] and this and +/.,T08,child shows frequent hesitations and filler sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+151,,MOT,ye(a)h .,NONE,normal response,0.0,0.0,0.0,0.0
+152,,CHI,"+, maybe .",NONE,simple response,0.0,0.0,0.0,0.0
+153,,MOT,and that one .,NONE,normal response,0.0,0.0,0.0,0.0
+154,,CHI,"and then , that .",NONE,simple response,0.0,0.0,0.0,0.0
+155,,CHI,&=gasps oh .,NONE,normal conversational response,0.85,0.75,1.0,0.0
+156,,MOT,uhoh .,NONE,normal response,0.0,0.0,0.0,0.0
+157,,MOT,it's a little hard on  [/] on the blanket isn't it ?,NONE,normal question,0.0,0.0,0.0,0.0
+158,,MOT,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+159,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+160,,MOT,like that .,NONE,simple response,0.0,0.0,0.0,0.0
+161,,CHI,xxx this .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+162,,MOT,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+163,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+164,,MOT,what are those ?,NONE,normal question,0.0,0.0,0.0,0.0
+165,,CHI,they're like popsicles .,NONE,simple response,0.0,0.0,0.0,0.0
+166,,MOT,they're like popsicles ?,NONE,simple response,0.0,0.0,0.0,0.0
+167,,CHI,I needta put this on the chair .,T12,child shows difficulty sustaining focus with a shift in topic; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+168,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+169,,CHI,&~m &~m .,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+170,,MOT,mhm .,NONE,normal response,0.0,0.0,0.0,0.0
+171,,CHI,oops .,NONE,simple response,0.0,0.0,0.0,0.0
+172,,MOT,oops .,NONE,simple response,0.0,0.0,0.0,0.0
+173,,CHI,&~o &~ops .,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+174,,CHI,where's the other one for &~the .,T12,child shows difficulty sustaining focus with a shift in topic; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+175,,MOT,that's all there is .,NONE,normal response,0.0,0.0,0.0,0.0
+176,,MOT,"you can use , other things if you wanna .",NONE,normal suggestion,0.0,0.0,0.0,0.0
+177,,MOT,you can use the telephone too .,NONE,normal suggestion,0.0,0.0,0.0,0.0
+178,,CHI,ah !,T07,child exhibits vocal restlessness with an exclamation; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+179,,MOT,uhoh !,NONE,normal response,0.0,0.0,0.0,0.0
+180,,CHI,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+181,,CHI,&~u they hafta be like this .,T12,child shows difficulty sustaining focus with a shift in topic; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+182,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+183,,MOT,&=gasps time to clean up .,NONE,normal statement,0.0,0.0,0.0,0.0

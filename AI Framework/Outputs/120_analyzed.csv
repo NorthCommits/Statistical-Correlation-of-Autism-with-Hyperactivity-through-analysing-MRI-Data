@@ -1,0 +1,174 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,CHI,beep@o  [/] beep@o .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+1,,FAT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+2,,FAT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+3,,FAT,hey .,NONE,simple greeting,0.0,0.0,0.0,0.0
+4,,FAT,"look  [/] , look at the car .",NONE,simple directive,0.0,0.0,0.0,0.0
+5,,FAT,what color ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+6,,FAT,hm: ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+7,,CHI,&~ah xxx .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+8,,FAT,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+9,,FAT,"wow , yeah .",NONE,simple affirmation,0.0,0.0,0.0,0.0
+10,,CHI,&~sh .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+11,,FAT,what are you doing ?,NONE,simple question,0.0,0.0,0.0,0.0
+12,,FAT,you wanna make a tower ?,NONE,simple question,0.0,0.0,0.0,0.0
+13,,FAT,&=gasps ah wow good boy .,NONE,simple statement with laughter,0.0,0.0,0.0,0.0
+14,,FAT,that's a tower &=laughs wow .,NONE,simple statement with laughter,0.0,0.0,0.0,0.0
+15,,FAT,&=laughs &~y wanna do it again ?,NONE,simple question with laughter,0.0,0.0,0.0,0.0
+16,,FAT,hey &~y wanna do it again ?,NONE,simple question,0.0,0.0,0.0,0.0
+17,,FAT,make another tower .,NONE,simple directive,0.0,0.0,0.0,0.0
+18,,FAT,come on .,NONE,simple directive,0.0,0.0,0.0,0.0
+19,,FAT,start .,NONE,simple directive,0.0,0.0,0.0,0.0
+20,,FAT,go .,NONE,simple directive,0.0,0.0,0.0,0.0
+21,,FAT,"yeah , continue .",NONE,simple directive,0.0,0.0,0.0,0.0
+22,,CHI,one .,NONE,simple count,0.0,0.0,0.0,0.0
+23,,CHI,two .,NONE,simple count,0.0,0.0,0.0,0.0
+24,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+25,,FAT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+26,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+27,,FAT,what color is this ?,NONE,simple question,0.0,0.0,0.0,0.0
+28,,CHI,"one two three , no .",NONE,simple count and negation,0.0,0.0,0.0,0.0
+29,,FAT,"okay , no ?",NONE,simple question,0.0,0.0,0.0,0.0
+30,,CHI,one two three .,NONE,simple count,0.0,0.0,0.0,0.0
+31,,CHI,one two three no .,NONE,simple count and negation,0.0,0.0,0.0,0.0
+32,,FAT,that's a tall tower .,NONE,simple statement,0.0,0.0,0.0,0.0
+33,,CHI,"one two three , four .",NONE,simple count,0.0,0.0,0.0,0.0
+34,,FAT,&=laughs <count them all>  [/] count them all .,NONE,simple directive with laughter,0.0,0.0,0.0,0.0
+35,,CHI,one two three four .,NONE,simple count,0.0,0.0,0.0,0.0
+36,,FAT,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+37,,CHI,one !,NONE,simple count,0.0,0.0,0.0,0.0
+38,,FAT,"(o)kay , uhoh !",NONE,simple affirmation,0.0,0.0,0.0,0.0
+39,,FAT,big mess .,NONE,simple statement,0.0,0.0,0.0,0.0
+40,,FAT,big mess .,NONE,simple statement,0.0,0.0,0.0,0.0
+41,,FAT,clean up .,NONE,simple directive,0.0,0.0,0.0,0.0
+42,,CHI,big mess .,NONE,simple statement,0.0,0.0,0.0,0.0
+43,,FAT,big mess .,NONE,simple statement,0.0,0.0,0.0,0.0
+44,,FAT,"put (th)em all xxx , put (th)em all on top .",NONE,simple directive,0.0,0.0,0.0,0.0
+45,,FAT,be careful .,NONE,simple directive,0.0,0.0,0.0,0.0
+46,,FAT,yeah continue .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+47,,CHI,one two three .,NONE,simple count,0.0,0.0,0.0,0.0
+48,,FAT,now .,NONE,simple directive,0.0,0.0,0.0,0.0
+49,,CHI,now .,NONE,simple directive,0.0,0.0,0.0,0.0
+50,,FAT,continue .,NONE,simple directive,0.0,0.0,0.0,0.0
+51,,CHI,five four .,NONE,simple response,0.0,0.0,0.0,0.0
+52,,FAT,oh no !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+53,,FAT,oh no !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+54,,FAT,"there's one over there Bryan , get it good boy .",NONE,directive with encouragement,0.0,0.0,0.0,0.0
+55,,FAT,"okay , yeah continue .",NONE,simple directive,0.0,0.0,0.0,0.0
+56,,FAT,uhoh be careful .,NONE,expression of concern,0.0,0.0,0.0,0.0
+57,,CHI,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+58,,FAT,be careful &=gasps wow .,NONE,expression of surprise,0.0,0.0,0.0,0.0
+59,,CHI,ah .,NONE,simple expression,0.0,0.0,0.0,0.0
+60,,FAT,wow &=gasps oh <oh no>  [/] oh no where did it go ?,NONE,normal conversational behavior,0.85,0.75,1.0,0.0
+61,,FAT,where did it go sweetie ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+62,,FAT,what's this ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+63,,CHI,telephone .,NONE,simple response,0.0,0.0,0.0,0.0
+64,,FAT,"a telephone , good boy .",NONE,praise,0.0,0.0,0.0,0.0
+65,,FAT,call Mommy .,NONE,directive,0.0,0.0,0.0,0.0
+66,,FAT,say Mommy come home .,NONE,directive,0.0,0.0,0.0,0.0
+67,,FAT,call Mommy .,NONE,directive,0.0,0.0,0.0,0.0
+68,,CHI,hello .,NONE,simple response,0.0,0.0,0.0,0.0
+69,,FAT,what color is the telephone ?,NONE,inquiry,0.0,0.0,0.0,0.0
+70,,FAT,what color is the telephone ?,NONE,repetition of inquiry,0.0,0.0,0.0,0.0
+71,,CHI,okay bye .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+72,,FAT,okay bye ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+73,,FAT,say hello Mommy .,NONE,directive,0.0,0.0,0.0,0.0
+74,,FAT,who's that on the telephone ?,NONE,inquiry,0.0,0.0,0.0,0.0
+75,,FAT,who's that ?,NONE,inquiry,0.0,0.0,0.0,0.0
+76,,CHI,hi !,NONE,simple greeting,0.0,0.0,0.0,0.0
+77,,FAT,say hello .,NONE,directive,0.0,0.0,0.0,0.0
+78,,FAT,hi Bryan .,NONE,greeting,0.0,0.0,0.0,0.0
+79,,CHI,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+80,,FAT,your turn .,NONE,directive,0.0,0.0,0.0,0.0
+81,,CHI,hi .,NONE,simple greeting,0.0,0.0,0.0,0.0
+82,,CHI,xxx was broke xxx .,NONE,unclear statement,0.0,0.0,0.0,0.0
+83,,FAT,yeah ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+84,,FAT,telephone .,NONE,simple response,0.0,0.0,0.0,0.0
+85,,FAT,say hello Mommy .,NONE,directive,0.0,0.0,0.0,0.0
+86,,CHI,hello Mommy .,NONE,simple response,0.0,0.0,0.0,0.0
+87,,CHI,(o)kay .,NONE,simple response,0.0,0.0,0.0,0.0
+88,,FAT,wanna put it back in ?,NONE,inquiry,0.0,0.0,0.0,0.0
+89,,FAT,what do you wanna play with ?,NONE,inquiry,0.0,0.0,0.0,0.0
+90,,FAT,who's this ?,NONE,inquiry,0.0,0.0,0.0,0.0
+91,,CHI,baby .,NONE,simple response,0.0,0.0,0.0,0.0
+92,,FAT,baby ?,NONE,inquiry,0.0,0.0,0.0,0.0
+93,,FAT,give the baby a kiss .,NONE,directive,0.0,0.0,0.0,0.0
+94,,FAT,wanna give the baby a kiss ?,NONE,inquiry,0.0,0.0,0.0,0.0
+95,,CHI,go wash baby .,NONE,directive,0.0,0.0,0.0,0.0
+96,,FAT,wash baby ?,NONE,inquiry,0.0,0.0,0.0,0.0
+97,,CHI,&~da wash &~bay .,NONE,unclear statement,0.0,0.0,0.0,0.0
+98,,CHI,you &~ca &~ing milk baby .,NONE,unclear statement,0.0,0.0,0.0,0.0
+99,,CHI,baby .,NONE,simple response,0.0,0.0,0.0,0.0
+100,,FAT,yeah what's this ?,NONE,normal question,0.0,0.0,0.0,0.0
+101,,CHI,milk .,NONE,simple response,0.0,0.0,0.0,0.0
+102,,FAT,what's this ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+103,,CHI,baby milk .,NONE,simple response,0.0,0.0,0.0,0.0
+104,,FAT,yeah ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+105,,FAT,give the baby some milk .,NONE,directive statement,0.0,0.0,0.0,0.0
+106,,FAT,"no you  [/] , you do it .",NONE,directive statement,0.0,0.0,0.0,0.0
+107,,FAT,like this .,NONE,explanatory statement,0.0,0.0,0.0,0.0
+108,,FAT,see .,NONE,demonstrative statement,0.0,0.0,0.0,0.0
+109,,FAT,&=sips okay ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+110,,FAT,baby's do dodo@s:fra .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+111,,FAT,is baby doing dodo@s:fra ?,NONE,normal question,0.0,0.0,0.0,0.0
+112,,CHI,&=whistles .,NONE,vocalization,0.0,0.0,0.0,0.0
+113,,FAT,okay yeah good boy .,NONE,positive reinforcement,0.0,0.0,0.0,0.0
+114,,FAT,wow  [/] wow .,NONE,expression of surprise,0.0,0.0,0.0,0.0
+115,,FAT,who's this ?,NONE,normal question,0.0,0.0,0.0,0.0
+116,,CHI,da  [: the] wash baby .,NONE,simple response,0.0,0.0,0.0,0.0
+117,,FAT,yeah baby  [/] baby  [/] baby .,NONE,repetitive statement,0.0,0.0,0.0,0.0
+118,,CHI,baby .,NONE,simple response,0.0,0.0,0.0,0.0
+119,,FAT,put the baby &~d .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+120,,FAT,xxx be nice &=laughs .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+121,,FAT,ah wow .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+122,,FAT,<give the baby a kiss>  [/] give the baby a kiss .,NONE,directive statement,0.0,0.0,0.0,0.0
+123,,CHI,0 .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+124,,FAT,dodo@s:fra .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+125,,FAT,baby's doing dodo@s:fra .,NONE,normal statement,0.0,0.0,0.0,0.0
+126,,FAT,is baby doing dodo@s:fra ?,NONE,normal question,0.0,0.0,0.0,0.0
+127,,FAT,what's this ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+128,,FAT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+129,,FAT,baby drinking milkie ?,NONE,normal question,0.0,0.0,0.0,0.0
+130,,FAT,milkie ?,NONE,normal question,0.0,0.0,0.0,0.0
+131,,FAT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+132,,FAT,a brush ?,NONE,normal question,0.0,0.0,0.0,0.0
+133,,FAT,wanna comb baby's hair ?,NONE,normal question,0.0,0.0,0.0,0.0
+134,,FAT,thank_you .,NONE,expression of gratitude,0.0,0.0,0.0,0.0
+135,,FAT,what's this ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+136,,FAT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+137,,FAT,hm: ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+138,,FAT,"you wanna drink some , you wanna drink some milk ?",NONE,normal question,0.0,0.0,0.0,0.0
+139,,FAT,wanna do your tower again ?,NONE,normal question,0.0,0.0,0.0,0.0
+140,,FAT,okay do your tower .,NONE,directive statement,0.0,0.0,0.0,0.0
+141,,FAT,continue .,NONE,directive statement,0.0,0.0,0.0,0.0
+142,,FAT,two .,NONE,numerical statement,0.0,0.0,0.0,0.0
+143,,CHI,xxx more .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+144,,FAT,more ?,NONE,normal question,0.0,0.0,0.0,0.0
+145,,FAT,"uhoh , fix it .",NONE,directive statement,0.0,0.0,0.0,0.0
+146,,FAT,wow  [/] wow .,NONE,expression of surprise,0.0,0.0,0.0,0.0
+147,,CHI,&=engine .,NONE,vocalization,0.0,0.0,0.0,0.0
+148,,FAT,"wow , how many are there ?",NONE,normal question,0.0,0.0,0.0,0.0
+149,,FAT,&~nai does it fit ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+150,,CHI,oh &~choo .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+151,,FAT,yeah  [/] yeah .,NONE,normal repetition,0.0,0.0,0.0,0.0
+152,,CHI,&=coughs &=coughs .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+153,,FAT,"does it fit all , does it fit ?",NONE,normal question,0.0,0.0,0.0,0.0
+154,,FAT,you can't put (th)em all in there .,NONE,normal statement,0.0,0.0,0.0,0.0
+155,,FAT,wow yeah big truck  [/] truck .,NONE,normal statement,0.0,0.0,0.0,0.0
+156,,FAT,it all comes out ye(a)h .,NONE,normal statement,0.0,0.0,0.0,0.0
+157,,CHI,&=engine bouge@s:fra  [/] bouge@s:fra monster truck .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+158,,FAT,a monster truck ?,NONE,normal question,0.0,0.0,0.0,0.0
+159,,FAT,you think ?,NONE,normal question,0.0,0.0,0.0,0.0
+160,,FAT,is that what that is ?,NONE,normal question,0.0,0.0,0.0,0.0
+161,,FAT,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+162,,FAT,what's this ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+163,,FAT,Bryan what's this ?,NONE,normal question,0.0,0.0,0.0,0.0
+164,,FAT,"okay , now we're gonna do clean up .",NONE,normal statement,0.0,0.0,0.0,0.0
+165,,FAT,clean up .,NONE,normal command,0.0,0.0,0.0,0.0
+166,,FAT,good boy .,NONE,normal praise,0.0,0.0,0.0,0.0
+167,,FAT,good boy everything .,NONE,normal praise,0.0,0.0,0.0,0.0
+168,,FAT,"mhm , continue .",NONE,normal prompt,0.0,0.0,0.0,0.0
+169,,FAT,continue .,NONE,normal command,0.0,0.0,0.0,0.0
+170,,FAT,"yeah , good boy .",NONE,normal affirmation,0.0,0.0,0.0,0.0
+171,,FAT,thank_you .,NONE,normal gratitude,0.0,0.0,0.0,0.0
+172,,FAT,"close , <close it>  [/] close it .",NONE,normal command,0.0,0.0,0.0,0.0

@@ -1,0 +1,256 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,MOT,what animal's on there Tracy ?,NONE,normal question,0.0,0.0,0.0,0.0
+1,,CHI,hm: horsie ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+2,,MOT,horsie ?,NONE,simple response,0.0,0.0,0.0,0.0
+3,,MOT,it's a horsie phone ?,NONE,simple response,0.0,0.0,0.0,0.0
+4,,MOT,that's pretty neat .,NONE,normal statement,0.0,0.0,0.0,0.0
+5,,MOT,can you call someone on that ?,NONE,normal question,0.0,0.0,0.0,0.0
+6,,CHI,&-uh I wanna find another thing .,T05,child responds impulsively before the question is completed; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+7,,MOT,you wanna find something else ?,NONE,normal question,0.0,0.0,0.0,0.0
+8,,MOT,let's see what we have in here .,NONE,normal statement,0.0,0.0,0.0,0.0
+9,,MOT,oh we have a baby brush .,NONE,normal statement,0.0,0.0,0.0,0.0
+10,,MOT,you wanna brush her hair ?,NONE,normal question,0.0,0.0,0.0,0.0
+11,,CHI,hm: no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+12,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+13,,MOT,&=laughs we'll leave that with her .,NONE,normal statement,0.0,0.0,0.0,0.0
+14,,MOT,baby bottle ?,NONE,normal question,0.0,0.0,0.0,0.0
+15,,MOT,do you wanna give her baby bottle ?,NONE,normal question,0.0,0.0,0.0,0.0
+16,,CHI,no !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+17,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+18,,MOT,you sure ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+19,,MOT,look it fits right in there .,NONE,normal statement,0.0,0.0,0.0,0.0
+20,,MOT,look oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+21,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+22,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+23,,MOT,okay we'll leave the baby stuff over there .,NONE,normal statement,0.0,0.0,0.0,0.0
+24,,CHI,play with this !,T05,child responds impulsively before the question is completed; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+25,,MOT,oh you wanna play with the blocks .,NONE,normal statement,0.0,0.0,0.0,0.0
+26,,MOT,alright let's take them out .,NONE,normal statement,0.0,0.0,0.0,0.0
+27,,MOT,you gonna help me take them out sweetie ?,NONE,normal question,0.0,0.0,0.0,0.0
+28,,MOT,we'll make a tower ?,NONE,normal statement,0.0,0.0,0.0,0.0
+29,,MOT,what do you wanna make with it ?,NONE,normal question,0.0,0.0,0.0,0.0
+30,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+31,,MOT,you're not sure ?,NONE,normal question,0.0,0.0,0.0,0.0
+32,,MOT,alright .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+33,,MOT,what we gonna make .,NONE,normal question,0.0,0.0,0.0,0.0
+34,,MOT,you wanna put your phone down ?,NONE,normal question,0.0,0.0,0.0,0.0
+35,,MOT,let's see we wanna make a +/.,NONE,unclear utterance,0.0,0.0,0.0,0.0
+36,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+37,,MOT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+38,,MOT,spoon !,NONE,normal statement,0.0,0.0,0.0,0.0
+39,,MOT,I guess that's to feed the baby too .,NONE,normal statement,0.0,0.0,0.0,0.0
+40,,MOT,you don't wanna play with her right ?,NONE,normal question,0.0,0.0,0.0,0.0
+41,,CHI,nah !,NONE,simple response,0.0,0.0,0.0,0.0
+42,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+43,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+44,,CHI,too babyish !,NONE,simple response,0.0,0.0,0.0,0.0
+45,,MOT,too babyish &=laughs ?,NONE,normal question,0.0,0.0,0.0,0.0
+46,,MOT,alright .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+47,,MOT,so teacups ?,NONE,normal statement,0.0,0.0,0.0,0.0
+48,,MOT,would you like to have a tea_party ?,NONE,normal question,0.0,0.0,0.0,0.0
+49,,CHI,hm: ye(a)h .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+50,,MOT,ye(a)h alright what would you prefer to do .,NONE,normal question,0.0,0.0,0.0,0.0
+51,,MOT,you wanna &~m build a tower now ?,NONE,normal question,0.0,0.0,0.0,0.0
+52,,MOT,or do you wanna have tea first ?,NONE,normal question,0.0,0.0,0.0,0.0
+53,,CHI,hm: tea .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+54,,MOT,tea first ?,NONE,normal question,0.0,0.0,0.0,0.0
+55,,MOT,okay aw at least you have a teacup .,NONE,normal statement,0.0,0.0,0.0,0.0
+56,,MOT,"the boil , you hafta make sure the tea's all ready and then I , you needta pour some in our cups for us , so that we have enough tea .",NONE,normal explanation,0.0,0.0,0.0,0.0
+57,,MOT,mm: that looks good .,NONE,normal statement,0.0,0.0,0.0,0.0
+58,,MOT,what kind of tea is it ?,NONE,normal question,0.0,0.0,0.0,0.0
+59,,CHI,hm: 0 .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+60,,MOT,you don't know &=laughs +!?,NONE,normal reaction,0.0,0.0,0.0,0.0
+61,,MOT,what kind of tea do you like ?,NONE,normal question,0.0,0.0,0.0,0.0
+62,,CHI,hm: watermelon tea .,NONE,simple response,0.0,0.0,0.0,0.0
+63,,MOT,watermelon tea +!?,NONE,normal reaction,0.0,0.0,0.0,0.0
+64,,MOT,what about what Pierre gets at bedtime ?,NONE,normal question,0.0,0.0,0.0,0.0
+65,,MOT,you like that tea .,NONE,normal statement,0.0,0.0,0.0,0.0
+66,,MOT,what does he get ?,NONE,normal question,0.0,0.0,0.0,0.0
+67,,CHI,hm: I don't get xxx .,NONE,simple response,0.0,0.0,0.0,0.0
+68,,MOT,chamomile .,NONE,normal statement,0.0,0.0,0.0,0.0
+69,,CHI,oh chamomile tea !,NONE,normal reaction,0.0,0.0,0.0,0.0
+70,,MOT,chamomile tea .,NONE,normal statement,0.0,0.0,0.0,0.0
+71,,MOT,"that's a nice tea to have with a little bit , what do you put inside of it usually ?",NONE,normal question,0.0,0.0,0.0,0.0
+72,,CHI,hm: tea .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+73,,MOT,something sweet .,NONE,normal statement,0.0,0.0,0.0,0.0
+74,,CHI,xxx tea ?,NONE,simple response,0.0,0.0,0.0,0.0
+75,,MOT,ye(a)h tea and then to make it a little sweeter what do we put inside ?,NONE,normal question,0.0,0.0,0.0,0.0
+76,,MOT,do you remember ?,NONE,normal question,0.0,0.0,0.0,0.0
+77,,CHI,no !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+78,,MOT,xxx honey ?,NONE,normal suggestion,0.0,0.0,0.0,0.0
+79,,CHI,honey and +...,NONE,simple response,0.0,0.0,0.0,0.0
+80,,MOT,"honey , ye(a)h I put a little honey in there .",NONE,normal statement,0.0,0.0,0.0,0.0
+81,,MOT,so are we gonna have our tea together ?,NONE,normal question,0.0,0.0,0.0,0.0
+82,,MOT,are you gonna make a phone+call first ?,NONE,normal question,0.0,0.0,0.0,0.0
+83,,MOT,who you gonna call ?,NONE,normal question,0.0,0.0,0.0,0.0
+84,,MOT,call Daddy ?,NONE,normal question,0.0,0.0,0.0,0.0
+85,,MOT,alright call Daddy and tell him what you're doing .,NONE,normal instruction,0.0,0.0,0.0,0.0
+86,,MOT,tell him what you're doing .,NONE,normal instruction,0.0,0.0,0.0,0.0
+87,,CHI,but I +...,NONE,simple response,0.0,0.0,0.0,0.0
+88,,CHI,it's not really a real phone .,NONE,normal reaction,0.0,0.0,0.0,0.0
+89,,MOT,it's not a real phone &=laughs ?,NONE,normal reaction,0.0,0.0,0.0,0.0
+90,,CHI,that's why .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+91,,MOT,you can pretend then .,NONE,normal suggestion,0.0,0.0,0.0,0.0
+92,,MOT,that's why <it's not>  [/] it's not super fun right now (be)cause it doesn't work .,NONE,normal explanation,0.0,0.0,0.0,0.0
+93,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+94,,MOT,you like the real thing &~eh ?,NONE,normal question,0.0,0.0,0.0,0.0
+95,,MOT,oh and are we gonna have something to eat too ?,NONE,normal question,0.0,0.0,0.0,0.0
+96,,CHI,no xxx like babies .,NONE,simple response,0.0,0.0,0.0,0.0
+97,,MOT,no look I think the cups go on there and then we can put something on there to eat .,NONE,normal statement,0.0,0.0,0.0,0.0
+98,,MOT,do you wanna make me something to eat ?,NONE,normal question,0.0,0.0,0.0,0.0
+99,,CHI,hm: I don't know what I wanna do .,NONE,simple response,0.0,0.0,0.0,0.0
+100,,MOT,you don't know what you wanna do .,NONE,normal statement,0.0,0.0,0.0,0.0
+101,,MOT,okay well that can be your saucer and this can be mine .,NONE,normal statement,0.0,0.0,0.0,0.0
+102,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+103,,MOT,alright have we finished our tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+104,,CHI,not yet .,NONE,simple response,0.0,0.0,0.0,0.0
+105,,MOT,are we still drinking it ?,NONE,normal question,0.0,0.0,0.0,0.0
+106,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+107,,MOT,let me see if it's too hot .,NONE,normal statement,0.0,0.0,0.0,0.0
+108,,MOT,&~oo it's a little hot !,NONE,normal exclamation,0.0,0.0,0.0,0.0
+109,,CHI,&=laughs .,NONE,laughter,0.0,0.0,0.0,0.0
+110,,MOT,<we should wait>  [/] we should wait .,NONE,normal statement,0.0,0.0,0.0,0.0
+111,,MOT,blow on it a bit .,NONE,normal instruction,0.0,0.0,0.0,0.0
+112,,MOT,put it here .,NONE,normal instruction,0.0,0.0,0.0,0.0
+113,,CHI,hey how about add some honey +!?,T23,child asks a question rapidly about adding honey; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+114,,MOT,oh you can add honey to mine .,NONE,normal statement,0.0,0.0,0.0,0.0
+115,,MOT,add some honey ?,NONE,normal question,0.0,0.0,0.0,0.0
+116,,CHI,hm: this is honey .,NONE,simple statement,0.0,0.0,0.0,0.0
+117,,MOT,that's honey too ?,NONE,normal question,0.0,0.0,0.0,0.0
+118,,MOT,okay put a little honey .,NONE,normal instruction,0.0,0.0,0.0,0.0
+119,,CHI,&~eh &~eh .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+120,,MOT,sweeten it .,NONE,normal instruction,0.0,0.0,0.0,0.0
+121,,MOT,there we go .,NONE,normal statement,0.0,0.0,0.0,0.0
+122,,MOT,mm: you hafta stir it up (be)cause honey usually makes it pretty sweet at the bottom .,NONE,normal statement,0.0,0.0,0.0,0.0
+123,,MOT,here the stirrers .,NONE,normal statement,0.0,0.0,0.0,0.0
+124,,MOT,I'll stir mine .,NONE,normal statement,0.0,0.0,0.0,0.0
+125,,MOT,mm: it's gonna be sweet delicious tea !,NONE,normal statement,0.0,0.0,0.0,0.0
+126,,MOT,xxx +/.,NONE,unclear utterance,0.0,0.0,0.0,0.0
+127,,CHI,all finished now .,NONE,simple statement,0.0,0.0,0.0,0.0
+128,,MOT,all finished ?,NONE,normal question,0.0,0.0,0.0,0.0
+129,,MOT,okay taste it .,NONE,normal instruction,0.0,0.0,0.0,0.0
+130,,MOT,mm: that was delicious !,NONE,normal statement,0.0,0.0,0.0,0.0
+131,,MOT,oh that is so good you drank all your tea in one gulp &=laughs !,T36,mother expresses excessive excitement about child's tea consumption; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+132,,CHI,I want some more !,T19,child expresses immediate desire for more tea; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+133,,MOT,some more ?,NONE,normal question,0.0,0.0,0.0,0.0
+134,,MOT,okay here we go .,NONE,normal statement,0.0,0.0,0.0,0.0
+135,,MOT,mm: delicious tea +/.,NONE,normal statement,0.0,0.0,0.0,0.0
+136,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+137,,MOT,"+, the same kind of tea you're making me ?",NONE,normal question,0.0,0.0,0.0,0.0
+138,,CHI,xxx ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+139,,MOT,what was it again ?,NONE,normal question,0.0,0.0,0.0,0.0
+140,,CHI,&-uh cranberry ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+141,,MOT,cranberry tea this time ?,NONE,normal question,0.0,0.0,0.0,0.0
+142,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+143,,MOT,okay that's good too .,NONE,normal statement,0.0,0.0,0.0,0.0
+144,,MOT,what a nice little teapot you have .,NONE,normal statement,0.0,0.0,0.0,0.0
+145,,MOT,you gonna call Daddy again &=laughs ?,NONE,normal question,0.0,0.0,0.0,0.0
+146,,MOT,tell him what you're doing .,NONE,normal instruction,0.0,0.0,0.0,0.0
+147,,MOT,tell him what you're doing .,NONE,normal instruction,0.0,0.0,0.0,0.0
+148,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+149,,MOT,oh hi Daddy oh hi ye(a)h .,NONE,normal greeting,0.0,0.0,0.0,0.0
+150,,MOT,ye(a)h we're having a tea_party here .,NONE,normal statement,0.0,0.0,0.0,0.0
+151,,MOT,"Tracy made me cranberry and chamomile , tea and put honey in it .",NONE,normal statement,0.0,0.0,0.0,0.0
+152,,MOT,and now we're just sipping it .,NONE,normal statement,0.0,0.0,0.0,0.0
+153,,MOT,although Tracy already drank his really quickly &=laughs .,NONE,normal statement,0.0,0.0,0.0,0.0
+154,,MOT,and I think we're gonna make a block tower next I'm not sure if he wants to .,NONE,normal statement,0.0,0.0,0.0,0.0
+155,,MOT,oh he's drinking some more tea !,NONE,normal statement,0.0,0.0,0.0,0.0
+156,,CHI,&~ah .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+157,,MOT,alright well have a nice day at work .,NONE,normal statement,0.0,0.0,0.0,0.0
+158,,CHI,&~eh .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+159,,MOT,see you later &=laughs .,NONE,normal statement,0.0,0.0,0.0,0.0
+160,,MOT,bye .,NONE,normal statement,0.0,0.0,0.0,0.0
+161,,MOT,can you say bye Daddy ?,NONE,normal request,0.0,0.0,0.0,0.0
+162,,MOT,bye .,NONE,normal statement,0.0,0.0,0.0,0.0
+163,,MOT,see you later .,NONE,normal statement,0.0,0.0,0.0,0.0
+164,,MOT,there we go .,NONE,normal statement,0.0,0.0,0.0,0.0
+165,,MOT,"alright wanna make a &~bl , a big huge tower now Tracy ?",NONE,normal question,0.0,0.0,0.0,0.0
+166,,CHI,no we're doing our tea now &~gulp .,NONE,normal statement,0.0,0.0,0.0,0.0
+167,,MOT,oh okay we're still drinking tea alright &=laughs .,NONE,normal statement,0.0,0.0,0.0,0.0
+168,,MOT,what do you wanna eat with your tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+169,,CHI,hm: I don't know .,NONE,normal response,0.0,0.0,0.0,0.0
+170,,MOT,you're not sure ?,NONE,normal question,0.0,0.0,0.0,0.0
+171,,MOT,"what did you have yesterday that you liked so much that I bought you , remember ?",NONE,normal question,0.0,0.0,0.0,0.0
+172,,MOT,remember carrot raisin something ?,NONE,normal statement,0.0,0.0,0.0,0.0
+173,,CHI,&-uh cheese stick !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+174,,MOT,"a cheese stick , you xxx a cheese stick with your tea ?",NONE,normal statement,0.0,0.0,0.0,0.0
+175,,CHI,&-uh no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+176,,MOT,no &=laughs ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+177,,CHI,I got so more tea !,NONE,unclear statement,0.0,0.0,0.0,0.0
+178,,MOT,more tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+179,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+180,,MOT,oh_my_goodness I think you know what ?,NONE,normal statement,0.0,0.0,0.0,0.0
+181,,MOT,I think you better get some more water from the kettle .,NONE,normal statement,0.0,0.0,0.0,0.0
+182,,MOT,just pretend right here &=laughs .,NONE,unclear statement,0.0,0.0,0.0,0.0
+183,,CHI,where ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+184,,MOT,"just right , pretend right here you got a kettle it's boiling .",NONE,normal statement,0.0,0.0,0.0,0.0
+185,,MOT,"and we need some more water for our teacup , <for our>  [/] for our &-uh teapot here .",NONE,normal statement,0.0,0.0,0.0,0.0
+186,,MOT,xxx fill it up .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+187,,MOT,filled it with some water .,NONE,normal statement,0.0,0.0,0.0,0.0
+188,,MOT,is it already warm ?,NONE,normal question,0.0,0.0,0.0,0.0
+189,,CHI,ye(a)h .,NONE,normal response,0.0,0.0,0.0,0.0
+190,,MOT,"ye(a)h , okay now we can pour the tea more .",NONE,normal statement,0.0,0.0,0.0,0.0
+191,,CHI,water xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+192,,MOT,ye(a)h some more in mine thank_you so much .,NONE,normal statement,0.0,0.0,0.0,0.0
+193,,MOT,thank_you .,NONE,normal statement,0.0,0.0,0.0,0.0
+194,,MOT,can I have a little more honey in mine please now ?,NONE,normal request,0.0,0.0,0.0,0.0
+195,,CHI,&~gulp .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+196,,MOT,oh_my goodness_gracious you like that don't you ?,NONE,normal statement,0.0,0.0,0.0,0.0
+197,,MOT,you like that tea .,NONE,normal statement,0.0,0.0,0.0,0.0
+198,,MOT,I'm gonna stir mine nicely .,NONE,normal statement,0.0,0.0,0.0,0.0
+199,,MOT,make it cool down a bit .,NONE,normal statement,0.0,0.0,0.0,0.0
+200,,MOT,xxx could you make me some muffins to go with my tea ?,NONE,normal request,0.0,0.0,0.0,0.0
+201,,CHI,xxx .,NONE,no content,0.0,0.0,0.0,0.0
+202,,CHI,&-uh sure xxx get some water for you .,T08,child shows disfluency with hesitation; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+203,,MOT,you gonna get some muffins ?,NONE,simple question,0.0,0.0,0.0,0.0
+204,,MOT,okay &=laughs .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+205,,CHI,&~eh .,NONE,no content,0.0,0.0,0.0,0.0
+206,,MOT,did you make my muffins already ?,NONE,simple question,0.0,0.0,0.0,0.0
+207,,MOT,that was fast !,NONE,normal observation,0.0,0.0,0.0,0.0
+208,,CHI,&-uh not yet .,NONE,simple response,0.0,0.0,0.0,0.0
+209,,MOT,not yet ?,NONE,simple question,0.0,0.0,0.0,0.0
+210,,CHI,xxx open this ?,NONE,no content,0.0,0.0,0.0,0.0
+211,,MOT,oh ye(a)h no you just pretend .,NONE,normal statement,0.0,0.0,0.0,0.0
+212,,MOT,just pretend stir up the batter .,NONE,normal instruction,0.0,0.0,0.0,0.0
+213,,CHI,I need a spoon !,T23,child asks for a spoon rapidly; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+214,,MOT,need a spoon ?,NONE,simple question,0.0,0.0,0.0,0.0
+215,,MOT,okay stir up the batter .,NONE,normal instruction,0.0,0.0,0.0,0.0
+216,,CHI,xxx .,NONE,no content,0.0,0.0,0.0,0.0
+217,,MOT,you put that in there .,NONE,normal instruction,0.0,0.0,0.0,0.0
+218,,CHI,cheers !,NONE,normal expression,0.0,0.0,0.0,0.0
+219,,MOT,oh cheers now okay .,NONE,normal response,0.0,0.0,0.0,0.0
+220,,MOT,cheers sweetie .,NONE,normal response,0.0,0.0,0.0,0.0
+221,,MOT,cheers &=laughs !,NONE,"laughter, no hyperactivity traits",0.0,0.0,0.0,0.0
+222,,CHI,&~gulps .,NONE,"vocalization, no hyperactivity traits",0.0,0.0,0.0,0.0
+223,,MOT,&~oo that's delicious .,NONE,normal observation,0.0,0.0,0.0,0.0
+224,,MOT,you made a great tea .,NONE,normal compliment,0.0,0.0,0.0,0.0
+225,,MOT,so good are you all refreshed now ?,NONE,normal question,0.0,0.0,0.0,0.0
+226,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+227,,MOT,try those ?,NONE,simple question,0.0,0.0,0.0,0.0
+228,,MOT,xxx see how high you can make those go .,NONE,normal instruction,0.0,0.0,0.0,0.0
+229,,MOT,&~oh &~oh &~ah &=laughs !,NONE,"laughter, no hyperactivity traits",0.0,0.0,0.0,0.0
+230,,CHI,&~ah &~heh &~ah .,NONE,"vocalization, no hyperactivity traits",0.0,0.0,0.0,0.0
+231,,MOT,&~aw .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+232,,MOT,"start with the , square ones .",NONE,normal instruction,0.0,0.0,0.0,0.0
+233,,MOT,&~oh !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+234,,CHI,&~aw &~da .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+235,,MOT,hard on the blanket &~eh ?,NONE,normal question,0.0,0.0,0.0,0.0
+236,,CHI,ye(a)h xxx do it on the floor .,NONE,normal suggestion,0.0,0.0,0.0,0.0
+237,,MOT,oh that'll work better .,NONE,normal observation,0.0,0.0,0.0,0.0
+238,,MOT,ye(a)h just take your time .,NONE,normal instruction,0.0,0.0,0.0,0.0
+239,,MOT,there you go !,NONE,normal encouragement,0.0,0.0,0.0,0.0
+240,,MOT,woah think you could put a blue block on top ?,T23,mother asks a question rapidly; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+241,,MOT,see if it'll stay ?,NONE,simple question,0.0,0.0,0.0,0.0
+242,,MOT,if it'll stay up ?,NONE,simple question,0.0,0.0,0.0,0.0
+243,,MOT,&~oo .,NONE,"vocalization, no hyperactivity traits",0.0,0.0,0.0,0.0
+244,,MOT,excellent look how high you're making it !,NONE,normal observation,0.0,0.0,0.0,0.0
+245,,CHI,no  [/] no .,NONE,simple negation,0.0,0.0,0.0,0.0
+246,,MOT,(a)nother one ?,NONE,simple question,0.0,0.0,0.0,0.0
+247,,MOT,wow &=gasps .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+250,,CHI,&~aw &=laughs .,NONE,normal conversational response,0.85,0.75,1.0,0.0
+252,,CHI,&~pu &~ah .,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+259,,CHI,&~da !,T33,child makes a vocal sound; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+264,,CHI,xxx .,T33,child makes a vocal sound; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+268,,CHI,oh ye(a)h !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+283,,CHI,&=squeals .,T36,child expresses excitement with squeals; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+289,,CHI,&~psh .,T33,child makes a vocal sound; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0

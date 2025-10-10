@@ -1,0 +1,281 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,MOT,www .,NONE,no traits found,0.0,0.0,0.0,0.0
+1,,MOT,(o)kay Miss Lu .,NONE,no traits found,0.0,0.0,0.0,0.0
+2,,MOT,what are we doing here ?,NONE,no traits found,0.0,0.0,0.0,0.0
+3,,CHI,we  [/] we  [/] we needta talk to your mommy .,T08,child shows disfluency with repeated words; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+4,,MOT,I needta talk to my mommy ?,NONE,no traits found,0.0,0.0,0.0,0.0
+5,,CHI,mhm .,NONE,no traits found,0.0,0.0,0.0,0.0
+6,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+7,,MOT,can you call her for me please ?,NONE,no traits found,0.0,0.0,0.0,0.0
+8,,CHI,(o)kay .,NONE,no traits found,0.0,0.0,0.0,0.0
+9,,MOT,(o)kay .,NONE,no traits found,0.0,0.0,0.0,0.0
+10,,CHI,xxx .,NONE,no traits found,0.0,0.0,0.0,0.0
+11,,MOT,not here ?,NONE,no traits found,0.0,0.0,0.0,0.0
+12,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+13,,MOT,hello ?,NONE,no traits found,0.0,0.0,0.0,0.0
+14,,MOT,hi Mommy .,NONE,no traits found,0.0,0.0,0.0,0.0
+15,,MOT,oh you wanna talk to Barbara ?,NONE,no traits found,0.0,0.0,0.0,0.0
+16,,MOT,okay here she is .,NONE,no traits found,0.0,0.0,0.0,0.0
+17,,MOT,she wants to talk to you .,NONE,no traits found,0.0,0.0,0.0,0.0
+18,,CHI,hi .,NONE,no traits found,0.0,0.0,0.0,0.0
+19,,MOT,&=laughs .,T37,mother attempts humor with laughter; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+20,,CHI,not here .,NONE,no traits found,0.0,0.0,0.0,0.0
+21,,MOT,oh okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+22,,MOT,okay so let's talk later (be)cause I'm gonna play with Barbara now .,NONE,no traits found,0.0,0.0,0.0,0.0
+23,,MOT,okay I love you too .,NONE,no traits found,0.0,0.0,0.0,0.0
+24,,MOT,bye .,NONE,no traits found,0.0,0.0,0.0,0.0
+25,,MOT,click@o .,NONE,no traits found,0.0,0.0,0.0,0.0
+26,,MOT,there we go .,NONE,no traits found,0.0,0.0,0.0,0.0
+27,,CHI,that was Mommy's mommy .,NONE,no traits found,0.0,0.0,0.0,0.0
+28,,MOT,"that was Mommy's mommy , do you know who Mommy's mommy is ?",NONE,no traits found,0.0,0.0,0.0,0.0
+29,,CHI,Barbara .,NONE,no traits found,0.0,0.0,0.0,0.0
+30,,MOT,&=laughs oh that's very existential .,T37,mother attempts humor with laughter; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+31,,MOT,&-um it's Mama .,NONE,no traits found,0.0,0.0,0.0,0.0
+32,,MOT,Mama is Mommy's mommy .,NONE,no traits found,0.0,0.0,0.0,0.0
+33,,MOT,so what do we have here Miss ?,NONE,no traits found,0.0,0.0,0.0,0.0
+34,,MOT,do you wanna build some stuff ?,NONE,no traits found,0.0,0.0,0.0,0.0
+35,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+36,,MOT,look at these .,NONE,no traits found,0.0,0.0,0.0,0.0
+37,,MOT,should we get these out ?,NONE,no traits found,0.0,0.0,0.0,0.0
+38,,CHI,mhm .,NONE,no traits found,0.0,0.0,0.0,0.0
+39,,MOT,mhm .,NONE,no traits found,0.0,0.0,0.0,0.0
+40,,CHI,xxx .,NONE,no traits found,0.0,0.0,0.0,0.0
+41,,CHI,(be)cause I want make a tower .,NONE,no traits found,0.0,0.0,0.0,0.0
+42,,MOT,tower .,NONE,no traits found,0.0,0.0,0.0,0.0
+43,,MOT,how big can you make your tower ?,NONE,no traits found,0.0,0.0,0.0,0.0
+44,,MOT,you're so good at tower building .,NONE,no traits found,0.0,0.0,0.0,0.0
+45,,CHI,it's gonna fall .,NONE,no traits found,0.0,0.0,0.0,0.0
+46,,MOT,well they do .,NONE,no traits found,0.0,0.0,0.0,0.0
+47,,MOT,ye(a)h when they get too big .,NONE,no traits found,0.0,0.0,0.0,0.0
+50,,CHI,xxx tower .,NONE,unclear utterance with no context,0.0,0.0,0.0,0.0
+51,,MOT,that was a good tower though .,NONE,normal statement,0.0,0.0,0.0,0.0
+52,,MOT,d(o) you want Mommy try one .,NONE,simple question,0.0,0.0,0.0,0.0
+53,,CHI,&~da &~doom hi we're not here .,T08,child shows disfluency with unclear speech; clarity=0.50; uniqueness=0.75; confidence=0.58,0.58,0.5,0.75,0.0
+54,,CHI,hm: I'm talking to me dad .,NONE,normal statement,0.0,0.0,0.0,0.0
+55,,CHI,not here &=grunts .,T07,child grunts indicating restlessness; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+56,,MOT,thank_you Miss .,NONE,normal statement,0.0,0.0,0.0,0.0
+57,,MOT,what about this ?,NONE,normal question,0.0,0.0,0.0,0.0
+58,,MOT,what about that guy ?,NONE,normal question,0.0,0.0,0.0,0.0
+59,,MOT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+60,,CHI,he wants to put &~some something .,T08,child shows disfluency with unclear speech; clarity=0.50; uniqueness=0.75; confidence=0.58,0.58,0.5,0.75,0.0
+61,,MOT,oh that's a good idea .,NONE,normal statement,0.0,0.0,0.0,0.0
+62,,MOT,"how many can &~y , you can knock it over .",NONE,normal question,0.0,0.0,0.0,0.0
+63,,MOT,boom@o &=laughs !,T27,mother laughs inappropriately mid-sentence; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+64,,MOT,how many of these can you fit in the truck ?,NONE,normal question,0.0,0.0,0.0,0.0
+65,,MOT,oh ye(a)h &=gasps that's a good way .,NONE,normal statement,0.0,0.0,0.0,0.0
+66,,MOT,and then where is he going ?,NONE,normal question,0.0,0.0,0.0,0.0
+67,,CHI,he's goin(g) to go to xxx .,NONE,normal statement,0.0,0.0,0.0,0.0
+68,,MOT,to where ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+69,,CHI,<to the>  [/] to the Ys .,NONE,unclear utterance with no context,0.0,0.0,0.0,0.0
+70,,MOT,to the Y ?,NONE,normal question,0.0,0.0,0.0,0.0
+71,,MOT,okay is he gonna go swimming ?,NONE,normal question,0.0,0.0,0.0,0.0
+72,,CHI,hm: no he's gonna watch me .,NONE,normal statement,0.0,0.0,0.0,0.0
+73,,MOT,he's gonna watch you swim ?,NONE,normal question,0.0,0.0,0.0,0.0
+74,,CHI,ye(a)h .,NONE,normal statement,0.0,0.0,0.0,0.0
+75,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+76,,MOT,in the truck ?,NONE,normal question,0.0,0.0,0.0,0.0
+77,,MOT,no xxx .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+78,,CHI,you can drive the truck .,T05,child blurts out response impulsively; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+79,,MOT,"I can , thank_you .",NONE,normal statement,0.0,0.0,0.0,0.0
+80,,MOT,&=engine .,NONE,unclear utterance with no context,0.0,0.0,0.0,0.0
+81,,MOT,it's coming towards you .,NONE,normal statement,0.0,0.0,0.0,0.0
+82,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+83,,MOT,beep@o  [/] beep@o  [/] beep@o  [/] beep@o  [/] beep@o  [/] beep@o  [/] beep@o .,T41,mother makes unrelated sounds repeatedly; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+84,,MOT,trucks beep when they go backwards don't they ?,NONE,normal question,0.0,0.0,0.0,0.0
+85,,CHI,"Mommy could you , he can go in the tunnel ?",T05,child blurts out question impulsively; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+86,,MOT,&=gasps oh ye(a)h ?,NONE,normal statement,0.0,0.0,0.0,0.0
+87,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+88,,MOT,ready &=engine .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+100,,CHI,&=engine &=engine &=engine &=engine &=engine &=laughs .,T07,child exhibits vocal restlessness with repetitive sounds; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+101,,MOT,it stuck .,NONE,normal statement,0.0,0.0,0.0,0.0
+102,,MOT,should we back him up ?,NONE,normal question,0.0,0.0,0.0,0.0
+103,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+104,,MOT,beep@o  [/] beep@o .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+105,,CHI,no I can do it &=engine &=engine &=engine &=engine &=engine .,T01,child dominates conversation with excessive repetition; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+106,,CHI,"this car go , boom@o !",T36,child expresses excitement with an enthusiastic tone; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+107,,MOT,&~woah boom@o !,T36,mother expresses excitement with an enthusiastic tone; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+108,,MOT,"that's good thought he didn't even lose anything form his pack , from his boat .",NONE,normal statement,0.0,0.0,0.0,0.0
+109,,CHI,look .,NONE,normal directive,0.0,0.0,0.0,0.0
+110,,MOT,ye(a)h ?,NONE,normal response,0.0,0.0,0.0,0.0
+111,,MOT,you lying down like a baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+112,,MOT,hello Barbara .,NONE,normal greeting,0.0,0.0,0.0,0.0
+113,,CHI,&=laughs .,T07,child exhibits vocal restlessness with laughter; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+114,,CHI,look .,NONE,normal directive,0.0,0.0,0.0,0.0
+115,,MOT,are you kicking ?,NONE,normal question,0.0,0.0,0.0,0.0
+116,,MOT,hello Barbara .,NONE,normal greeting,0.0,0.0,0.0,0.0
+117,,CHI,&=laughs .,T07,child exhibits vocal restlessness with laughter; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+118,,MOT,I think the baby's hungry .,NONE,normal statement,0.0,0.0,0.0,0.0
+119,,CHI,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+120,,MOT,<what do we do>  [/] what do we do when the baby's hungry ?,NONE,normal question,0.0,0.0,0.0,0.0
+121,,MOT,well that's &~goo +/.,NONE,normal statement,0.0,0.0,0.0,0.0
+122,,CHI,she wants some warm milk .,NONE,normal statement,0.0,0.0,0.0,0.0
+123,,MOT,ye(a)h that's good .,NONE,normal statement,0.0,0.0,0.0,0.0
+124,,MOT,you're good at feeding that baby .,NONE,normal statement,0.0,0.0,0.0,0.0
+125,,CHI,xxx to sit up .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+126,,MOT,you hafta sit up okay .,NONE,normal directive,0.0,0.0,0.0,0.0
+127,,CHI,ye(a)h .,NONE,normal response,0.0,0.0,0.0,0.0
+128,,CHI,and she can sleep better after .,NONE,normal statement,0.0,0.0,0.0,0.0
+129,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+130,,CHI,&~m lying down .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+131,,MOT,&=laughs yes you are .,NONE,normal statement,0.0,0.0,0.0,0.0
+132,,CHI,Barbara's xxx down too .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+133,,CHI,not coming out .,NONE,normal statement,0.0,0.0,0.0,0.0
+134,,MOT,well maybe that's why she's hungry .,NONE,normal statement,0.0,0.0,0.0,0.0
+135,,MOT,I think it's just pretend right ?,NONE,normal question,0.0,0.0,0.0,0.0
+136,,CHI,but she wants some tea .,NONE,normal statement,0.0,0.0,0.0,0.0
+137,,MOT,"she wants some tea , oh .",NONE,normal statement,0.0,0.0,0.0,0.0
+138,,MOT,do you have tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+139,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+140,,MOT,&=gasps .,NONE,normal reaction,0.0,0.0,0.0,0.0
+141,,CHI,tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+142,,CHI,yes you want tea .,NONE,normal statement,0.0,0.0,0.0,0.0
+143,,MOT,&=laughs is it hot ?,NONE,normal question,0.0,0.0,0.0,0.0
+150,,CHI,put the blocks .,NONE,simple statement,0.0,0.0,0.0,0.0
+151,,MOT,out the blocks ?,NONE,simple question,0.0,0.0,0.0,0.0
+152,,CHI,I xxx brush her hair .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+153,,MOT,oh that's nice .,NONE,positive acknowledgment,0.0,0.0,0.0,0.0
+154,,MOT,you want my help ?,NONE,offer of help,0.0,0.0,0.0,0.0
+155,,MOT,what's your cleanup song again ?,NONE,question about a song,0.0,0.0,0.0,0.0
+156,,CHI,no +/.,NONE,normal conversational response,0.0,0.0,0.0,0.0
+157,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+158,,CHI,"+, I can't clean up .",NONE,unclear statement,0.0,0.0,0.0,0.0
+159,,CHI,call Mama .,NONE,simple request,0.0,0.0,0.0,0.0
+160,,MOT,again ?,NONE,simple question,0.0,0.0,0.0,0.0
+161,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+162,,CHI,&=grunts I'm brushing the baby's hair .,T08,unclear speech with disfluency; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+163,,MOT,that's very nice of you .,NONE,positive acknowledgment,0.0,0.0,0.0,0.0
+164,,CHI,look .,NONE,simple directive,0.0,0.0,0.0,0.0
+165,,MOT,ye(a)h .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+166,,MOT,&~g how (a)bout if we're gentle with her head .,NONE,suggestion for gentleness,0.0,0.0,0.0,0.0
+167,,MOT,do you like your hair brushed ?,NONE,question about preference,0.0,0.0,0.0,0.0
+168,,MOT,hey Miss ?,NONE,simple address,0.0,0.0,0.0,0.0
+169,,CHI,good and working .,NONE,unclear statement,0.0,0.0,0.0,0.0
+170,,CHI,she wants to get a haircut .,NONE,statement about desire,0.0,0.0,0.0,0.0
+171,,MOT,you think so ?,NONE,question about opinion,0.0,0.0,0.0,0.0
+172,,CHI,ye(a)h .,NONE,simple agreement,0.0,0.0,0.0,0.0
+173,,MOT,who cuts your hair ?,NONE,question about hair,0.0,0.0,0.0,0.0
+174,,CHI,xxx she have a ponytail .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+175,,MOT,she does .,NONE,confirmation,0.0,0.0,0.0,0.0
+176,,MOT,I think she has two ponytails .,NONE,opinion about hairstyle,0.0,0.0,0.0,0.0
+177,,CHI,mhm .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+178,,MOT,mhm .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+179,,MOT,&=kisses .,NONE,affectionate gesture,0.0,0.0,0.0,0.0
+180,,CHI,now .,NONE,simple directive,0.0,0.0,0.0,0.0
+181,,MOT,you got a pretty haircut .,NONE,compliment,0.0,0.0,0.0,0.0
+182,,CHI,and she wants some tea .,NONE,statement about desire,0.0,0.0,0.0,0.0
+183,,MOT,more tea for the baby ?,NONE,question about quantity,0.0,0.0,0.0,0.0
+184,,CHI,mhm .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+185,,MOT,(o)kay .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+186,,CHI,"&-uh put her shirt , her pajama down .",T08,unclear speech with disfluency; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+187,,MOT,ye(a)h that's good .,NONE,positive acknowledgment,0.0,0.0,0.0,0.0
+188,,MOT,so her belly's not cold .,NONE,explanation for comfort,0.0,0.0,0.0,0.0
+189,,CHI,&~sh now you're okay .,T07,vocal restlessness with unclear utterance; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+190,,CHI,it's not working .,NONE,simple statement,0.0,0.0,0.0,0.0
+191,,MOT,the bottle ?,NONE,question about functionality,0.0,0.0,0.0,0.0
+192,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+193,,MOT,hm: .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+194,,CHI,now it's working .,NONE,simple statement,0.0,0.0,0.0,0.0
+195,,MOT,is it working ?,NONE,question about functionality,0.0,0.0,0.0,0.0
+196,,CHI,&~he is  [/] is xxx here .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+197,,MOT,is baby happy ?,NONE,question about emotion,0.0,0.0,0.0,0.0
+198,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+199,,MOT,is the baby sad .,NONE,question about emotion,0.0,0.0,0.0,0.0
+200,,CHI,ye(a)h she's sad .,NONE,simple statement,0.0,0.0,0.0,0.0
+201,,MOT,do you think she needs a hug .,NONE,normal question,0.0,0.0,0.0,0.0
+202,,CHI,let her go to bed xxx .,NONE,simple suggestion,0.0,0.0,0.0,0.0
+203,,MOT,aw that's very nice .,NONE,normal response,0.0,0.0,0.0,0.0
+204,,MOT,that's nice .,NONE,simple statement,0.0,0.0,0.0,0.0
+205,,CHI,no doesn't want my bed .,NONE,simple statement,0.0,0.0,0.0,0.0
+206,,MOT,no thank_you ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+207,,CHI,no thank_you .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+208,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+209,,CHI,just clean xxx .,NONE,simple command,0.0,0.0,0.0,0.0
+210,,MOT,but you like when I rub your back when you go to bed .,NONE,normal statement,0.0,0.0,0.0,0.0
+211,,CHI,baby wants talk to his mommy .,NONE,simple statement,0.0,0.0,0.0,0.0
+212,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+213,,CHI,this is his ear .,NONE,simple statement,0.0,0.0,0.0,0.0
+214,,MOT,there .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+215,,MOT,is that how you talk to Mama .,NONE,normal question,0.0,0.0,0.0,0.0
+216,,CHI,Mommy's here .,NONE,simple statement,0.0,0.0,0.0,0.0
+217,,CHI,&~hallo .,NONE,informal greeting,0.0,0.0,0.0,0.0
+218,,CHI,she's here .,NONE,simple statement,0.0,0.0,0.0,0.0
+219,,CHI,&~sh .,NONE,informal sound,0.0,0.0,0.0,0.0
+220,,MOT,what about this baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+221,,MOT,&~hallo baby .,NONE,informal greeting,0.0,0.0,0.0,0.0
+222,,CHI,she wants to cuddle me .,NONE,simple statement,0.0,0.0,0.0,0.0
+223,,MOT,aw that's nice .,NONE,normal response,0.0,0.0,0.0,0.0
+224,,CHI,<and her>  [/] and her and that baby wants to cuddle me .,T21,child repeats the phrase excessively; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+225,,MOT,are they going to sleep ?,NONE,normal question,0.0,0.0,0.0,0.0
+226,,CHI,ye(a)h .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+227,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+228,,CHI,put the &~pr &~pr phone away .,T36,child expresses excitement in a normal context; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+229,,CHI,the pants on .,NONE,simple statement,0.0,0.0,0.0,0.0
+230,,CHI,<go to bed>  [/] <go to bed>  [/] go to bed bed@si  [/] bed@si  [/] bed@si .,T21,child repeats the phrase excessively; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+231,,MOT,are you singing songs ?,NONE,normal question,0.0,0.0,0.0,0.0
+232,,CHI,ye(a)h &~de .,NONE,informal response,0.0,0.0,0.0,0.0
+233,,MOT,singing bed time songs ?,NONE,normal question,0.0,0.0,0.0,0.0
+234,,CHI,go bed@si  [/] bed@si  [/] bed@si  [/] bed@si .,T21,child repeats the phrase excessively; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+235,,CHI,now wake up bed@si  [/] bed@si  [/] bed@si  [/] bed@si .,T21,child repeats the phrase excessively; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+236,,CHI,now baby <you can wake up>  [/] <you can wake up>  [/] <you can wake up>  [/] <you can wake up>  [/] <you can wake up>  [/] <you can wake up>  [/] <you can wake up>  [/] you can wake up .,T21,child repeats the phrase excessively; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+237,,MOT,that's a nice wake up song .,NONE,normal response,0.0,0.0,0.0,0.0
+238,,CHI,xxx .,NONE,informal sound,0.0,0.0,0.0,0.0
+239,,MOT,oh thank you .,NONE,polite response,0.0,0.0,0.0,0.0
+240,,CHI,"<you can wake up>  [/] you can wake up you can &~ha wake up you can wake up you can , lay down !",T21,child repeats the phrase excessively; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+241,,MOT,&~woah !,NONE,informal exclamation,0.0,0.0,0.0,0.0
+242,,MOT,oh is it lay down time ?,NONE,normal question,0.0,0.0,0.0,0.0
+250,,MOT,"wake up , okay .",NONE,normal statement,0.0,0.0,0.0,0.0
+251,,CHI,dododododododo@si go to bed .,T09,child repeats sounds in a playful manner; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+252,,MOT,&=kisses .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+253,,CHI,go to bed .,NONE,normal statement,0.0,0.0,0.0,0.0
+254,,MOT,go to bed again ?,NONE,normal question,0.0,0.0,0.0,0.0
+255,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+256,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+257,,CHI,xxx old place .,T09,child uses repetitive sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+258,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+259,,CHI,xxx .,T09,child uses repetitive sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+260,,MOT,time to wake up &=laughs .,T27,child laughs inappropriately mid-statement; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+261,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+262,,CHI,wake up .,NONE,normal statement,0.0,0.0,0.0,0.0
+263,,MOT,wake up .,NONE,normal statement,0.0,0.0,0.0,0.0
+264,,CHI,now we brush his hair .,NONE,normal statement,0.0,0.0,0.0,0.0
+265,,MOT,that one doesn't really have hair to brush .,NONE,normal statement,0.0,0.0,0.0,0.0
+266,,MOT,or you could try .,NONE,normal statement,0.0,0.0,0.0,0.0
+267,,MOT,that's nice .,NONE,normal statement,0.0,0.0,0.0,0.0
+268,,MOT,is that how we wash your hair ?,NONE,normal question,0.0,0.0,0.0,0.0
+269,,CHI,she have hair .,NONE,normal statement,0.0,0.0,0.0,0.0
+270,,MOT,ye(a)h she does have hair .,NONE,normal statement,0.0,0.0,0.0,0.0
+271,,CHI,xxx her a haircut .,T09,child uses repetitive sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+272,,MOT,are ya ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+273,,CHI,mhm .,NONE,simple response,0.0,0.0,0.0,0.0
+274,,CHI,xxx this her haircut .,T09,child uses repetitive sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+275,,MOT,it's so beautiful .,NONE,normal statement,0.0,0.0,0.0,0.0
+276,,MOT,you did a really good_job .,NONE,normal statement,0.0,0.0,0.0,0.0
+277,,CHI,&=moans .,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+278,,MOT,thank_you Barbara for my haircut .,NONE,normal statement,0.0,0.0,0.0,0.0
+279,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+280,,MOT,&=laughs ye(a)h thank_you .,NONE,normal statement,0.0,0.0,0.0,0.0
+281,,MOT,hey Barbara .,NONE,normal statement,0.0,0.0,0.0,0.0
+282,,CHI,uhhuh ?,NONE,simple response,0.0,0.0,0.0,0.0
+283,,MOT,you're my friend .,NONE,normal statement,0.0,0.0,0.0,0.0
+284,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+285,,MOT,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+286,,MOT,&-um &-um excuse me Barbara .,NONE,normal statement,0.0,0.0,0.0,0.0
+287,,CHI,uhhuh .,NONE,simple response,0.0,0.0,0.0,0.0
+288,,MOT,could I give you a hug please ?,NONE,normal question,0.0,0.0,0.0,0.0
+289,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+290,,MOT,ye(a)h &=kisses .,NONE,normal statement,0.0,0.0,0.0,0.0
+291,,CHI,I'm rubbing his hair .,T09,child uses repetitive sounds; clarity=0.75,0.0,0.75,0.0,0.0
+300,,CHI,love you haircut ?,NONE,simple expression of affection,0.0,0.0,0.0,0.0
+301,,MOT,maybe we'll just practice without scissors .,NONE,normal suggestion,0.0,0.0,0.0,0.0
+302,,MOT,how about my ponytail .,NONE,straightforward question,0.0,0.0,0.0,0.0
+303,,MOT,can you brush my ponytail ?,NONE,simple request,0.0,0.0,0.0,0.0
+304,,CHI,no Mama no not just ponytail .,T05,child responds impulsively before mother finishes; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+305,,MOT,(o)kay you want my hair ?,NONE,normal response,0.0,0.0,0.0,0.0
+306,,CHI,I just xxx your hair .,T09,"child repeats phrase heard, indicating echolalia; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+307,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+308,,MOT,xxx a haircut ?,NONE,"unclear context, but seems normal",0.0,0.0,0.0,0.0
+309,,MOT,oh that feels great .,NONE,typical expression of satisfaction,0.0,0.0,0.0,0.0
+310,,CHI,xxx haircut .,T09,"child repeats phrase heard, indicating echolalia; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+311,,MOT,thank_you .,NONE,standard expression of gratitude,0.0,0.0,0.0,0.0
+312,,CHI,xxx .,T09,"child repeats phrase heard, indicating echolalia; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+313,,CHI,now I make some xxx my something else .,T04,child abruptly changes topic without context; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0

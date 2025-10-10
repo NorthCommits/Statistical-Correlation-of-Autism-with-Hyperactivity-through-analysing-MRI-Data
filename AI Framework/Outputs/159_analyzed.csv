@@ -1,0 +1,158 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,MOT,hello ?,NONE,simple greeting,0.0,0.0,0.0,0.0
+1,,MOT,oh hi Frank .,NONE,simple greeting,0.0,0.0,0.0,0.0
+2,,MOT,hi I'm playing with Minerva .,NONE,simple statement,0.0,0.0,0.0,0.0
+3,,MOT,what are you doing ?,NONE,simple question,0.0,0.0,0.0,0.0
+4,,MOT,Frank's gotta go .,NONE,simple statement,0.0,0.0,0.0,0.0
+5,,MOT,okay bye .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+6,,CHI,xxx call him tomorrow .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+7,,MOT,I'll call him tomorrow ?,NONE,simple question,0.0,0.0,0.0,0.0
+8,,MOT,okay good idea .,NONE,simple agreement,0.0,0.0,0.0,0.0
+9,,CHI,<that was &~i>  [/] that was &~i &~o xxx horse .,T09,child repeats phrases with unclear context; clarity=0.50; uniqueness=0.75; confidence=0.58,0.58,0.5,0.75,0.0
+10,,MOT,the horsie's gonna what ?,NONE,simple question,0.0,0.0,0.0,0.0
+11,,CHI,gonna <get out>  [/] get out the man .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+12,,MOT,he's gonna go get the man ?,NONE,simple question,0.0,0.0,0.0,0.0
+13,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+14,,MOT,is that his horsie ?,NONE,simple question,0.0,0.0,0.0,0.0
+15,,CHI,0 .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+16,,MOT,ye(a)h ?,NONE,simple question,0.0,0.0,0.0,0.0
+17,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+18,,CHI,my xxx &~aga here .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+19,,MOT,it does look like Elizabeth .,NONE,simple statement,0.0,0.0,0.0,0.0
+20,,MOT,it looks like a miniature Elizabeth eh ?,NONE,simple statement,0.0,0.0,0.0,0.0
+21,,CHI,&~e .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+22,,MOT,is that the baby and is this the big sister ?,NONE,simple question,0.0,0.0,0.0,0.0
+23,,CHI,ye(a)h .,NONE,simple agreement,0.0,0.0,0.0,0.0
+24,,MOT,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+25,,CHI,&~e &~e &~ha &~hat .,T09,child repeats phrases with unclear context; clarity=0.50; uniqueness=0.75; confidence=0.58,0.58,0.5,0.75,0.0
+26,,MOT,she has a hat ?,NONE,simple question,0.0,0.0,0.0,0.0
+27,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+28,,CHI,&~di it is not too cold .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+29,,MOT,it's not too cold eh she doesn't need her hat .,NONE,simple statement,0.0,0.0,0.0,0.0
+30,,CHI,ye(a)h .,NONE,simple agreement,0.0,0.0,0.0,0.0
+31,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+32,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+33,,MOT,does she have any hair ?,NONE,simple question,0.0,0.0,0.0,0.0
+34,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+35,,MOT,"yes , do you wanna brush her hair ?",NONE,simple question,0.0,0.0,0.0,0.0
+36,,CHI,want the comb .,NONE,simple statement,0.0,0.0,0.0,0.0
+37,,CHI,to brush hair .,NONE,simple statement,0.0,0.0,0.0,0.0
+38,,MOT,woah is she letting you brush her hair ?,NONE,simple question,0.0,0.0,0.0,0.0
+39,,CHI,ye(a)h .,NONE,simple agreement,0.0,0.0,0.0,0.0
+40,,MOT,oh that's a good girl .,NONE,simple statement,0.0,0.0,0.0,0.0
+41,,MOT,pretty .,NONE,simple statement,0.0,0.0,0.0,0.0
+42,,MOT,is that the big sister ?,NONE,simple question,0.0,0.0,0.0,0.0
+43,,CHI,ye(a)h .,NONE,simple agreement,0.0,0.0,0.0,0.0
+44,,MOT,what's big sister's name ?,NONE,simple question,0.0,0.0,0.0,0.0
+45,,CHI,Finny .,NONE,simple statement,0.0,0.0,0.0,0.0
+46,,MOT,Finny .,NONE,simple statement,0.0,0.0,0.0,0.0
+47,,MOT,hm: hey Finny .,NONE,simple greeting,0.0,0.0,0.0,0.0
+48,,CHI,her name Finny .,NONE,simple statement,0.0,0.0,0.0,0.0
+49,,MOT,mhm .,NONE,simple agreement,0.0,0.0,0.0,0.0
+50,,MOT,oh &=laughs .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+51,,MOT,she wearing any undies@g ?,NONE,unclear question,0.0,0.0,0.0,0.0
+52,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+53,,MOT,"no , ah must be her pajamas then eh ?",NONE,normal statement,0.0,0.0,0.0,0.0
+54,,MOT,she must be wearing pajamas maybe it's her bedtime .,NONE,normal statement,0.0,0.0,0.0,0.0
+55,,CHI,0 .,NONE,unclear response,0.0,0.0,0.0,0.0
+56,,MOT,ye(a)h ?,NONE,normal question,0.0,0.0,0.0,0.0
+57,,MOT,brush your hair before bedtime ?,NONE,normal question,0.0,0.0,0.0,0.0
+58,,MOT,good_job .,NONE,normal praise,0.0,0.0,0.0,0.0
+59,,MOT,is she ready for bed ?,NONE,normal question,0.0,0.0,0.0,0.0
+60,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0
+61,,MOT,no not yet ?,NONE,normal statement,0.0,0.0,0.0,0.0
+62,,CHI,she wake up .,NONE,simple statement,0.0,0.0,0.0,0.0
+63,,MOT,she woke up ?,NONE,normal question,0.0,0.0,0.0,0.0
+64,,MOT,she half woke up &=laughs .,NONE,normal statement,0.0,0.0,0.0,0.0
+65,,CHI,xxx &~cluck &~cluck &~cluck &~cluck &~cluck xxx &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck .,T07,excessive vocal noises with clucking; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+66,,MOT,is she riding a horsie ?,NONE,normal question,0.0,0.0,0.0,0.0
+67,,CHI,run  [/] run  [/] run &~cluck &~cluck &~cluck &~cluck &~cluck &~cluck .,T07,excessive vocal noises with clucking; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+68,,MOT,oh she's running .,NONE,normal statement,0.0,0.0,0.0,0.0
+69,,MOT,is she cold now ?,NONE,normal question,0.0,0.0,0.0,0.0
+70,,MOT,she needs her hat on .,NONE,normal statement,0.0,0.0,0.0,0.0
+71,,MOT,xxx .,NONE,unclear response,0.0,0.0,0.0,0.0
+72,,CHI,xxx .,NONE,unclear response,0.0,0.0,0.0,0.0
+73,,CHI,please put her  [/] her hat .,NONE,unclear request,0.0,0.0,0.0,0.0
+74,,MOT,mhm .,NONE,normal acknowledgment,0.0,0.0,0.0,0.0
+75,,MOT,sure .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+76,,MOT,that's tricky .,NONE,normal statement,0.0,0.0,0.0,0.0
+77,,MOT,&=gasps there she goes .,T07,gasps indicating excitement; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+78,,CHI,xxx .,NONE,unclear response,0.0,0.0,0.0,0.0
+79,,MOT,that her sweater ?,NONE,normal question,0.0,0.0,0.0,0.0
+80,,MOT,&=laughs .,NONE,normal laughter,0.0,0.0,0.0,0.0
+81,,MOT,oh stuck on your finger ?,NONE,normal question,0.0,0.0,0.0,0.0
+82,,CHI,&=laughs .,NONE,normal laughter,0.0,0.0,0.0,0.0
+83,,MOT,&=laughs can I try ?,NONE,normal question,0.0,0.0,0.0,0.0
+84,,MOT,oh my fingers are too big to go in there .,NONE,normal statement,0.0,0.0,0.0,0.0
+85,,MOT,let's see oh .,NONE,normal statement,0.0,0.0,0.0,0.0
+86,,CHI,&~cluck .,T07,excessive vocal noises with clucking; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+87,,CHI,&~cluck .,T07,excessive vocal noises with clucking; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+88,,CHI,&~cluck &~cluck xxx .,T07,excessive vocal noises with clucking; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+89,,MOT,&=laughs what's her eye doing eh ?,NONE,normal laughter,0.0,0.0,0.0,0.0
+90,,CHI,ha .,NONE,normal laughter,0.0,0.0,0.0,0.0
+91,,CHI,&~o eye now .,NONE,unclear statement,0.0,0.0,0.0,0.0
+92,,MOT,she's winking .,NONE,normal statement,0.0,0.0,0.0,0.0
+93,,CHI,why ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+94,,MOT,watch Mommy .,NONE,normal instruction,0.0,0.0,0.0,0.0
+100,,MOT,"sometimes you wink when you see someone you go hi , wink .",NONE,normal statement,0.0,0.0,0.0,0.0
+101,,CHI,why Mommy ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+102,,MOT,&~f fun .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+103,,CHI,why &~eha winking ?,NONE,unclear question,0.0,0.0,0.0,0.0
+104,,CHI,why winking Mommy ?,NONE,simple question,0.0,0.0,0.0,0.0
+105,,MOT,I think &~h both of her eyes are sposta do that Honey Bunny but one's broken .,NONE,normal explanation,0.0,0.0,0.0,0.0
+106,,MOT,one's broken .,NONE,simple statement,0.0,0.0,0.0,0.0
+107,,CHI,why Mommy ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+108,,MOT,so look when you put her down like this .,NONE,normal instruction,0.0,0.0,0.0,0.0
+109,,CHI,ye(a)h .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+110,,MOT,it's sposta look like she's sleeping but this one's not working see .,NONE,normal explanation,0.0,0.0,0.0,0.0
+111,,MOT,that's broken .,NONE,simple statement,0.0,0.0,0.0,0.0
+112,,CHI,why Mommy ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+113,,MOT,maybe somebody broke it ?,NONE,normal speculation,0.0,0.0,0.0,0.0
+114,,MOT,by accident .,NONE,normal statement,0.0,0.0,0.0,0.0
+115,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+116,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+117,,CHI,call him back .,NONE,simple instruction,0.0,0.0,0.0,0.0
+118,,MOT,you're calling him back ?,NONE,normal question,0.0,0.0,0.0,0.0
+119,,CHI,ye(a)h .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+120,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+121,,CHI,hi man .,NONE,simple greeting,0.0,0.0,0.0,0.0
+122,,CHI,why &~a &~a are &~y broken ?,NONE,unclear question,0.0,0.0,0.0,0.0
+123,,MOT,&=laughs are you asking the man ?,NONE,normal question,0.0,0.0,0.0,0.0
+124,,MOT,does he know why her eye's broken ?,NONE,normal question,0.0,0.0,0.0,0.0
+125,,CHI,0 .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+126,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+127,,CHI,no  [/] no .,NONE,simple response,0.0,0.0,0.0,0.0
+128,,MOT,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+129,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+130,,CHI,call back the man .,NONE,simple instruction,0.0,0.0,0.0,0.0
+131,,MOT,you're gonna call him back again ?,NONE,normal question,0.0,0.0,0.0,0.0
+132,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+133,,CHI,xxx he's the man .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+134,,CHI,oh why her eye working .,NONE,unclear question,0.0,0.0,0.0,0.0
+135,,MOT,what's he saying ?,NONE,normal question,0.0,0.0,0.0,0.0
+136,,CHI,xxx him back .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+137,,MOT,&~laughs .,NONE,normal laughter,0.0,0.0,0.0,0.0
+138,,CHI,xxx why eye broken .,NONE,unclear question,0.0,0.0,0.0,0.0
+139,,MOT,maybe somebody was touching it too much .,NONE,normal speculation,0.0,0.0,0.0,0.0
+140,,MOT,and it broke .,NONE,normal explanation,0.0,0.0,0.0,0.0
+141,,CHI,I &~wa why her eye broken ?,NONE,unclear question,0.0,0.0,0.0,0.0
+142,,CHI,look in her eye .,NONE,simple instruction,0.0,0.0,0.0,0.0
+143,,CHI,why her eye broken &~aga .,NONE,unclear question,0.0,0.0,0.0,0.0
+144,,MOT,does Elizabeth know why ?,NONE,normal question,0.0,0.0,0.0,0.0
+145,,CHI,ye(a)h .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+146,,MOT,ye(a)h .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+147,,MOT,&=laughs is she gonna look at it closely ?,NONE,normal question,0.0,0.0,0.0,0.0
+148,,MOT,&=laughs .,NONE,normal laughter,0.0,0.0,0.0,0.0
+149,,CHI,<where the phone>  [/] where the phone go ?,NONE,unclear question,0.0,0.0,0.0,0.0
+150,,MOT,the phone ?,NONE,normal question,0.0,0.0,0.0,0.0
+151,,CHI,call him .,NONE,simple response,0.0,0.0,0.0,0.0
+152,,CHI,hi lady .,NONE,simple greeting,0.0,0.0,0.0,0.0
+153,,MOT,a lady ?,NONE,normal question,0.0,0.0,0.0,0.0
+154,,CHI,why ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+155,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+156,,CHI,&~e hi lady xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+157,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+158,,CHI,on the floor .,NONE,simple statement,0.0,0.0,0.0,0.0
+159,,MOT,you like the phone eh ?,NONE,normal question,0.0,0.0,0.0,0.0
+160,,CHI,&=belches .,T33,continuous mouth sounds indicating restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+161,,MOT,oh !,NONE,normal conversational response,0.0,0.0,0.0,0.0

@@ -1,0 +1,211 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,MOT,xxx .,NONE,no content to analyze,0.0,0.0,0.0,0.0
+1,,CHI,truck is gonna pick up the blocks .,NONE,simple statement,0.0,0.0,0.0,0.0
+2,,MOT,is the trucks gonna pick up the blocks .,NONE,simple question,0.0,0.0,0.0,0.0
+3,,MOT,xxx .,NONE,no content to analyze,0.0,0.0,0.0,0.0
+4,,MOT,xxx no hands .,NONE,no content to analyze,0.0,0.0,0.0,0.0
+5,,MOT,xxx hands .,NONE,no content to analyze,0.0,0.0,0.0,0.0
+6,,CHI,xxx blocks .,NONE,no content to analyze,0.0,0.0,0.0,0.0
+7,,MOT,its okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+8,,MOT,yeah like that .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+9,,MOT,"wow you building the castle on the &~blo , <on the>  [/] on the truck ?",NONE,question with context,0.0,0.0,0.0,0.0
+10,,CHI,ye(a)h .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+11,,MOT,careful .,NONE,simple caution,0.0,0.0,0.0,0.0
+12,,MOT,okay where's the truck taking the castle ?,NONE,question with context,0.0,0.0,0.0,0.0
+13,,CHI,to the fairy land .,NONE,simple statement,0.0,0.0,0.0,0.0
+14,,MOT,to the fairy land &=laughs ?,NONE,laughter with context,0.0,0.0,0.0,0.0
+15,,MOT,"to the fairy land , okay &=laughs !",NONE,laughter with context,0.0,0.0,0.0,0.0
+16,,MOT,oh &=laughs calm down Malfoy .,NONE,humor with context,0.0,0.0,0.0,0.0
+17,,CHI,can I make a tower there ?,NONE,question with context,0.0,0.0,0.0,0.0
+18,,MOT,yeah can you come here sit next to Mommy baby ?,NONE,question with context,0.0,0.0,0.0,0.0
+19,,MOT,can we build it here ?,NONE,question with context,0.0,0.0,0.0,0.0
+20,,MOT,the tower ?,NONE,question with context,0.0,0.0,0.0,0.0
+21,,CHI,xxx .,NONE,no content to analyze,0.0,0.0,0.0,0.0
+22,,MOT,want Mommy to help you ?,NONE,question with context,0.0,0.0,0.0,0.0
+23,,MOT,no  [/] no hands please .,NONE,cautionary statement,0.0,0.0,0.0,0.0
+24,,MOT,building a tower ?,NONE,question with context,0.0,0.0,0.0,0.0
+25,,MOT,what kind of tower ?,NONE,question with context,0.0,0.0,0.0,0.0
+26,,MOT,building ?,NONE,question with context,0.0,0.0,0.0,0.0
+27,,MOT,a building Malfoy ?,NONE,question with context,0.0,0.0,0.0,0.0
+28,,MOT,calm down .,NONE,cautionary statement,0.0,0.0,0.0,0.0
+29,,MOT,like this ?,NONE,question with context,0.0,0.0,0.0,0.0
+30,,CHI,&~oo 0 .,NONE,no content to analyze,0.0,0.0,0.0,0.0
+31,,MOT,okay you like my tower ?,NONE,question with context,0.0,0.0,0.0,0.0
+32,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+33,,MOT,yeah ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+34,,MOT,okay go ahead what are we gonna do now .,NONE,question with context,0.0,0.0,0.0,0.0
+35,,CHI,crash .,NONE,simple statement,0.0,0.0,0.0,0.0
+36,,MOT,uhoh &=laughs we're gonna crash .,NONE,humor with context,0.0,0.0,0.0,0.0
+37,,CHI,I'm drive .,NONE,simple statement,0.0,0.0,0.0,0.0
+38,,MOT,don't go too far .,NONE,cautionary statement,0.0,0.0,0.0,0.0
+39,,MOT,I want you to stay here .,NONE,cautionary statement,0.0,0.0,0.0,0.0
+40,,MOT,stay here with Mommy .,NONE,cautionary statement,0.0,0.0,0.0,0.0
+41,,CHI,&~ch &~ch &~ah &~psh .,T07,child exhibits vocal restlessness with sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+42,,MOT,"oh &=laughs , oh  [/] oh okay come here calm down .",T11,mother shows emotional reactivity with laughter and urgency; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+43,,MOT,calm down .,NONE,cautionary statement,0.0,0.0,0.0,0.0
+44,,CHI,a tower ?,NONE,question with context,0.0,0.0,0.0,0.0
+45,,MOT,another tower ?,NONE,question with context,0.0,0.0,0.0,0.0
+46,,MOT,another tower .,NONE,statement with context,0.0,0.0,0.0,0.0
+47,,MOT,let's see how tall I can make the tower .,NONE,statement with context,0.0,0.0,0.0,0.0
+48,,MOT,hm: put that one here .,NONE,simple statement,0.0,0.0,0.0,0.0
+49,,MOT,uhoh .,NONE,simple exclamation,0.0,0.0,0.0,0.0
+50,,MOT,Malfoy calm down .,NONE,normal request to calm down,0.0,0.0,0.0,0.0
+51,,MOT,calm down .,NONE,simple instruction to calm down,0.0,0.0,0.0,0.0
+52,,MOT,you want Mommy to build the tower ?,NONE,straightforward question about building,0.0,0.0,0.0,0.0
+53,,MOT,"okay , wanna give me the yellow &-uh block ?",NONE,simple request for a block,0.0,0.0,0.0,0.0
+54,,CHI,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+55,,MOT,thank_you .,NONE,polite expression of gratitude,0.0,0.0,0.0,0.0
+56,,MOT,hm: now gimme a blue one ?,NONE,casual request for a block,0.0,0.0,0.0,0.0
+57,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0
+58,,MOT,thank_you .,NONE,polite expression of gratitude,0.0,0.0,0.0,0.0
+59,,MOT,hm: (a)nother blue one ?,NONE,casual request for a block,0.0,0.0,0.0,0.0
+60,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0
+61,,MOT,&=laughs gimme an orange one ?,NONE,casual request with laughter,0.0,0.0,0.0,0.0
+62,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0
+63,,MOT,and another blue one ?,NONE,casual request for a block,0.0,0.0,0.0,0.0
+64,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0
+65,,MOT,"do you wanna try putting , whoops &=laughs !",NONE,casual suggestion with laughter,0.0,0.0,0.0,0.0
+66,,MOT,it fell down Malfoy !,NONE,observation about the tower,0.0,0.0,0.0,0.0
+67,,CHI,I don't want it to fall down .,NONE,expression of concern,0.0,0.0,0.0,0.0
+68,,MOT,I know but you know when it gets too big like that it falls down it's not very sturdy .,NONE,explanation about the tower's stability,0.0,0.0,0.0,0.0
+69,,CHI,Mommy  [/] Mommy let's make a gate .,NONE,suggestion for building,0.0,0.0,0.0,0.0
+70,,MOT,a gate ?,NONE,clarification question,0.0,0.0,0.0,0.0
+71,,MOT,<for the>  [/] for the tractor ?,NONE,clarification question,0.0,0.0,0.0,0.0
+72,,MOT,that's a gate ?,NONE,clarification question,0.0,0.0,0.0,0.0
+73,,MOT,okay there's the gate .,NONE,statement about the gate,0.0,0.0,0.0,0.0
+74,,CHI,take this block .,NONE,simple instruction,0.0,0.0,0.0,0.0
+75,,MOT,"oh there's another one &=grunts , (o)kay .",NONE,casual observation with a grunt,0.0,0.0,0.0,0.0
+76,,MOT,should we use teacups too ?,NONE,question about using teacups,0.0,0.0,0.0,0.0
+77,,MOT,&=laughs what do you think ?,NONE,casual question,0.0,0.0,0.0,0.0
+78,,CHI,teacups are not blocks .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+79,,MOT,"no , but we can pretend , right ?",NONE,casual agreement,0.0,0.0,0.0,0.0
+80,,MOT,no hands .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+81,,CHI,it's going in the tunnel Mommy !,NONE,playful statement about the tunnel,0.0,0.0,0.0,0.0
+82,,MOT,"okay , in the tunnel .",NONE,agreement about the tunnel,0.0,0.0,0.0,0.0
+83,,CHI,&~psh &~ah &~ah .,T07,child makes vocal noises during conversation; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+84,,MOT,what's with the crashing ?,NONE,inquiry about noise,0.0,0.0,0.0,0.0
+85,,MOT,everything's crashing .,NONE,observation about crashing,0.0,0.0,0.0,0.0
+86,,MOT,sit .,NONE,instruction to sit,0.0,0.0,0.0,0.0
+87,,MOT,sit .,NONE,repetition of instruction to sit,0.0,0.0,0.0,0.0
+88,,MOT,Mommy's going to make a  [/] a  [/] a real gate see it's a gate .,NONE,explanation about making a gate,0.0,0.0,0.0,0.0
+89,,MOT,and it opens like this see  [/] see xxx .,NONE,explanation about the gate,0.0,0.0,0.0,0.0
+90,,CHI,can we close the gate ?,NONE,question about closing the gate,0.0,0.0,0.0,0.0
+91,,MOT,okay this is the gate .,NONE,statement about the gate,0.0,0.0,0.0,0.0
+92,,MOT,"and inside the gate there's , a teacup house .",NONE,description of the gate's contents,0.0,0.0,0.0,0.0
+93,,MOT,what do you think ?,NONE,question about opinion,0.0,0.0,0.0,0.0
+94,,MOT,do you like it ?,NONE,question about preference,0.0,0.0,0.0,0.0
+95,,MOT,a teacup house ?,NONE,question about the teacup house,0.0,0.0,0.0,0.0
+96,,CHI,xxx .,NONE,unclear response,0.0,0.0,0.0,0.0
+97,,MOT,"you hafta ask for us to open the gate , okay ?",NONE,instruction about asking,0.0,0.0,0.0,0.0
+98,,MOT,Mommy's not going to open the gate if you don't ask nice .,NONE,instruction about politeness,0.0,0.0,0.0,0.0
+100,,MOT,no <you can't>  [/] you can't go through the gate you hafta ask Mommy nicely to open it .,NONE,normal instruction,0.0,0.0,0.0,0.0
+101,,CHI,can I go past the gate ?,NONE,simple question,0.0,0.0,0.0,0.0
+102,,MOT,huh ?,NONE,simple response,0.0,0.0,0.0,0.0
+103,,CHI,"can I go &~ast the &~plate , past the gate ?",T08,child shows disfluency with repeated phrases; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+104,,MOT,please ?,NONE,simple request,0.0,0.0,0.0,0.0
+105,,CHI,please .,NONE,simple response,0.0,0.0,0.0,0.0
+106,,MOT,&=laughs yes &~wai .,NONE,"laughter, no hyperactivity traits",0.0,0.0,0.0,0.0
+107,,CHI,&~ah &~ah &~psh !,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+108,,MOT,okay  [/] okay no jumping come here .,T15,"mother instructs child to stop jumping, indicating movement; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+109,,MOT,come here .,NONE,simple instruction,0.0,0.0,0.0,0.0
+110,,MOT,sit  [/] sit  [/] sit  [/] sit .,T15,"mother repeats instruction to sit, indicating urgency; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+111,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+112,,MOT,"okay let's &~no , no more crashing .",T16,mother expresses discomfort with crashing behavior; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+113,,MOT,"crashing is very , aggressive .",NONE,normal observation,0.0,0.0,0.0,0.0
+114,,CHI,I wanna crash some more .,T19,child expresses immediate desire to crash again; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+115,,MOT,no crashing .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+116,,MOT,why do you like crashing so much ?,NONE,normal inquiry,0.0,0.0,0.0,0.0
+117,,MOT,Malfoy do you know what else is in this box ?,NONE,normal question,0.0,0.0,0.0,0.0
+118,,MOT,there's more toys .,NONE,normal statement,0.0,0.0,0.0,0.0
+119,,MOT,you wanna play with something else ?,NONE,normal question,0.0,0.0,0.0,0.0
+120,,CHI,&~wan play with blocks .,NONE,simple request,0.0,0.0,0.0,0.0
+121,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+122,,CHI,(o)kay xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+123,,MOT,play with blocks .,NONE,normal instruction,0.0,0.0,0.0,0.0
+124,,MOT,what do you wanna do with blocks ?,NONE,normal question,0.0,0.0,0.0,0.0
+125,,MOT,"no crashing , something else .",T19,mother redirects child from crashing to something else; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+126,,CHI,crash .,T19,child expresses immediate desire to crash; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+127,,MOT,&=laughs why do you like crashing ?,NONE,"laughter, no hyperactivity traits",0.0,0.0,0.0,0.0
+128,,CHI,make a teacup house .,NONE,simple statement,0.0,0.0,0.0,0.0
+129,,MOT,okay teacup house .,NONE,simple response,0.0,0.0,0.0,0.0
+130,,MOT,I put the cylinder in the teacup .,NONE,normal statement,0.0,0.0,0.0,0.0
+131,,MOT,"wait it's too close , whoops !",NONE,normal observation,0.0,0.0,0.0,0.0
+132,,MOT,&=laughs calm down .,T36,mother uses an over-enthusiastic tone to calm down; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+150,,MOT,I want you to stay here on the blue mat .,NONE,clear instruction from mother,0.0,0.0,0.0,0.0
+151,,MOT,can you stay on the blue mat ?,NONE,simple question from mother,0.0,0.0,0.0,0.0
+152,,MOT,Malfoy your shoelaces are &-uh untied .,NONE,mother points out untied shoelaces,0.0,0.0,0.0,0.0
+153,,MOT,can you tie them ?,NONE,straightforward question from mother,0.0,0.0,0.0,0.0
+154,,CHI,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+155,,MOT,do you know how ?,NONE,mother asks for confirmation,0.0,0.0,0.0,0.0
+156,,MOT,do you know how to tie them ?,NONE,mother clarifies the question,0.0,0.0,0.0,0.0
+157,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+158,,MOT,"show me &=laughs , turn around .",NONE,mother instructs child with laughter,0.0,0.0,0.0,0.0
+159,,MOT,turn around .,NONE,direct instruction from mother,0.0,0.0,0.0,0.0
+160,,MOT,turn .,NONE,repeated instruction from mother,0.0,0.0,0.0,0.0
+161,,MOT,turn .,NONE,repeated instruction from mother,0.0,0.0,0.0,0.0
+162,,MOT,turn .,NONE,repeated instruction from mother,0.0,0.0,0.0,0.0
+163,,MOT,<other foot>  [/] other foot .,NONE,mother provides additional instruction,0.0,0.0,0.0,0.0
+164,,MOT,"okay , see like that .",NONE,mother confirms understanding,0.0,0.0,0.0,0.0
+165,,MOT,and then we make <the bunny ear>  [/] the bunny ear .,NONE,mother explains the process,0.0,0.0,0.0,0.0
+166,,MOT,turn this one over the ear .,NONE,mother gives further instruction,0.0,0.0,0.0,0.0
+167,,MOT,two bunny ears .,NONE,mother continues with instructions,0.0,0.0,0.0,0.0
+168,,MOT,"okay  [/] , okay Malfoy .",NONE,mother acknowledges child,0.0,0.0,0.0,0.0
+169,,MOT,so what now ?,NONE,mother asks for next steps,0.0,0.0,0.0,0.0
+170,,CHI,let's make +...,NONE,child suggests an idea,0.0,0.0,0.0,0.0
+171,,MOT,"can you &-uh , let's use the &-uh , let's use the plates .",NONE,mother suggests using plates,0.0,0.0,0.0,0.0
+172,,MOT,"like I don't know , flying saucers .",NONE,mother makes a comparison,0.0,0.0,0.0,0.0
+173,,MOT,(o)kay flying saucers ?,NONE,mother checks understanding,0.0,0.0,0.0,0.0
+174,,MOT,flying saucers landing .,NONE,mother describes an action,0.0,0.0,0.0,0.0
+175,,CHI,they're gonna crash onto the truck .,NONE,child describes a scenario,0.0,0.0,0.0,0.0
+176,,MOT,okay more crashing .,NONE,mother encourages more action,0.0,0.0,0.0,0.0
+177,,CHI,xxx .,NONE,unclear utterance from child,0.0,0.0,0.0,0.0
+178,,MOT,okay you build something .,NONE,mother instructs child to build,0.0,0.0,0.0,0.0
+179,,MOT,"xxx , whoops .",NONE,unclear utterance from mother,0.0,0.0,0.0,0.0
+180,,CHI,xxx fall down .,NONE,child describes an event,0.0,0.0,0.0,0.0
+181,,MOT,xxx I'm sorry .,NONE,mother apologizes,0.0,0.0,0.0,0.0
+182,,MOT,okay xxx .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+183,,MOT,I'm trying something else .,NONE,mother indicates trying something new,0.0,0.0,0.0,0.0
+184,,CHI,something else ?,NONE,child seeks clarification,0.0,0.0,0.0,0.0
+185,,MOT,teacup .,NONE,mother provides a suggestion,0.0,0.0,0.0,0.0
+186,,CHI,let's make it tall .,NONE,child expresses a desire,0.0,0.0,0.0,0.0
+187,,MOT,oh you wanna tall one .,NONE,mother acknowledges child's idea,0.0,0.0,0.0,0.0
+188,,MOT,"okay , yes sir .",NONE,mother responds affirmatively,0.0,0.0,0.0,0.0
+189,,MOT,hands Malfoy hands .,NONE,mother instructs child,0.0,0.0,0.0,0.0
+190,,MOT,that's not tall is it .,NONE,mother questions the outcome,0.0,0.0,0.0,0.0
+191,,MOT,"hm: , Malfoy calm down .",T20,mother asks child to calm down; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+192,,CHI,xxx .,NONE,unclear utterance from child,0.0,0.0,0.0,0.0
+193,,MOT,that's not gonna work .,NONE,mother expresses doubt,0.0,0.0,0.0,0.0
+194,,MOT,okay there we go .,NONE,mother confirms progress,0.0,0.0,0.0,0.0
+195,,MOT,can I put this up here ?,NONE,mother asks for permission,0.0,0.0,0.0,0.0
+196,,MOT,yeah ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+200,,MOT,what noise ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+201,,CHI,&-uh .,NONE,normal conversational response,0.85,0.75,1.0,0.0
+202,,MOT,&=laughs &-uh &=laughs &-uh .,T07,"mother uses vocal fillers ""uh"" and laughs, indicating restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+203,,CHI,say the crashing xxx .,T24,"child abruptly mentions ""the crashing"" without context; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+204,,MOT,go .,NONE,simple directive,0.0,0.0,0.0,0.0
+205,,MOT,well when you crash I'll do the crashing noise .,NONE,normal statement,0.0,0.0,0.0,0.0
+206,,MOT,okay hands down .,NONE,simple directive,0.0,0.0,0.0,0.0
+207,,MOT,"(o)kay Malfoy we hafta put the toys away now , okay ?",NONE,normal question,0.0,0.0,0.0,0.0
+208,,CHI,what (a)r(e) we gonna do now ?,T23,child asks multiple questions rapidly about what to do next; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+209,,MOT,well we gonna hafta put the toys away .,NONE,normal statement,0.0,0.0,0.0,0.0
+210,,MOT,(o)kay help Mommy put the toys away ?,NONE,simple directive,0.0,0.0,0.0,0.0
+211,,CHI,why we hafta put the toys away ?,T23,"child asks why they have to put the toys away, showing curiosity; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+212,,MOT,well because we're done .,NONE,normal explanation,0.0,0.0,0.0,0.0
+213,,CHI,xxx go home ?,T23,"child asks a question about going home, showing engagement; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+214,,MOT,ah soon yeah .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+215,,MOT,you got lots of blocks at home .,NONE,normal statement,0.0,0.0,0.0,0.0
+216,,MOT,play at home crash .,NONE,normal statement,0.0,0.0,0.0,0.0
+217,,MOT,go <crash and>  [/] crash and crash .,NONE,normal directive,0.0,0.0,0.0,0.0
+218,,MOT,okay ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+219,,MOT,gonna help Mommy put the toys away ?,NONE,normal question,0.0,0.0,0.0,0.0
+220,,MOT,like this ?,NONE,simple question,0.0,0.0,0.0,0.0
+221,,MOT,"in the &~bo , in the box please .",NONE,normal directive,0.0,0.0,0.0,0.0
+222,,CHI,are we gonna go home Mommy ?,T23,"child asks if they are going home, showing engagement; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+223,,MOT,yes we're gonna go home .,NONE,normal affirmation,0.0,0.0,0.0,0.0
+224,,MOT,put the toys away with Mommy ?,NONE,normal directive,0.0,0.0,0.0,0.0
+225,,MOT,ramasser:@s:fra .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+226,,MOT,thank_you Malfoy .,NONE,normal expression of gratitude,0.0,0.0,0.0,0.0
+227,,MOT,can you put the blue one ?,NONE,normal question,0.0,0.0,0.0,0.0
+228,,MOT,can you close it ?,NONE,normal question,0.0,0.0,0.0,0.0
+229,,MOT,can you close the box ?,NONE,normal question,0.0,0.0,0.0,0.0
+230,,MOT,wow .,NONE,normal conversational response,0.0,0.0,0.0,0.0

@@ -1,0 +1,306 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,MOT,it's Aneesh .,NONE,simple identification,0.0,0.0,0.0,0.0
+1,,MOT,here .,NONE,simple response,0.0,0.0,0.0,0.0
+2,,MOT,hi Aneesh .,NONE,simple greeting,0.0,0.0,0.0,0.0
+3,,MOT,&~bu Aneesh can't hear you &=gasps .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+4,,MOT,you hafta talk to Aneesh .,NONE,directive statement,0.0,0.0,0.0,0.0
+5,,MOT,hello .,NONE,simple greeting,0.0,0.0,0.0,0.0
+6,,CHI,hello .,NONE,simple greeting,0.0,0.0,0.0,0.0
+7,,MOT,how are you .,NONE,simple inquiry,0.0,0.0,0.0,0.0
+8,,CHI,how are you .,NONE,simple inquiry,0.0,0.0,0.0,0.0
+9,,MOT,it's Aneesh .,NONE,simple identification,0.0,0.0,0.0,0.0
+10,,MOT,here's Aneesh .,NONE,simple identification,0.0,0.0,0.0,0.0
+11,,CHI,hello .,NONE,simple greeting,0.0,0.0,0.0,0.0
+12,,MOT,hello &=laughs .,NONE,simple greeting with laughter,0.0,0.0,0.0,0.0
+13,,CHI,bye .,NONE,simple farewell,0.0,0.0,0.0,0.0
+14,,MOT,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+15,,CHI,&=sings .,NONE,singing without context,0.0,0.0,0.0,0.0
+16,,MOT,Fred you wanna have tea ?,NONE,inquiry about preference,0.0,0.0,0.0,0.0
+17,,MOT,to have the tea_party .,NONE,incomplete thought,0.0,0.0,0.0,0.0
+18,,MOT,"you gotta have , tea .",NONE,directive statement,0.0,0.0,0.0,0.0
+19,,CHI,&=sings .,NONE,singing without context,0.0,0.0,0.0,0.0
+20,,MOT,goodbye .,NONE,simple farewell,0.0,0.0,0.0,0.0
+21,,CHI,I want .,T22,monosyllabic response lacking elaboration; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+22,,MOT,what do you want ?,NONE,inquiry about preference,0.0,0.0,0.0,0.0
+23,,CHI,I want .,T22,monosyllabic response lacking elaboration; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+24,,MOT,tea@si  [/] tea@si rosie@si tea@si .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+25,,MOT,here's your cup .,NONE,simple statement,0.0,0.0,0.0,0.0
+26,,MOT,to@si have@si a@si tea_party@si &=sips .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+27,,MOT,you@si gotta@si have@si teacups@si .,NONE,directive statement,0.0,0.0,0.0,0.0
+28,,MOT,to@si have@si a@si tea_party@si .,NONE,directive statement,0.0,0.0,0.0,0.0
+29,,MOT,"you@si gotta@si have@si , saucers@si .",NONE,directive statement,0.0,0.0,0.0,0.0
+30,,MOT,to@si have@si a@si tea_party@si .,NONE,directive statement,0.0,0.0,0.0,0.0
+31,,MOT,"you@si gotta@si have@si , oh don't eat .",NONE,directive statement,0.0,0.0,0.0,0.0
+32,,MOT,you@si gotta@si have@si teaspoons@si .,NONE,directive statement,0.0,0.0,0.0,0.0
+33,,MOT,tea@si  [/] tea@si rosie@si tea@si .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+34,,MOT,tea@si  [/] tea@si like +...,NONE,unclear utterance,0.0,0.0,0.0,0.0
+35,,CHI,++ Dorothy .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+36,,MOT,Dorothy !,NONE,simple identification,0.0,0.0,0.0,0.0
+37,,MOT,tea@si  [/] tea@si rosie@si tea@si .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+38,,MOT,drink your tea &=sips .,NONE,directive statement with action,0.0,0.0,0.0,0.0
+39,,MOT,drinking .,NONE,simple statement,0.0,0.0,0.0,0.0
+40,,MOT,here drink .,NONE,directive statement,0.0,0.0,0.0,0.0
+41,,MOT,drink tea .,NONE,directive statement,0.0,0.0,0.0,0.0
+42,,MOT,don't put it in your mouth though just &=sips .,NONE,directive statement with action,0.0,0.0,0.0,0.0
+43,,MOT,oh maybe baby wants to drink tea .,NONE,speculative statement,0.0,0.0,0.0,0.0
+44,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+45,,CHI,Mommy stop singing .,T11,emotional reactivity in speech; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+46,,MOT,Mommy stop singing ?,NONE,inquiry about action,0.0,0.0,0.0,0.0
+47,,MOT,okay Mommy stop singing .,NONE,simple statement,0.0,0.0,0.0,0.0
+48,,MOT,maybe baby wants to drink tea .,NONE,speculative statement,0.0,0.0,0.0,0.0
+49,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+50,,MOT,does baby want tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+51,,MOT,tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+52,,MOT,&=sips .,NONE,non-verbal action,0.0,0.0,0.0,0.0
+53,,MOT,oh maybe baby wants to eat .,NONE,normal statement,0.0,0.0,0.0,0.0
+54,,MOT,does baby wanna eat ?,NONE,normal question,0.0,0.0,0.0,0.0
+55,,MOT,baby .,NONE,normal statement,0.0,0.0,0.0,0.0
+56,,CHI,xxx Mommy &~sm .,NONE,non-verbal action,0.0,0.0,0.0,0.0
+57,,CHI,Mommy stop singing .,T07,child vocalizes with urgency; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+58,,MOT,okay I'm gonna stop singing but we hafta stay here .,NONE,normal statement,0.0,0.0,0.0,0.0
+59,,CHI,&=yells .,T07,"child yells, indicating excitement or urgency; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+60,,MOT,yeah come Fred help Mommy .,NONE,normal statement,0.0,0.0,0.0,0.0
+61,,CHI,&=vocalizes .,T07,"child vocalizes, showing excitement; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+62,,MOT,oh I'm gonna get you .,NONE,normal statement,0.0,0.0,0.0,0.0
+63,,MOT,where's the teaspoon ?,NONE,normal question,0.0,0.0,0.0,0.0
+64,,MOT,teaspoon  [/] teaspoon comes here .,NONE,normal statement,0.0,0.0,0.0,0.0
+65,,MOT,"&=grunts &=growls , oh don't eat .",NONE,non-verbal action,0.0,0.0,0.0,0.0
+66,,MOT,don't eat the teaspoon .,NONE,normal statement,0.0,0.0,0.0,0.0
+67,,MOT,yuck .,NONE,normal statement,0.0,0.0,0.0,0.0
+68,,MOT,the teaspoon's yucky .,NONE,normal statement,0.0,0.0,0.0,0.0
+69,,MOT,ye(a)h it's yucky .,NONE,normal statement,0.0,0.0,0.0,0.0
+70,,MOT,the teaspoon is yucky .,NONE,normal statement,0.0,0.0,0.0,0.0
+71,,MOT,baby wants to go on the truck .,NONE,normal statement,0.0,0.0,0.0,0.0
+72,,MOT,baby .,NONE,normal statement,0.0,0.0,0.0,0.0
+73,,MOT,vroom@o  [/] vroom@o beep@o &~eh .,T07,"mother uses playful vocalizations, indicating excitement; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+74,,MOT,uhoh no <wait for me>  [/] wait for me .,NONE,normal statement,0.0,0.0,0.0,0.0
+75,,MOT,wait for me Fred come here .,NONE,normal statement,0.0,0.0,0.0,0.0
+76,,MOT,this is the station .,NONE,normal statement,0.0,0.0,0.0,0.0
+77,,MOT,uhoh  [/] uhoh  [/] uhoh ouch  [/] ouch  [/] ouch we hafta drive here .,T07,mother expresses urgency with vocalizations; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+78,,MOT,look the road comes here .,NONE,normal statement,0.0,0.0,0.0,0.0
+79,,MOT,we hafta come stop at the house .,NONE,normal statement,0.0,0.0,0.0,0.0
+80,,MOT,here's the gate .,NONE,normal statement,0.0,0.0,0.0,0.0
+81,,MOT,we drive here .,NONE,normal statement,0.0,0.0,0.0,0.0
+82,,MOT,there's the road .,NONE,normal statement,0.0,0.0,0.0,0.0
+83,,MOT,we drive only here Fred .,NONE,normal statement,0.0,0.0,0.0,0.0
+84,,MOT,no  [/] no  [/] no don't eat .,NONE,normal statement,0.0,0.0,0.0,0.0
+85,,MOT,there's nothing there .,NONE,normal statement,0.0,0.0,0.0,0.0
+86,,MOT,don't put it in your mouth it's dirty .,NONE,normal statement,0.0,0.0,0.0,0.0
+87,,MOT,it's not your teaspoon .,NONE,normal statement,0.0,0.0,0.0,0.0
+88,,MOT,oops &=gasps .,T07,"mother gasps, indicating surprise; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+89,,CHI,xxx .,NONE,non-verbal action,0.0,0.0,0.0,0.0
+90,,MOT,we broke the cup &=laughs .,T11,"mother laughs, showing emotional reactivity; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+100,,CHI,xxx .,NONE,no significant content in utterance,0.0,0.0,0.0,0.0
+101,,MOT,uhoh !,NONE,no significant content in utterance,0.0,0.0,0.0,0.0
+102,,CHI,xxx &~t <touch your foot>  [/] touch your foot .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+103,,MOT,foot .,NONE,no significant content in utterance,0.0,0.0,0.0,0.0
+104,,CHI,touch your foot .,NONE,no significant content in utterance,0.0,0.0,0.0,0.0
+105,,MOT,&~tutyfoot .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+106,,CHI,touch &~y .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+107,,MOT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+108,,CHI,touch your &~ips .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+109,,MOT,oh touch your hips ?,NONE,simple question,0.0,0.0,0.0,0.0
+110,,MOT,who should touch their hips ?,NONE,simple question,0.0,0.0,0.0,0.0
+111,,MOT,look .,NONE,simple directive,0.0,0.0,0.0,0.0
+112,,MOT,doll touch her hips .,NONE,simple directive,0.0,0.0,0.0,0.0
+113,,MOT,"touch your , hips .",NONE,simple directive,0.0,0.0,0.0,0.0
+114,,MOT,touch your .,NONE,incomplete directive,0.0,0.0,0.0,0.0
+115,,MOT,tell the doll .,NONE,simple directive,0.0,0.0,0.0,0.0
+116,,MOT,touch your +...,NONE,incomplete directive,0.0,0.0,0.0,0.0
+117,,MOT,mouth .,NONE,simple directive,0.0,0.0,0.0,0.0
+118,,MOT,touch your +...,NONE,incomplete directive,0.0,0.0,0.0,0.0
+119,,CHI,++ mouth .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+120,,MOT,touch your +...,NONE,incomplete directive,0.0,0.0,0.0,0.0
+121,,CHI,++ cheek .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+122,,MOT,but you're not looking .,NONE,simple observation,0.0,0.0,0.0,0.0
+123,,MOT,what else should Mommy touch ?,NONE,simple question,0.0,0.0,0.0,0.0
+124,,MOT,"touch your , eyes .",NONE,simple directive,0.0,0.0,0.0,0.0
+125,,MOT,touch your eyes .,NONE,simple directive,0.0,0.0,0.0,0.0
+126,,CHI,touch your neck .,NONE,simple directive,0.0,0.0,0.0,0.0
+127,,MOT,you touch .,NONE,simple directive,0.0,0.0,0.0,0.0
+128,,MOT,touch neck .,NONE,simple directive,0.0,0.0,0.0,0.0
+129,,MOT,touch your feet .,NONE,simple directive,0.0,0.0,0.0,0.0
+130,,MOT,touch feet .,NONE,simple directive,0.0,0.0,0.0,0.0
+131,,MOT,touch your feet .,NONE,simple directive,0.0,0.0,0.0,0.0
+132,,CHI,xxx .,NONE,no significant content in utterance,0.0,0.0,0.0,0.0
+133,,MOT,feet .,NONE,no significant content in utterance,0.0,0.0,0.0,0.0
+134,,MOT,"touch your , head .",NONE,incomplete directive,0.0,0.0,0.0,0.0
+135,,MOT,touch your +...,NONE,incomplete directive,0.0,0.0,0.0,0.0
+136,,CHI,++ shoulder .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+137,,MOT,"shoulders , okay .",NONE,simple observation,0.0,0.0,0.0,0.0
+138,,MOT,touch your +...,NONE,incomplete directive,0.0,0.0,0.0,0.0
+139,,CHI,++ feet .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+140,,MOT,"feet , are you touching feet ?",NONE,simple question,0.0,0.0,0.0,0.0
+141,,MOT,"touch your , touch dolly .",NONE,simple directive,0.0,0.0,0.0,0.0
+142,,MOT,touch dolly's stomach .,NONE,simple directive,0.0,0.0,0.0,0.0
+143,,CHI,&~to &~ge &~ma .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+144,,MOT,dolly's stomach ?,NONE,simple question,0.0,0.0,0.0,0.0
+145,,CHI,&=sings .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+146,,CHI,touch your xxx .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+147,,MOT,shoulders ?,NONE,simple question,0.0,0.0,0.0,0.0
+148,,MOT,what about thumb ?,NONE,simple question,0.0,0.0,0.0,0.0
+149,,MOT,touch dolly's thumb .,NONE,simple directive,0.0,0.0,0.0,0.0
+150,,CHI,&~neef .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+151,,MOT,"knees , yes that's knees .",NONE,normal response,0.0,0.0,0.0,0.0
+152,,MOT,but touch dolly's thumb .,NONE,normal instruction,0.0,0.0,0.0,0.0
+153,,CHI,knee .,NONE,single word response,0.0,0.0,0.0,0.0
+154,,CHI,eyes .,NONE,single word response,0.0,0.0,0.0,0.0
+155,,MOT,eyes .,NONE,normal response,0.0,0.0,0.0,0.0
+156,,CHI,eye .,NONE,single word response,0.0,0.0,0.0,0.0
+157,,MOT,eyes .,NONE,normal response,0.0,0.0,0.0,0.0
+158,,CHI,eyes .,NONE,single word response,0.0,0.0,0.0,0.0
+159,,MOT,"eyes , ye(a)h .",NONE,normal response,0.0,0.0,0.0,0.0
+160,,CHI,ears .,NONE,single word response,0.0,0.0,0.0,0.0
+161,,MOT,ears .,NONE,normal response,0.0,0.0,0.0,0.0
+162,,CHI,mouth .,NONE,single word response,0.0,0.0,0.0,0.0
+163,,MOT,ye(a)h mouth .,NONE,normal response,0.0,0.0,0.0,0.0
+164,,CHI,nose .,NONE,single word response,0.0,0.0,0.0,0.0
+165,,MOT,nose .,NONE,normal response,0.0,0.0,0.0,0.0
+166,,CHI,cheeks .,NONE,single word response,0.0,0.0,0.0,0.0
+167,,MOT,cheeks like here .,NONE,normal response,0.0,0.0,0.0,0.0
+168,,MOT,cheeks .,NONE,normal response,0.0,0.0,0.0,0.0
+169,,CHI,thumb .,NONE,single word response,0.0,0.0,0.0,0.0
+170,,MOT,"thumb , ye(a)h thumb .",NONE,normal response,0.0,0.0,0.0,0.0
+171,,CHI,&-um .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+172,,MOT,arm .,NONE,single word response,0.0,0.0,0.0,0.0
+173,,CHI,arm .,NONE,single word response,0.0,0.0,0.0,0.0
+174,,MOT,okay arm .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+175,,CHI,teeth .,NONE,single word response,0.0,0.0,0.0,0.0
+176,,MOT,teeth .,NONE,single word response,0.0,0.0,0.0,0.0
+177,,MOT,dolly doesn't have teeth though .,NONE,normal statement,0.0,0.0,0.0,0.0
+178,,MOT,are there teeth there ?,NONE,normal question,0.0,0.0,0.0,0.0
+179,,MOT,&=gasps are there teeth ?,NONE,normal question,0.0,0.0,0.0,0.0
+180,,MOT,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+181,,CHI,tongue .,NONE,single word response,0.0,0.0,0.0,0.0
+182,,MOT,tongue .,NONE,single word response,0.0,0.0,0.0,0.0
+183,,MOT,does dolly have a tongue ?,NONE,normal question,0.0,0.0,0.0,0.0
+184,,MOT,look .,NONE,normal instruction,0.0,0.0,0.0,0.0
+185,,MOT,"dolly wants to drink milk , with the bottle .",NONE,normal statement,0.0,0.0,0.0,0.0
+186,,MOT,doesn't have a tongue .,NONE,normal statement,0.0,0.0,0.0,0.0
+187,,MOT,I don't know if that fits there .,NONE,normal statement,0.0,0.0,0.0,0.0
+188,,MOT,oh !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+189,,MOT,it's stuck .,NONE,normal statement,0.0,0.0,0.0,0.0
+190,,MOT,it stuck .,NONE,normal statement,0.0,0.0,0.0,0.0
+191,,MOT,that's for drinking milk .,NONE,normal statement,0.0,0.0,0.0,0.0
+192,,CHI,head .,NONE,single word response,0.0,0.0,0.0,0.0
+193,,MOT,head .,NONE,single word response,0.0,0.0,0.0,0.0
+194,,CHI,shoulders .,NONE,single word response,0.0,0.0,0.0,0.0
+195,,MOT,shoulders .,NONE,single word response,0.0,0.0,0.0,0.0
+196,,CHI,touch her head .,NONE,normal instruction,0.0,0.0,0.0,0.0
+197,,MOT,who ?,NONE,normal question,0.0,0.0,0.0,0.0
+198,,MOT,touch who's head ?,NONE,normal question,0.0,0.0,0.0,0.0
+199,,MOT,"touch your head or &~m , touch Fred's head or Mommy's head ?",NONE,normal question,0.0,0.0,0.0,0.0
+200,,CHI,head .,NONE,single word utterance with no context,0.0,0.0,0.0,0.0
+201,,MOT,dolly's &~t head ?,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+202,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+203,,CHI,touch her shoulders .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+204,,CHI,touch your foot .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+205,,MOT,foot ?,NONE,"simple question, lacks complexity",0.0,0.0,0.0,0.0
+206,,MOT,there's Fred's foot .,NONE,"descriptive statement, clear intent",0.0,0.0,0.0,0.0
+207,,CHI,xxx .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+208,,CHI,hair .,NONE,single word utterance with no context,0.0,0.0,0.0,0.0
+209,,MOT,dolly's tired .,NONE,"descriptive statement, clear intent",0.0,0.0,0.0,0.0
+210,,MOT,dolly wants to sleep .,NONE,"descriptive statement, clear intent",0.0,0.0,0.0,0.0
+211,,MOT,dolly's tired .,NONE,"repetitive statement, clear intent",0.0,0.0,0.0,0.0
+212,,MOT,<pants on>  [/] pants on dolly .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+213,,MOT,time to sleep .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+214,,CHI,xxx .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+215,,MOT,good_night .,NONE,"farewell statement, clear intent",0.0,0.0,0.0,0.0
+216,,MOT,dolly's tired .,NONE,"repetitive statement, clear intent",0.0,0.0,0.0,0.0
+217,,MOT,good_night dolly .,NONE,"farewell statement, clear intent",0.0,0.0,0.0,0.0
+218,,CHI,no  [/] no xxx .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+219,,MOT,but dolly's tired .,NONE,"descriptive statement, clear intent",0.0,0.0,0.0,0.0
+220,,MOT,dolly wants to sleep .,NONE,"descriptive statement, clear intent",0.0,0.0,0.0,0.0
+221,,MOT,uhoh .,NONE,"exclamatory statement, clear intent",0.0,0.0,0.0,0.0
+222,,MOT,where you going ?,NONE,"simple question, lacks complexity",0.0,0.0,0.0,0.0
+223,,MOT,where you guys going ?,NONE,"simple question, lacks complexity",0.0,0.0,0.0,0.0
+224,,MOT,time to sleep .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+225,,MOT,time to got to bed .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+226,,MOT,good_night dolly .,NONE,"farewell statement, clear intent",0.0,0.0,0.0,0.0
+227,,MOT,it's time to go to bed .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+228,,MOT,oh no  [/] no you're waking dolly up dolly's sleeping .,NONE,"exclamatory statement, clear intent",0.0,0.0,0.0,0.0
+229,,MOT,good_night dolly .,NONE,"farewell statement, clear intent",0.0,0.0,0.0,0.0
+230,,MOT,time to go to bed .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+231,,MOT,"it's time for &~e , no don't eat that .",NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+232,,MOT,time for Fred to make a train .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+233,,MOT,choo_choo train .,NONE,"descriptive statement, clear intent",0.0,0.0,0.0,0.0
+234,,CHI,xxx .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+235,,CHI,xxx .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+236,,MOT,oh  [/] oh no  [/] no  [/] no <don't touch>  [/] don't touch .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+237,,MOT,no touching .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+238,,MOT,don't touch .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+239,,MOT,come  [/] come  [/] come .,NONE,"repetitive directive, clear intent",0.0,0.0,0.0,0.0
+240,,MOT,don't touch that one .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+241,,CHI,&=hums .,NONE,"unclear utterance, lacks context",0.0,0.0,0.0,0.0
+242,,MOT,oh no we don't touch .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+243,,MOT,we don't touch that one .,NONE,"directive statement, clear intent",0.0,0.0,0.0,0.0
+250,,MOT,what's the train gonna say ?,NONE,normal question,0.0,0.0,0.0,0.0
+251,,CHI,&=hums .,T07,"child hums continuously, indicating vocal restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+252,,MOT,&=hums .,T07,"mother hums, showing vocal restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+253,,MOT,there's our train .,NONE,normal statement,0.0,0.0,0.0,0.0
+254,,CHI,&=laughs &~aka !,T27,"child laughs quickly, showing excitement; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+255,,MOT,hm: ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+256,,CHI,&~aka .,NONE,normal statement,0.0,0.0,0.0,0.0
+257,,CHI,&=sings .,T07,"child sings, indicating vocal restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+258,,MOT,there's a train .,NONE,normal statement,0.0,0.0,0.0,0.0
+259,,MOT,where's the train going ?,NONE,normal question,0.0,0.0,0.0,0.0
+260,,CHI,&~ani .,NONE,normal statement,0.0,0.0,0.0,0.0
+261,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+262,,MOT,hm: ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+263,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+264,,MOT,you do what ?,NONE,normal question,0.0,0.0,0.0,0.0
+265,,CHI,&=hums .,T07,"child hums continuously, indicating vocal restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+266,,MOT,there .,NONE,normal statement,0.0,0.0,0.0,0.0
+267,,CHI,&~whachou xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+268,,CHI,&=hums .,T07,"child hums continuously, indicating vocal restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+269,,CHI,&~wachou xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+270,,MOT,what ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+271,,MOT,there's a train .,NONE,normal statement,0.0,0.0,0.0,0.0
+272,,CHI,&=hums .,T07,"child hums continuously, indicating vocal restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+273,,CHI,&~tipe .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+274,,MOT,superb the train's going choo@o  [/] choo@o .,NONE,normal statement,0.0,0.0,0.0,0.0
+275,,MOT,ah !,NONE,normal exclamation,0.0,0.0,0.0,0.0
+276,,MOT,what happened ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+277,,CHI,&~k .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+278,,MOT,what happened ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+279,,MOT,what happened ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+280,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+281,,MOT,okay Fred .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+282,,MOT,now@si it's@si time@si to@si tidy@si up@si .,NONE,normal statement,0.0,0.0,0.0,0.0
+283,,MOT,tidy@si up@si .,NONE,normal statement,0.0,0.0,0.0,0.0
+284,,MOT,tidy@si up@si .,NONE,normal statement,0.0,0.0,0.0,0.0
+285,,MOT,come .,NONE,normal command,0.0,0.0,0.0,0.0
+286,,MOT,tidy up .,NONE,normal command,0.0,0.0,0.0,0.0
+287,,MOT,Fred .,NONE,normal statement,0.0,0.0,0.0,0.0
+288,,MOT,time to tidy up .,NONE,normal statement,0.0,0.0,0.0,0.0
+300,,CHI,xxx .,NONE,no discernible content in utterance,0.0,0.0,0.0,0.0
+301,,MOT,clean up .,NONE,simple directive,0.0,0.0,0.0,0.0
+302,,CHI,xxx .,NONE,no discernible content in utterance,0.0,0.0,0.0,0.0
+303,,MOT,clean up .,NONE,simple directive,0.0,0.0,0.0,0.0
+304,,MOT,now@si it's@si time@si to@si tidy@si up@si .,T07,mother uses vocal fillers while speaking; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+305,,MOT,tidy@si up@si .,NONE,simple directive,0.0,0.0,0.0,0.0
+306,,MOT,tidy@si up@si .,NONE,simple directive,0.0,0.0,0.0,0.0
+307,,CHI,ah .,NONE,minimal response,0.0,0.0,0.0,0.0
+308,,MOT,now@si it's@si time@si to@si +...,T07,mother uses vocal fillers while speaking; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+309,,CHI,&~sheba .,NONE,no discernible content in utterance,0.0,0.0,0.0,0.0
+310,,MOT,tidy@si up@si and@si +...,T07,mother uses vocal fillers while speaking; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+311,,MOT,put +/.,NONE,minimal response,0.0,0.0,0.0,0.0
+312,,CHI,&~che &~che .,NONE,no discernible content in utterance,0.0,0.0,0.0,0.0
+313,,MOT,Fred .,NONE,simple name mention,0.0,0.0,0.0,0.0
+314,,MOT,we're tidying up it's time to clean up .,NONE,simple directive,0.0,0.0,0.0,0.0
+315,,MOT,it's not time to play drum .,NONE,simple directive,0.0,0.0,0.0,0.0
+316,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+317,,CHI,xxx .,NONE,no discernible content in utterance,0.0,0.0,0.0,0.0
+318,,MOT,behind you .,NONE,simple directive,0.0,0.0,0.0,0.0
+319,,MOT,can you bring the lid ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+320,,MOT,close .,NONE,minimal response,0.0,0.0,0.0,0.0
+321,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+322,,MOT,"<can you>  [/] , can you give it to Healy ?",NONE,simple inquiry,0.0,0.0,0.0,0.0
+323,,MOT,pick it up .,NONE,simple directive,0.0,0.0,0.0,0.0
+324,,MOT,go give Healy .,NONE,simple directive,0.0,0.0,0.0,0.0
+325,,MOT,go give Healy .,NONE,simple directive,0.0,0.0,0.0,0.0
+326,,MOT,<can you>  [/] can you carry it ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+327,,MOT,here .,NONE,minimal response,0.0,0.0,0.0,0.0
+328,,MOT,go .,NONE,simple directive,0.0,0.0,0.0,0.0
+329,,MOT,give Healy .,NONE,simple directive,0.0,0.0,0.0,0.0
+330,,MOT,and don't play with that .,NONE,simple directive,0.0,0.0,0.0,0.0

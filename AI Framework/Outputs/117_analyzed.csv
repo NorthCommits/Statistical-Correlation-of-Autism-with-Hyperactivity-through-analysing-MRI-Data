@@ -1,0 +1,322 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,MOT,should we have some tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+1,,MOT,let's see what else we need xxx .,NONE,normal statement,0.0,0.0,0.0,0.0
+2,,CHI,&~e &~e the baby xxx .,T09,"child repeats phrase ""the baby"" showing echolalia; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+3,,MOT,and the baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+4,,MOT,does she want tea too ?,NONE,normal question,0.0,0.0,0.0,0.0
+5,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+6,,MOT,"no , she's gonna have her bottle .",NONE,normal statement,0.0,0.0,0.0,0.0
+7,,MOT,"okay &~a , that's a good idea .",NONE,normal statement,0.0,0.0,0.0,0.0
+8,,MOT,so you give your baby the bottle and then we can have &~sa cup of tea .,NONE,normal statement,0.0,0.0,0.0,0.0
+9,,MOT,what do you think ?,NONE,normal question,0.0,0.0,0.0,0.0
+10,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+11,,MOT,ye(a)h okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+12,,CHI,she loves  [/] loves  [/] loves +/.,T21,"child repeats ""loves"" excessively; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+13,,MOT,her bottle .,NONE,normal statement,0.0,0.0,0.0,0.0
+14,,MOT,now would you like some tea .,NONE,normal question,0.0,0.0,0.0,0.0
+15,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+16,,MOT,okay I'll pour some tea in there .,NONE,normal statement,0.0,0.0,0.0,0.0
+17,,CHI,and xxx .,NONE,incomplete utterance,0.0,0.0,0.0,0.0
+18,,MOT,now what else would you like ?,NONE,normal question,0.0,0.0,0.0,0.0
+19,,CHI,I +/.,NONE,incomplete utterance,0.0,0.0,0.0,0.0
+20,,MOT,would you like some sugar in there ?,NONE,normal question,0.0,0.0,0.0,0.0
+21,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+22,,MOT,(o)kay put them in there .,NONE,normal statement,0.0,0.0,0.0,0.0
+23,,MOT,do you wanna mix it up for me ?,NONE,normal question,0.0,0.0,0.0,0.0
+24,,MOT,here you mix it up .,NONE,normal statement,0.0,0.0,0.0,0.0
+25,,MOT,I'm gonna have some sugar in mine too and I'll mix it up ?,NONE,normal statement,0.0,0.0,0.0,0.0
+26,,MOT,you wanna take a sip &=sips .,NONE,normal question,0.0,0.0,0.0,0.0
+27,,CHI,what take xxx .,NONE,incomplete utterance,0.0,0.0,0.0,0.0
+28,,MOT,"oh she's too busy &~ea , having her bottle ?",NONE,normal statement,0.0,0.0,0.0,0.0
+29,,MOT,you want me to hold the baby for you while you take &~y your tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+30,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+31,,MOT,no you're gonna hold her ?,NONE,normal question,0.0,0.0,0.0,0.0
+32,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+33,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+34,,CHI,she loves milk .,NONE,normal statement,0.0,0.0,0.0,0.0
+35,,MOT,she loves milk okay &=laughs .,NONE,normal statement,0.0,0.0,0.0,0.0
+36,,MOT,alright let's see what else we got here .,NONE,normal statement,0.0,0.0,0.0,0.0
+37,,CHI,<she wants>  [/] she wants to play her toys xxx .,T21,"child repeats ""she wants"" excessively; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+38,,MOT,<do you wanna put her>  [/] do you wanna put her back in there for now and then we can have some tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+39,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+40,,MOT,"no , what else do you wanna play with ?",NONE,normal question,0.0,0.0,0.0,0.0
+41,,CHI,I needta xxx .,NONE,incomplete utterance,0.0,0.0,0.0,0.0
+42,,CHI,"I wanna , I don't wanna play with this anymore .",T01,child dominates conversation with a long monologue about not wanting to play; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+43,,MOT,you don't wanna play with the tea+set ?,NONE,normal question,0.0,0.0,0.0,0.0
+44,,MOT,should we put it back in the box ?,NONE,normal question,0.0,0.0,0.0,0.0
+45,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0
+46,,MOT,alright .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+47,,MOT,can you help me put it back in the box please .,NONE,normal request,0.0,0.0,0.0,0.0
+48,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+50,,MOT,you wanna take your cell+phone .,NONE,normal suggestion,0.0,0.0,0.0,0.0
+51,,CHI,no &=groans .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+52,,MOT,&~jus grandma's on the phone .,NONE,normal statement,0.0,0.0,0.0,0.0
+53,,CHI,I don't want phone .,NONE,simple refusal,0.0,0.0,0.0,0.0
+54,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+55,,MOT,"you just wanna &~f , you wanna play with your baby eh ?",NONE,normal question,0.0,0.0,0.0,0.0
+56,,MOT,well I'm gonna get a baby too .,NONE,normal statement,0.0,0.0,0.0,0.0
+57,,MOT,I'm gonna brush her  [/] her hair &=hums .,NONE,normal statement,0.0,0.0,0.0,0.0
+58,,MOT,oh sorry I'm brushing your hair .,NONE,normal apology,0.0,0.0,0.0,0.0
+59,,MOT,I got confused .,NONE,normal statement,0.0,0.0,0.0,0.0
+60,,CHI,don't brush my hair .,NONE,simple refusal,0.0,0.0,0.0,0.0
+61,,MOT,oh just the baby's hair ?,NONE,normal question,0.0,0.0,0.0,0.0
+62,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+63,,MOT,alright I'll brush her hair .,NONE,normal statement,0.0,0.0,0.0,0.0
+64,,CHI,she loves this .,NONE,normal statement,0.0,0.0,0.0,0.0
+65,,MOT,she does eh ?,NONE,normal question,0.0,0.0,0.0,0.0
+66,,CHI,she loves to take her hat off .,NONE,normal statement,0.0,0.0,0.0,0.0
+67,,MOT,oh does she ?,NONE,normal question,0.0,0.0,0.0,0.0
+68,,CHI,I don't want her hat .,NONE,simple refusal,0.0,0.0,0.0,0.0
+69,,MOT,okay well then you don't hafta put it on .,NONE,normal statement,0.0,0.0,0.0,0.0
+70,,MOT,does her head get hot ?,NONE,normal question,0.0,0.0,0.0,0.0
+71,,MOT,is that why she takes her hat off ?,NONE,normal question,0.0,0.0,0.0,0.0
+72,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+73,,MOT,ye(a)h .,NONE,normal affirmation,0.0,0.0,0.0,0.0
+74,,CHI,"that's why he just , she just gets a little  [/] little rest by this .",NONE,somewhat unclear statement,0.0,0.0,0.0,0.0
+75,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+76,,MOT,that's a lot of milk you're giving her .,NONE,normal observation,0.0,0.0,0.0,0.0
+77,,MOT,I'm gonna check out the blocks .,NONE,normal statement,0.0,0.0,0.0,0.0
+78,,CHI,you get to build a tower .,NONE,normal statement,0.0,0.0,0.0,0.0
+79,,MOT,I'm gonna build something .,NONE,normal statement,0.0,0.0,0.0,0.0
+80,,CHI,what are you get to build .,NONE,normal question,0.0,0.0,0.0,0.0
+81,,MOT,I dunno .,NONE,simple response,0.0,0.0,0.0,0.0
+82,,MOT,do you wanna help me ?,NONE,normal question,0.0,0.0,0.0,0.0
+83,,CHI,no thank_you .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+84,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+85,,CHI,I'm okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+86,,MOT,"you're okay , alright well I'm gonna build something .",NONE,normal statement,0.0,0.0,0.0,0.0
+87,,CHI,I &~jus +/.,NONE,unclear utterance,0.0,0.0,0.0,0.0
+88,,MOT,"aw what do you think I &~sh , I think I'll put the blue ones on the bottom .",NONE,normal statement,0.0,0.0,0.0,0.0
+89,,CHI,and you put the yellow ones +...,NONE,normal statement,0.0,0.0,0.0,0.0
+90,,MOT,next ?,NONE,normal question,0.0,0.0,0.0,0.0
+91,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+92,,MOT,do you think this is good ?,NONE,normal question,0.0,0.0,0.0,0.0
+93,,MOT,so what should I do next ?,NONE,normal question,0.0,0.0,0.0,0.0
+94,,CHI,you put the orange ones on the top .,NONE,normal statement,0.0,0.0,0.0,0.0
+95,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+96,,MOT,what do you think of that ?,NONE,normal question,0.0,0.0,0.0,0.0
+97,,CHI,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+98,,MOT,do you like that ?,NONE,normal question,0.0,0.0,0.0,0.0
+99,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+100,,CHI,what's that could be ?,NONE,simple question,0.0,0.0,0.0,0.0
+101,,MOT,"it's a &~t , it's a tea tower .",NONE,simple statement,0.0,0.0,0.0,0.0
+102,,MOT,how's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+103,,MOT,(o)kay it's in her mouth sweetie .,NONE,simple statement,0.0,0.0,0.0,0.0
+104,,MOT,she's fine &=laughs .,NONE,normal statement,0.0,0.0,0.0,0.0
+105,,MOT,now listen .,NONE,simple directive,0.0,0.0,0.0,0.0
+106,,MOT,"do you wanna try putting these blocks , oh &~l oh I forgot a block .",NONE,normal statement,0.0,0.0,0.0,0.0
+107,,MOT,where should we put this guy ?,NONE,normal question,0.0,0.0,0.0,0.0
+108,,CHI,&~th that fit here .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+109,,MOT,here ?,NONE,simple question,0.0,0.0,0.0,0.0
+110,,MOT,alright .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+111,,MOT,I'm gonna try doing something different with these .,NONE,normal statement,0.0,0.0,0.0,0.0
+112,,MOT,do you wanna help me ?,NONE,normal question,0.0,0.0,0.0,0.0
+113,,CHI,"yes , no  [/] no  [/] no  [/] no  [/] no .",T12,child shows difficulty sustaining focus with repetitive responses; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+114,,MOT,(o)kay .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+115,,CHI,the baby wants to help too .,NONE,normal statement,0.0,0.0,0.0,0.0
+116,,MOT,oh she does ?,NONE,simple question,0.0,0.0,0.0,0.0
+117,,MOT,"okay well what does &~th , what does the baby want me to do ?",NONE,normal question,0.0,0.0,0.0,0.0
+118,,CHI,no I wanna hold her .,NONE,simple statement,0.0,0.0,0.0,0.0
+119,,MOT,you can hold her .,NONE,simple statement,0.0,0.0,0.0,0.0
+120,,CHI,here you go .,NONE,simple statement,0.0,0.0,0.0,0.0
+121,,MOT,thank_you .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+122,,MOT,"okay you can hold her but now that you have a free hand you can &-um , help me with the blocks .",NONE,normal statement,0.0,0.0,0.0,0.0
+123,,CHI,&~wee &=laughs .,T07,child exhibits vocal restlessness with laughter; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+124,,MOT,oh she's &=laughs .,T07,mother exhibits vocal restlessness with laughter; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+125,,CHI,that tickles .,NONE,simple statement,0.0,0.0,0.0,0.0
+126,,MOT,that tickles ?,NONE,simple question,0.0,0.0,0.0,0.0
+127,,CHI,&=laughs I  [/] I want the bottle &~a and she wants to  [/] to drink some more and more .,T01,child talks excessively about the baby wanting to drink; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+128,,CHI,she's really  [/] really thirsty .,T01,child talks excessively about the baby being thirsty; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+129,,MOT,"she is eh , what's her name ?",NONE,simple question,0.0,0.0,0.0,0.0
+130,,CHI,Hoonst .,NONE,simple statement,0.0,0.0,0.0,0.0
+131,,MOT,Hoonst is her name &=laughs .,NONE,simple statement,0.0,0.0,0.0,0.0
+132,,CHI,0 .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+133,,MOT,that's a &~s interesting name .,NONE,simple statement,0.0,0.0,0.0,0.0
+134,,MOT,&=laughs how old is she ?,NONE,simple question,0.0,0.0,0.0,0.0
+135,,CHI,she's three .,NONE,simple statement,0.0,0.0,0.0,0.0
+136,,MOT,"she's three , just like you ?",NONE,simple statement,0.0,0.0,0.0,0.0
+137,,MOT,you don't drink from a bottle and you're three .,NONE,simple statement,0.0,0.0,0.0,0.0
+138,,MOT,maybe she's younger than three .,NONE,simple statement,0.0,0.0,0.0,0.0
+139,,CHI,she's  [/] she's very three .,T21,"child repeats the phrase ""she's very three"" beyond relevance; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+140,,MOT,she's very three .,NONE,simple statement,0.0,0.0,0.0,0.0
+141,,MOT,what color's her outfit ?,NONE,simple question,0.0,0.0,0.0,0.0
+142,,CHI,purple .,NONE,simple statement,0.0,0.0,0.0,0.0
+150,,CHI,no !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+151,,MOT,www .,NONE,simple response,0.0,0.0,0.0,0.0
+152,,MOT,do you think it's time for her to go to bed soon ?,NONE,normal question,0.0,0.0,0.0,0.0
+153,,MOT,take a nap ?,NONE,normal question,0.0,0.0,0.0,0.0
+154,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+155,,MOT,no eh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+156,,CHI,she doesn't wanna go for a nap .,NONE,normal statement,0.0,0.0,0.0,0.0
+157,,CHI,soon she wants to eat .,T01,child provides a long response about wanting to eat; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+158,,MOT,&=laughs she's really hungry .,NONE,normal statement,0.0,0.0,0.0,0.0
+159,,CHI,and drink too .,T01,child adds to the conversation with a longer response about drinking; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+160,,MOT,"yeah I can see &~tha , well do you wanna give her some food ?",NONE,normal question,0.0,0.0,0.0,0.0
+161,,MOT,"you should give her some food , with a spoon on the plate .",NONE,normal statement,0.0,0.0,0.0,0.0
+162,,MOT,you said she wanted to eat .,NONE,normal statement,0.0,0.0,0.0,0.0
+163,,MOT,oh that's a good idea .,NONE,normal statement,0.0,0.0,0.0,0.0
+164,,CHI,maybe she wants a banana .,T01,"child suggests a specific food, contributing to the conversation; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+165,,MOT,"oh &~e , is that a banana ?",NONE,normal question,0.0,0.0,0.0,0.0
+166,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+167,,MOT,"oh &~tha , you're gonna hafta peel it for her won't you .",NONE,normal statement,0.0,0.0,0.0,0.0
+168,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+169,,MOT,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+170,,MOT,"is , Daddy already peeled it for you ?",NONE,normal question,0.0,0.0,0.0,0.0
+171,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+172,,CHI,she doesn't like bananas .,T01,child provides a longer explanation about food preferences; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+173,,MOT,do you like bananas ?,NONE,normal question,0.0,0.0,0.0,0.0
+174,,CHI,<she likes>  [/] she likes to eat apples xxx .,T01,child elaborates on food preferences with a longer response; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+175,,MOT,"&=gasps well do you think these could be an &~a , oh maybe these are oranges .",NONE,normal statement,0.0,0.0,0.0,0.0
+176,,MOT,what do you think ?,NONE,normal question,0.0,0.0,0.0,0.0
+177,,MOT,do you think she likes oranges ?,NONE,normal question,0.0,0.0,0.0,0.0
+178,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+179,,MOT,should we give her some ?,NONE,normal question,0.0,0.0,0.0,0.0
+180,,CHI,yes xxx .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+181,,MOT,should I peel it for her ?,NONE,normal question,0.0,0.0,0.0,0.0
+182,,CHI,yum_yum .,T01,child expresses enjoyment with a longer response; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+183,,MOT,"alright , there's some orange baby .",NONE,normal statement,0.0,0.0,0.0,0.0
+184,,CHI,&=eats .,NONE,normal statement,0.0,0.0,0.0,0.0
+185,,MOT,do you want some orange too ?,NONE,normal question,0.0,0.0,0.0,0.0
+186,,CHI,&=eats .,NONE,normal statement,0.0,0.0,0.0,0.0
+187,,MOT,&=laughs .,NONE,normal statement,0.0,0.0,0.0,0.0
+188,,CHI,&=laughs .,NONE,normal statement,0.0,0.0,0.0,0.0
+189,,MOT,and what kind of food is this then ?,NONE,normal question,0.0,0.0,0.0,0.0
+190,,MOT,if this is a banana and that's an orange what do you think this is ?,NONE,normal question,0.0,0.0,0.0,0.0
+191,,CHI,&~i it's a  [/] a  [/] a  [/] a apple .,T08,child shows disfluency with repeated sounds while,0.0,0.0,0.0,0.0
+200,,MOT,"pineapples , well what color are pineapples ?",NONE,normal question,0.0,0.0,0.0,0.0
+201,,CHI,orange .,NONE,simple response,0.0,0.0,0.0,0.0
+202,,MOT,orange or maybe more yellow ?,NONE,normal question,0.0,0.0,0.0,0.0
+203,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+204,,MOT,so could this be a pineapple ?,NONE,normal question,0.0,0.0,0.0,0.0
+205,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+206,,MOT,ye(a)h ?,NONE,simple response,0.0,0.0,0.0,0.0
+207,,MOT,do you wanna give her some of that too ?,NONE,normal question,0.0,0.0,0.0,0.0
+208,,MOT,this is a baby who knows her stuff .,NONE,normal statement,0.0,0.0,0.0,0.0
+209,,CHI,&=eats .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+210,,MOT,I've never seen an infant eat like this before .,NONE,normal statement,0.0,0.0,0.0,0.0
+211,,CHI,&-uh now we need her hat again .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+212,,MOT,her hat ?,NONE,normal question,0.0,0.0,0.0,0.0
+213,,MOT,okay where did we put her hat ?,NONE,normal question,0.0,0.0,0.0,0.0
+214,,MOT,did I move it somewhere ?,NONE,normal question,0.0,0.0,0.0,0.0
+215,,MOT,oh here it is .,NONE,normal statement,0.0,0.0,0.0,0.0
+216,,MOT,could &~y put that on her head for me ?,NONE,normal request,0.0,0.0,0.0,0.0
+217,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+218,,CHI,she xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+219,,MOT,she's getting cold ?,NONE,normal question,0.0,0.0,0.0,0.0
+220,,CHI,yes so she needs to put her hat on &=grunts .,NONE,normal statement,0.0,0.0,0.0,0.0
+221,,MOT,it's bit tricky eh .,NONE,normal statement,0.0,0.0,0.0,0.0
+222,,CHI,&~k &~ki can you help me .,NONE,unclear request,0.0,0.0,0.0,0.0
+223,,MOT,I think you can do it .,NONE,normal statement,0.0,0.0,0.0,0.0
+224,,CHI,&=whimpers can you put xxx .,NONE,unclear request,0.0,0.0,0.0,0.0
+225,,MOT,"I think it's , let's see .",NONE,normal statement,0.0,0.0,0.0,0.0
+226,,MOT,it is tricky eh let me see .,NONE,normal statement,0.0,0.0,0.0,0.0
+227,,CHI,tricky  [/] tricky .,NONE,repetition,0.0,0.0,0.0,0.0
+228,,MOT,it's tricky  [/] tricky .,NONE,repetition,0.0,0.0,0.0,0.0
+229,,CHI,don't forget her bottle .,NONE,normal statement,0.0,0.0,0.0,0.0
+230,,MOT,"I won't , this little baby needs some milk too look she has a hole in her mouth for some milk .",NONE,normal statement,0.0,0.0,0.0,0.0
+231,,MOT,you wanna feed her ?,NONE,normal question,0.0,0.0,0.0,0.0
+232,,CHI,&~e she's all finished .,NONE,unclear statement,0.0,0.0,0.0,0.0
+233,,CHI,I like her .,NONE,normal statement,0.0,0.0,0.0,0.0
+234,,MOT,oh you like the little one better &=laughs .,NONE,normal statement,0.0,0.0,0.0,0.0
+235,,CHI,xxx this one .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+236,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+237,,CHI,you  [/] you  [/] you .,NONE,repetition,0.0,0.0,0.0,0.0
+238,,MOT,I get to have this one ?,NONE,normal question,0.0,0.0,0.0,0.0
+239,,MOT,so I'll just keep brushing her hair right ?,NONE,normal question,0.0,0.0,0.0,0.0
+240,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+241,,MOT,right .,NONE,simple response,0.0,0.0,0.0,0.0
+242,,MOT,what's her name ?,NONE,normal question,0.0,0.0,0.0,0.0
+243,,CHI,her name is teddy_bear .,NONE,normal statement,0.0,0.0,0.0,0.0
+244,,MOT,"her name's teddy_bear , well that's a good name .",NONE,normal statement,0.0,0.0,0.0,0.0
+245,,MOT,"and her name , what's her name again ?",NONE,normal question,0.0,0.0,0.0,0.0
+246,,CHI,&-um Bogat .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+247,,MOT,Bogatahugne .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+248,,MOT,interesting .,NONE,normal statement,0.0,0.0,0.0,0.0
+249,,CHI,no &-uh I think she's Spoon I think .,NONE,unclear statement,0.0,0.0,0.0,0.0
+250,,MOT,her name's Spoon ?,NONE,normal question,0.0,0.0,0.0,0.0
+251,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+252,,MOT,&=laughs okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+253,,CHI,no Spoo .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+254,,MOT,Spoon ?,NONE,normal question,0.0,0.0,0.0,0.0
+255,,MOT,is that her name ?,NONE,normal question,0.0,0.0,0.0,0.0
+256,,CHI,ye(a)h .,NONE,simple response,0.0,0.0,0.0,0.0
+257,,MOT,now is this baby older than that baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+258,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+259,,MOT,yeah she's bigger .,NONE,simple statement,0.0,0.0,0.0,0.0
+260,,MOT,so how old is she ?,NONE,normal question,0.0,0.0,0.0,0.0
+261,,CHI,she's two .,NONE,simple response,0.0,0.0,0.0,0.0
+262,,MOT,"she's two , and how old (i)s that baby ?",NONE,normal question,0.0,0.0,0.0,0.0
+263,,CHI,three .,NONE,simple response,0.0,0.0,0.0,0.0
+264,,MOT,but that baby &~b is bigger or smaller ?,NONE,normal question,0.0,0.0,0.0,0.0
+265,,CHI,smaller .,NONE,simple response,0.0,0.0,0.0,0.0
+266,,MOT,so she should be younger than this baby shouldn't she ?,NONE,normal question,0.0,0.0,0.0,0.0
+267,,CHI,she's four I think .,NONE,simple response,0.0,0.0,0.0,0.0
+268,,MOT,"&~ok , she's four .",NONE,simple statement,0.0,0.0,0.0,0.0
+269,,MOT,and she's three .,NONE,simple statement,0.0,0.0,0.0,0.0
+270,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+271,,CHI,she's &~a she's four +/.,NONE,simple statement,0.0,0.0,0.0,0.0
+272,,MOT,mhm .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+273,,CHI,"+, and &~tha that's five .",NONE,simple statement,0.0,0.0,0.0,0.0
+274,,MOT,good ye(a)h I think that makes more sense .,NONE,simple statement,0.0,0.0,0.0,0.0
+275,,MOT,good for you .,NONE,simple statement,0.0,0.0,0.0,0.0
+276,,MOT,alright .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+277,,MOT,and she's wearing purple too ?,NONE,normal question,0.0,0.0,0.0,0.0
+278,,MOT,and do you see what's on her shirt ?,NONE,normal question,0.0,0.0,0.0,0.0
+279,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+280,,MOT,what is it ?,NONE,normal question,0.0,0.0,0.0,0.0
+281,,CHI,it's a teddy_bear .,NONE,simple response,0.0,0.0,0.0,0.0
+282,,MOT,it's a teddy_bear ?,NONE,normal question,0.0,0.0,0.0,0.0
+283,,MOT,ringring@o there's someone on the phone .,NONE,statement about phone,0.0,0.0,0.0,0.0
+284,,CHI,who is it ?,NONE,normal question,0.0,0.0,0.0,0.0
+285,,MOT,<I think>  [/] I think it's Grandma for Jen .,NONE,simple statement,0.0,0.0,0.0,0.0
+286,,MOT,do you wanna say hi ?,NONE,normal question,0.0,0.0,0.0,0.0
+287,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+288,,MOT,say hi Grandma .,NONE,directive statement,0.0,0.0,0.0,0.0
+289,,CHI,hi Grandma .,NONE,simple response,0.0,0.0,0.0,0.0
+290,,MOT,you wanna ask her how she is ?,NONE,normal question,0.0,0.0,0.0,0.0
+291,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+292,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+293,,MOT,well I'm gonna play with the truck .,NONE,simple statement,0.0,0.0,0.0,0.0
+294,,MOT,you play with your baby .,NONE,directive statement,0.0,0.0,0.0,0.0
+295,,MOT,I'm fine I'm gonna play with the truck by myself .,NONE,simple statement,0.0,0.0,0.0,0.0
+296,,MOT,gonna load it up with all these blocks .,NONE,simple statement,0.0,0.0,0.0,0.0
+297,,MOT,&=engine .,NONE,"vocal sound, no hyperactivity traits",0.0,0.0,0.0,0.0
+298,,CHI,and dump it all &~a .,NONE,simple statement,0.0,0.0,0.0,0.0
+299,,MOT,you dump it .,NONE,directive statement,0.0,0.0,0.0,0.0
+300,,MOT,I don't know how to dump it .,NONE,normal statement,0.0,0.0,0.0,0.0
+301,,MOT,&=gasps .,NONE,non-verbal expression,0.0,0.0,0.0,0.0
+302,,MOT,alright so he's &~j .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+303,,MOT,gonna do it again ?,NONE,question without hyperactivity traits,0.0,0.0,0.0,0.0
+304,,CHI,now &=engine .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+305,,MOT,where's he going .,NONE,normal question,0.0,0.0,0.0,0.0
+306,,CHI,it's going to  [/] to the hill .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+307,,MOT,it's going to the hills okay .,NONE,normal statement,0.0,0.0,0.0,0.0
+308,,CHI,to  [/] to the city .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+309,,MOT,are we gonna deliver our bananas to the city ?,NONE,normal question,0.0,0.0,0.0,0.0
+310,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+311,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+312,,MOT,here he goes .,NONE,normal statement,0.0,0.0,0.0,0.0
+313,,MOT,alright Oscar's the city .,NONE,unclear statement,0.0,0.0,0.0,0.0
+314,,MOT,we'll deliver the bananas right here .,NONE,normal statement,0.0,0.0,0.0,0.0
+315,,MOT,okay he's coming back from the city now .,NONE,normal statement,0.0,0.0,0.0,0.0
+316,,MOT,now we need some oranges please .,NONE,normal request,0.0,0.0,0.0,0.0
+317,,CHI,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+318,,MOT,alright .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+319,,MOT,do you wanna push him to the city ?,NONE,normal question,0.0,0.0,0.0,0.0
+320,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+321,,MOT,here it goes .,NONE,normal statement,0.0,0.0,0.0,0.0
+322,,MOT,&=engine hi Oscar you want some oranges ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+323,,CHI,&=laughs .,NONE,non-verbal expression,0.0,0.0,0.0,0.0
+324,,MOT,alright .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+325,,MOT,now what are we gonna put in ?,NONE,normal question,0.0,0.0,0.0,0.0
+326,,CHI,&=laughs .,NONE,non-verbal expression,0.0,0.0,0.0,0.0
+327,,MOT,are those apples ?,NONE,normal question,0.0,0.0,0.0,0.0
+328,,CHI,yeah &~a and xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+329,,MOT,www .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+330,,MOT,you gonna put them back in Jen please ?,NONE,normal request,0.0,0.0,0.0,0.0
+331,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+332,,MOT,good girl .,NONE,positive reinforcement,0.0,0.0,0.0,0.0
+333,,MOT,thank_you .,NONE,expression of gratitude,0.0,0.0,0.0,0.0
+334,,MOT,good listening bud .,NONE,positive reinforcement,0.0,0.0,0.0,0.0
+335,,MOT,high five .,NONE,social interaction,0.0,0.0,0.0,0.0
+336,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0

@@ -1,0 +1,270 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,FAT,okay wow look at that .,NONE,simple observation,0.0,0.0,0.0,0.0
+1,,FAT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+2,,CHI,&=grunts .,NONE,non-verbal sound,0.0,0.0,0.0,0.0
+3,,FAT,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+4,,FAT,what is that ?,NONE,simple question,0.0,0.0,0.0,0.0
+5,,FAT,what is it ?,NONE,simple question,0.0,0.0,0.0,0.0
+6,,CHI,&~bay &-uh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+7,,FAT,what is that ?,NONE,simple question,0.0,0.0,0.0,0.0
+8,,CHI,&~kra &~kuh .,NONE,non-verbal sound,0.0,0.0,0.0,0.0
+9,,FAT,mhm truck yeah .,NONE,simple statement,0.0,0.0,0.0,0.0
+10,,FAT,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+11,,FAT,everything ?,NONE,vague inquiry,0.0,0.0,0.0,0.0
+12,,FAT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+13,,FAT,"okay take everything out , if you want .",NONE,simple suggestion,0.0,0.0,0.0,0.0
+14,,FAT,what was that ?,NONE,simple question,0.0,0.0,0.0,0.0
+15,,CHI,&~buh .,NONE,non-verbal sound,0.0,0.0,0.0,0.0
+16,,FAT,ahhah it's a baby no ?,NONE,simple statement,0.0,0.0,0.0,0.0
+17,,CHI,baby .,NONE,simple statement,0.0,0.0,0.0,0.0
+18,,FAT,ah bear  [/] bear okay there was a bear .,NONE,simple statement,0.0,0.0,0.0,0.0
+19,,FAT,you are right .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+20,,CHI,baby .,NONE,simple statement,0.0,0.0,0.0,0.0
+21,,FAT,"and there's a baby , okay .",NONE,simple statement,0.0,0.0,0.0,0.0
+22,,FAT,what is that ?,NONE,simple question,0.0,0.0,0.0,0.0
+23,,FAT,what do you do with it ?,NONE,simple question,0.0,0.0,0.0,0.0
+24,,CHI,&~huh &~kli .,NONE,non-verbal sound,0.0,0.0,0.0,0.0
+25,,FAT,oh there's a horse on it .,NONE,simple statement,0.0,0.0,0.0,0.0
+26,,FAT,hello Bob .,NONE,simple greeting,0.0,0.0,0.0,0.0
+27,,CHI,hi Daddy .,NONE,simple greeting,0.0,0.0,0.0,0.0
+28,,FAT,ah okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+29,,CHI,&=sighs .,NONE,non-verbal sound,0.0,0.0,0.0,0.0
+30,,FAT,"okay , come .",NONE,simple command,0.0,0.0,0.0,0.0
+31,,FAT,come here .,NONE,simple command,0.0,0.0,0.0,0.0
+32,,FAT,come play with those one .,NONE,simple command,0.0,0.0,0.0,0.0
+33,,FAT,hm: what are we making .,NONE,simple question,0.0,0.0,0.0,0.0
+34,,FAT,ah  [/] ah  [/] ah you wan(t) play with those ones ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+35,,FAT,with those block ?,NONE,simple question,0.0,0.0,0.0,0.0
+36,,FAT,what are we making ?,NONE,simple question,0.0,0.0,0.0,0.0
+37,,FAT,Bob ?,NONE,simple question,0.0,0.0,0.0,0.0
+38,,FAT,"oh okay , I think this is to &~brai , is &-uh to brush hair .",NONE,unclear statement,0.0,0.0,0.0,0.0
+39,,FAT,mhm she's cute ?,NONE,simple question,0.0,0.0,0.0,0.0
+40,,CHI,cute .,NONE,simple statement,0.0,0.0,0.0,0.0
+41,,FAT,"ahhah , you want feed ?",NONE,simple question,0.0,0.0,0.0,0.0
+42,,FAT,feed her ?,NONE,simple question,0.0,0.0,0.0,0.0
+43,,FAT,oh okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+44,,FAT,"&=sips , &~ah , is it yummy ?",NONE,unclear statement,0.0,0.0,0.0,0.0
+45,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+46,,FAT,yummy .,NONE,simple statement,0.0,0.0,0.0,0.0
+47,,FAT,you wan(t) eat more food ?,NONE,simple question,0.0,0.0,0.0,0.0
+48,,CHI,baby .,NONE,simple statement,0.0,0.0,0.0,0.0
+49,,CHI,&~ah &~foo .,NONE,non-verbal sound,0.0,0.0,0.0,0.0
+50,,FAT,xxx more food .,NONE,simple statement about food,0.0,0.0,0.0,0.0
+51,,FAT,&=eats mm: yummy !,NONE,expression of enjoyment while eating,0.0,0.0,0.0,0.0
+52,,FAT,you wan(t) xxx too ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+53,,FAT,xxx too ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+54,,CHI,baby .,NONE,simple statement,0.0,0.0,0.0,0.0
+55,,FAT,mhm is this for you or for me &=sips ?,NONE,question about the tea,0.0,0.0,0.0,0.0
+56,,CHI,here .,NONE,simple statement,0.0,0.0,0.0,0.0
+57,,FAT,give me tea .,NONE,simple request,0.0,0.0,0.0,0.0
+58,,FAT,I would like some tea .,NONE,polite request for tea,0.0,0.0,0.0,0.0
+59,,CHI,&~sheoup .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+60,,FAT,&=sips &~ah .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+61,,CHI,&~sheoup .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+62,,FAT,yummy !,NONE,expression of enjoyment,0.0,0.0,0.0,0.0
+63,,CHI,&=sips .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+64,,FAT,&=laughs you wan(t) drink this one ?,NONE,question about drink,0.0,0.0,0.0,0.0
+65,,CHI,&~ah .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+66,,FAT,hey <me too>  [/] me too !,NONE,expression of agreement,0.0,0.0,0.0,0.0
+67,,FAT,I would like drink !,NONE,simple request for drink,0.0,0.0,0.0,0.0
+68,,FAT,"&~ah &~gulp &~gulp &~gulp &~ah , yummy !",NONE,expression of enjoyment while drinking,0.0,0.0,0.0,0.0
+69,,FAT,&=engine .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+70,,FAT,"can I , fit her too ?",NONE,question about fitting,0.0,0.0,0.0,0.0
+71,,FAT,xxx Bob ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+72,,CHI,&=eats .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+73,,FAT,is it yummy ?,NONE,question about food,0.0,0.0,0.0,0.0
+74,,CHI,yummy !,NONE,expression of enjoyment,0.0,0.0,0.0,0.0
+75,,FAT,"yummy , okay !",NONE,expression of agreement,0.0,0.0,0.0,0.0
+76,,FAT,okay you wan(t) play with those one ?,NONE,question about playing,0.0,0.0,0.0,0.0
+77,,FAT,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+78,,FAT,"two , no ?",NONE,question about quantity,0.0,0.0,0.0,0.0
+79,,FAT,xxx play with baby ?,NONE,question about playing,0.0,0.0,0.0,0.0
+80,,CHI,baby .,NONE,simple statement,0.0,0.0,0.0,0.0
+81,,FAT,mhm okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+82,,FAT,hey yeah that's my truck !,NONE,statement about ownership,0.0,0.0,0.0,0.0
+83,,CHI,&~duh &~deh .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+84,,CHI,no &~des you .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+85,,FAT,okay  [/] okay no thank_you .,NONE,polite refusal,0.0,0.0,0.0,0.0
+86,,FAT,&~chu &~chu &~chu &~chu &~chu &~chu okay .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+87,,CHI,&~oo !,NONE,expression of excitement,0.0,0.0,0.0,0.0
+88,,FAT,"mm: , what's that ?",NONE,question about an object,0.0,0.0,0.0,0.0
+89,,FAT,"oh  [/] , oh yeah , he was about to cry because he didn't have his , bottle .",NONE,explanation about a situation,0.0,0.0,0.0,0.0
+90,,FAT,you wan(t) put some blocks ?,NONE,question about blocks,0.0,0.0,0.0,0.0
+91,,CHI,&~buh .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+92,,FAT,"&~ah , yeah no more .",NONE,unclear utterance,0.0,0.0,0.0,0.0
+93,,FAT,hm: more ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+94,,CHI,more .,NONE,simple statement,0.0,0.0,0.0,0.0
+95,,FAT,"okay , whoops , well &=laughs , more ?",NONE,expression of surprise and laughter,0.0,0.0,0.0,0.0
+96,,CHI,more .,NONE,simple statement,0.0,0.0,0.0,0.0
+97,,FAT,woah .,NONE,expression of surprise,0.0,0.0,0.0,0.0
+98,,CHI,&=gasps .,NONE,expression of surprise,0.0,0.0,0.0,0.0
+99,,FAT,&=gasps .,NONE,expression of surprise,0.0,0.0,0.0,0.0
+100,,FAT,hm: oh sorry !,NONE,simple apology,0.0,0.0,0.0,0.0
+101,,FAT,"maybe , look maybe if we do like this ?",NONE,suggestion without hyperactivity traits,0.0,0.0,0.0,0.0
+102,,FAT,oh no it don't fit in .,NONE,straightforward observation,0.0,0.0,0.0,0.0
+103,,FAT,which one ?,NONE,simple question,0.0,0.0,0.0,0.0
+104,,FAT,"try which one's , better ?",NONE,question about preference,0.0,0.0,0.0,0.0
+105,,FAT,&~oo &=laughs try this one ?,NONE,playful suggestion with laughter,0.0,0.0,0.0,0.0
+106,,FAT,it's gonna fall !,NONE,warning about potential issue,0.0,0.0,0.0,0.0
+107,,FAT,"no , good_job it doesn't fall .",NONE,affirmation of stability,0.0,0.0,0.0,0.0
+108,,FAT,yeah xxx .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+109,,FAT,xxx truck roll .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+110,,FAT,&~hmph alright fall down .,NONE,playful remark,0.0,0.0,0.0,0.0
+111,,FAT,you know what we can do ?,NONE,question about possibilities,0.0,0.0,0.0,0.0
+112,,FAT,you wanna make a bridge ?,NONE,suggestion for activity,0.0,0.0,0.0,0.0
+113,,CHI,0 .,NONE,monosyllabic response,0.0,0.0,0.0,0.0
+114,,FAT,we can try to make a bridge hold on .,NONE,suggestion with slight urgency,0.0,0.0,0.0,0.0
+115,,FAT,or a truck .,NONE,suggestion for an alternative,0.0,0.0,0.0,0.0
+116,,FAT,how we make a bridge ?,NONE,question about construction,0.0,0.0,0.0,0.0
+117,,FAT,like this ?,NONE,question about feasibility,0.0,0.0,0.0,0.0
+118,,FAT,that's difficult .,NONE,expression of difficulty,0.0,0.0,0.0,0.0
+119,,FAT,xxx one mhm .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+120,,FAT,xxx for the truck .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+121,,FAT,look .,NONE,simple directive,0.0,0.0,0.0,0.0
+122,,FAT,uhoh .,NONE,expression of concern,0.0,0.0,0.0,0.0
+123,,FAT,&=laughs look we can go in between like that &=engine .,NONE,playful suggestion with laughter,0.0,0.0,0.0,0.0
+124,,FAT,so it xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+125,,CHI,&=laughs .,NONE,laughter without hyperactivity traits,0.0,0.0,0.0,0.0
+126,,FAT,&=laughs it's difficult ?,NONE,question about difficulty,0.0,0.0,0.0,0.0
+127,,CHI,&=sighs .,NONE,sigh without hyperactivity traits,0.0,0.0,0.0,0.0
+128,,FAT,&=engine .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+129,,CHI,&=engine .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+130,,FAT,oh !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+131,,CHI,&=engine .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+132,,FAT,"&=engine , yeah you did xxx !",NONE,unclear utterance,0.0,0.0,0.0,0.0
+133,,FAT,you wanna make a pyramid ?,NONE,suggestion for a new activity,0.0,0.0,0.0,0.0
+134,,FAT,okay thank_you .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+135,,FAT,is this for you ?,NONE,question about ownership,0.0,0.0,0.0,0.0
+136,,FAT,"thank_you , let's build this one .",NONE,expression of gratitude and suggestion,0.0,0.0,0.0,0.0
+137,,FAT,and this one xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+138,,CHI,&~hea Daddy .,NONE,playful address,0.0,0.0,0.0,0.0
+139,,FAT,oh no xxx Bob .,NONE,expression of concern,0.0,0.0,0.0,0.0
+140,,FAT,okay you don't want ?,NONE,question about preference,0.0,0.0,0.0,0.0
+141,,FAT,look .,NONE,simple directive,0.0,0.0,0.0,0.0
+142,,FAT,"what should I put , should I xxx this one ?",NONE,question about action,0.0,0.0,0.0,0.0
+143,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+144,,FAT,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+145,,CHI,&~nai &~nai !,NONE,playful expression,0.0,0.0,0.0,0.0
+146,,FAT,this one here ?,NONE,question about placement,0.0,0.0,0.0,0.0
+147,,FAT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+148,,FAT,&~woo &~dan .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+149,,CHI,no Daddy .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+150,,FAT,"okay  [/] , okay what I make ?",NONE,simple response,0.0,0.0,0.0,0.0
+151,,FAT,"okay we can do , first like this .",NONE,simple response,0.0,0.0,0.0,0.0
+152,,CHI,no !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+153,,FAT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+154,,FAT,okay like this ?,NONE,simple response,0.0,0.0,0.0,0.0
+155,,CHI,&~ya &~ya .,NONE,normal conversational response,0.85,0.75,1.0,0.0
+156,,FAT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+157,,CHI,no !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+158,,FAT,"oh okay  [/] okay  [/] okay , don('t) .",NONE,simple response,0.0,0.0,0.0,0.0
+159,,FAT,"okay , good !",NONE,simple response,0.0,0.0,0.0,0.0
+160,,CHI,no !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+161,,FAT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+162,,FAT,"okay , like this ?",NONE,simple response,0.0,0.0,0.0,0.0
+163,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+164,,FAT,yeah okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+165,,FAT,what are we doing now ?,NONE,simple response,0.0,0.0,0.0,0.0
+166,,FAT,"with those one what are we doing , nothing ?",NONE,simple response,0.0,0.0,0.0,0.0
+167,,CHI,nothing .,NONE,simple response,0.0,0.0,0.0,0.0
+168,,FAT,nothing ?,NONE,simple response,0.0,0.0,0.0,0.0
+169,,FAT,"okay , oh you wan(t) &~pu put blue one on it .",T04,abrupt topic change without context; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+170,,CHI,&~dah &~du .,T09,child repeats sounds or phrases; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+171,,FAT,oh Papa done it ?,NONE,simple response,0.0,0.0,0.0,0.0
+172,,CHI,&=gasps .,T09,child repeats sounds or phrases; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+173,,FAT,ah Bob stay hold on .,NONE,simple response,0.0,0.0,0.0,0.0
+174,,CHI,here I go .,T05,child responds impulsively before the question is completed; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+175,,FAT,like this ?,NONE,simple response,0.0,0.0,0.0,0.0
+176,,FAT,do you like that ?,NONE,simple response,0.0,0.0,0.0,0.0
+177,,CHI,xxx .,T09,child repeats sounds or phrases; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+178,,CHI,&~dai yes .,NONE,normal conversational response,0.85,0.75,1.0,0.0
+179,,FAT,do you like this one ?,NONE,simple response,0.0,0.0,0.0,0.0
+180,,FAT,Bob  [/] Bob  [/] Bob .,T09,child repeats sounds or phrases; clarity=0.75; uniqueness=1.00;,0.0,0.75,1.0,0.0
+200,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+201,,FAT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+202,,CHI,no Daddy .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+203,,FAT,nothing ?,NONE,simple response,0.0,0.0,0.0,0.0
+204,,FAT,you don('t) wan(t) play ?,NONE,simple question,0.0,0.0,0.0,0.0
+205,,FAT,okay what are you gonna do ?,NONE,simple question,0.0,0.0,0.0,0.0
+206,,FAT,I will build and you will break it .,NONE,simple statement,0.0,0.0,0.0,0.0
+207,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+208,,FAT,yes !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+209,,CHI,&=whines .,T07,"child whines, indicating vocal restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+210,,FAT,look .,NONE,simple directive,0.0,0.0,0.0,0.0
+211,,FAT,okay I let you do it .,NONE,simple statement,0.0,0.0,0.0,0.0
+212,,CHI,&=whines .,T07,"child whines again, showing vocal restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+213,,FAT,broken .,NONE,simple statement,0.0,0.0,0.0,0.0
+214,,FAT,"oh  [/] , oh this is cute !",NONE,simple exclamation,0.0,0.0,0.0,0.0
+215,,CHI,&=whines .,T07,"child whines, indicating vocal restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+216,,FAT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+217,,CHI,no !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+218,,FAT,"no , like this ?",NONE,simple question,0.0,0.0,0.0,0.0
+219,,CHI,no &=screams !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+220,,FAT,what do you wanna do ?,NONE,simple question,0.0,0.0,0.0,0.0
+221,,CHI,no !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+222,,FAT,I let you do whatever you want .,NONE,simple statement,0.0,0.0,0.0,0.0
+223,,CHI,no &=whimpers !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+224,,CHI,no &=whimpers !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+225,,FAT,what's going on ?,NONE,simple question,0.0,0.0,0.0,0.0
+226,,CHI,&~nai &~ai .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+227,,FAT,nothing ?,NONE,simple question,0.0,0.0,0.0,0.0
+228,,FAT,you're tired ?,NONE,simple question,0.0,0.0,0.0,0.0
+229,,FAT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+230,,FAT,you wan(t) eat ?,NONE,simple question,0.0,0.0,0.0,0.0
+231,,CHI,&~dai &~dai .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+232,,FAT,oh we're gonna tired ?,NONE,simple statement,0.0,0.0,0.0,0.0
+233,,FAT,hm: hello Bob !,NONE,simple greeting,0.0,0.0,0.0,0.0
+234,,FAT,hello Bob where are you ?,NONE,simple question,0.0,0.0,0.0,0.0
+235,,CHI,&=whimpers .,T07,child whimpers,0.0,0.0,0.0,0.0
+250,,FAT,clean up .,NONE,simple command,0.0,0.0,0.0,0.0
+251,,FAT,clean up first .,NONE,simple command,0.0,0.0,0.0,0.0
+252,,CHI,baby !,T09,"child repeats a word heard previously, showing echolalia; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+253,,FAT,okay clean up after we go to pee_pee .,NONE,simple command with additional context,0.0,0.0,0.0,0.0
+254,,FAT,clean up .,NONE,simple command,0.0,0.0,0.0,0.0
+255,,CHI,no !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+256,,FAT,oh yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+257,,FAT,Bob clean up .,NONE,simple command,0.0,0.0,0.0,0.0
+258,,FAT,take it in your hand .,NONE,simple command,0.0,0.0,0.0,0.0
+259,,CHI,no !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+260,,FAT,yes clean up .,NONE,simple affirmation,0.0,0.0,0.0,0.0
+261,,CHI,no &~yayee .,NONE,normal conversational response,0.85,0.75,1.0,0.0
+262,,FAT,Bob clean up .,NONE,simple command,0.0,0.0,0.0,0.0
+263,,FAT,<clean up>  [/] clean up everybody everywhere .,T01,child dominates conversation with repetitive commands; clarity=0.75; uniqueness=0.50; confidence=0.67,0.67,0.75,0.5,0.0
+264,,FAT,clean up .,NONE,simple command,0.0,0.0,0.0,0.0
+265,,CHI,Mommy !,T09,"child repeats a word heard previously, showing echolalia; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+266,,FAT,"nope , clean up .",NONE,simple command,0.0,0.0,0.0,0.0
+267,,FAT,everybody do +/.,NONE,unclear command,0.0,0.0,0.0,0.0
+268,,CHI,&=whines .,T20,child shows emotional dysregulation with a whine; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+269,,FAT,yes Bob .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+270,,FAT,oh xxx .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+271,,CHI,no !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+272,,FAT,"oh yes , take it in your hand .",NONE,simple command,0.0,0.0,0.0,0.0
+273,,FAT,you wanted to see &~wh window ?,NONE,unclear question,0.0,0.0,0.0,0.0
+274,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+275,,FAT,okay so clean up first .,NONE,simple command,0.0,0.0,0.0,0.0
+276,,CHI,no !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+277,,FAT,okay clean up xxx it's okay .,NONE,simple command,0.0,0.0,0.0,0.0
+278,,FAT,<clean up>  [/] clean up everybody .,T01,child dominates conversation with repetitive commands; clarity=0.75; uniqueness=0.50,0.0,0.75,0.5,0.0
+300,,FAT,oh you miss .,NONE,simple statement,0.0,0.0,0.0,0.0
+301,,FAT,okay you miss .,NONE,simple statement,0.0,0.0,0.0,0.0
+302,,FAT,"oh that's not clean up time , okay .",NONE,simple statement,0.0,0.0,0.0,0.0
+303,,CHI,&=whines .,T07,child exhibits vocal restlessness with whining; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+304,,FAT,you have few more to go .,NONE,simple statement,0.0,0.0,0.0,0.0
+305,,CHI,no Daddy .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+306,,FAT,"okay , clean up .",NONE,simple command,0.0,0.0,0.0,0.0
+307,,FAT,yeah clean up .,NONE,simple command,0.0,0.0,0.0,0.0
+308,,FAT,almost Bob .,NONE,simple statement,0.0,0.0,0.0,0.0
+309,,CHI,&=whines .,T07,child exhibits vocal restlessness with whining; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+310,,FAT,<clean up>  [/] clean up .,NONE,simple command,0.0,0.0,0.0,0.0
+311,,FAT,Bob it's almost finished .,NONE,simple statement,0.0,0.0,0.0,0.0
+312,,FAT,it's almost finished .,NONE,simple statement,0.0,0.0,0.0,0.0
+313,,FAT,okay &~du &~ch .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+314,,FAT,xxx clean up .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+315,,FAT,&~duk .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+316,,CHI,no !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+317,,FAT,&~duk woah .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+318,,FAT,"alright , look .",NONE,simple statement,0.0,0.0,0.0,0.0
+319,,FAT,save some time .,NONE,simple statement,0.0,0.0,0.0,0.0
+320,,FAT,okay <clean up>  [/] clean up everybody everywhere .,NONE,simple command,0.0,0.0,0.0,0.0
+321,,CHI,&=whines no !,NONE,normal conversational response,0.85,0.75,1.0,0.0
+322,,FAT,clean up .,NONE,simple command,0.0,0.0,0.0,0.0
