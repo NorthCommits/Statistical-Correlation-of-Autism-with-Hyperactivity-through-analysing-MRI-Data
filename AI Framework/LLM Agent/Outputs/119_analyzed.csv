@@ -1,0 +1,152 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+1,,MOT,no so why you xxx it up then ?,NONE,no traits found,0.0,0.0,0.0,0.0
+2,,MOT,xxx .,NONE,no traits found,0.0,0.0,0.0,0.0
+3,,CHI,xxx .,NONE,no traits found,0.0,0.0,0.0,0.0
+4,,CHI,hold it and put in babies .,T22,child uses monosyllabic response lacking elaboration; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+5,,MOT,put the hat on the baby ?,NONE,no traits found,0.0,0.0,0.0,0.0
+6,,CHI,yeah .,NONE,normal conversational response,0.85,0.75,1.0,0.0
+7,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+8,,CHI,xxx .,NONE,no traits found,0.0,0.0,0.0,0.0
+9,,CHI,baby take .,T22,child uses monosyllabic response lacking elaboration; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+10,,MOT,okay I'll drink some coffee with the baby ?,NONE,no traits found,0.0,0.0,0.0,0.0
+11,,MOT,do I feed the baby or I feed myself ?,NONE,no traits found,0.0,0.0,0.0,0.0
+12,,CHI,"give &~ba , feed babies .",T22,child uses monosyllabic response lacking elaboration; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+13,,MOT,feed the baby okay .,NONE,no traits found,0.0,0.0,0.0,0.0
+14,,MOT,&=eats okay baby finished .,NONE,no traits found,0.0,0.0,0.0,0.0
+15,,CHI,(o)kay .,T22,child uses monosyllabic response lacking elaboration; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+16,,CHI,more ?,T23,child asks a question rapidly; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+17,,MOT,oh no he said he's okay .,NONE,no traits found,0.0,0.0,0.0,0.0
+18,,MOT,baby okay now .,NONE,no traits found,0.0,0.0,0.0,0.0
+19,,CHI,&~ch .,T22,child uses monosyllabic response lacking elaboration; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+20,,CHI,here we go .,NONE,no traits found,0.0,0.0,0.0,0.0
+21,,MOT,oh thank_you madame &=eats .,NONE,no traits found,0.0,0.0,0.0,0.0
+22,,CHI,finished ?,T23,child asks a question rapidly; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+23,,MOT,yeah I'm finished .,NONE,no traits found,0.0,0.0,0.0,0.0
+24,,CHI,xxx &~ch .,T22,child uses monosyllabic response lacking elaboration; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+25,,CHI,and coffee for me .,T22,child uses monosyllabic response lacking elaboration; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+26,,MOT,coffee for you ?,NONE,no traits found,0.0,0.0,0.0,0.0
+27,,MOT,you move up .,NONE,no traits,0.0,0.0,0.0,0.0
+50,,MOT,"what's going to happen , let me see what going to happen ?",NONE,normal question,0.0,0.0,0.0,0.0
+51,,CHI,see it gonna fall .,NONE,simple statement,0.0,0.0,0.0,0.0
+52,,MOT,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+53,,CHI,it gonna fall this blocks .,NONE,simple statement,0.0,0.0,0.0,0.0
+54,,CHI,block on .,NONE,simple phrase,0.0,0.0,0.0,0.0
+55,,MOT,ah .,NONE,simple sound,0.0,0.0,0.0,0.0
+56,,CHI,block on .,NONE,simple phrase,0.0,0.0,0.0,0.0
+57,,MOT,&~moong .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+58,,CHI,block on mooshie@c watch .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+59,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+60,,MOT,&~moong it fall eh Krista ?,NONE,unclear question,0.0,0.0,0.0,0.0
+61,,CHI,I not falling .,NONE,simple statement,0.0,0.0,0.0,0.0
+62,,CHI,do not fall .,NONE,simple command,0.0,0.0,0.0,0.0
+63,,CHI,ici@s:fra bon@s:fra I call you xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+64,,CHI,I call a doctor .,NONE,simple statement,0.0,0.0,0.0,0.0
+65,,CHI,I call a doctor .,NONE,repetition of previous statement,0.0,0.0,0.0,0.0
+66,,MOT,oh maybe the baby have a booboo so you really hafta call a doctor .,NONE,normal statement,0.0,0.0,0.0,0.0
+67,,CHI,"baby , have a booboo and xxx a baby have the kiss for the +...",NONE,unclear statement,0.0,0.0,0.0,0.0
+68,,CHI,have a baby xxx the doctor .,NONE,unclear statement,0.0,0.0,0.0,0.0
+69,,CHI,have a baby .,NONE,simple statement,0.0,0.0,0.0,0.0
+70,,CHI,her belly hurt .,NONE,simple statement,0.0,0.0,0.0,0.0
+71,,CHI,see belly hurt .,NONE,simple statement,0.0,0.0,0.0,0.0
+72,,CHI,baby belly hurt xxx .,NONE,unclear statement,0.0,0.0,0.0,0.0
+73,,CHI,baby the belly hurt with this clothes .,NONE,unclear statement,0.0,0.0,0.0,0.0
+74,,MOT,&=laughs .,NONE,laughter,0.0,0.0,0.0,0.0
+75,,CHI,"baby &~ts , belly hurt this clothes .",NONE,unclear statement,0.0,0.0,0.0,0.0
+76,,CHI,baby went pee_pee on the clothes .,NONE,simple statement,0.0,0.0,0.0,0.0
+77,,MOT,yes ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+78,,CHI,yes .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+79,,MOT,hm: .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+80,,CHI,sit .,NONE,simple command,0.0,0.0,0.0,0.0
+81,,MOT,she sit down ?,NONE,simple question,0.0,0.0,0.0,0.0
+82,,MOT,what are you going to do ?,NONE,normal question,0.0,0.0,0.0,0.0
+83,,CHI,&-um take in to the doctor .,NONE,unclear statement,0.0,0.0,0.0,0.0
+84,,MOT,you're takin(g) her to the doctor naked ?,NONE,normal question,0.0,0.0,0.0,0.0
+85,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+86,,MOT,oh_my_goodness she need her clothes .,NONE,normal statement,0.0,0.0,0.0,0.0
+87,,CHI,she make a mess .,NONE,simple statement,0.0,0.0,0.0,0.0
+88,,CHI,she make a mess .,NONE,repetition of previous statement,0.0,0.0,0.0,0.0
+89,,MOT,she make a mess ?,NONE,normal question,0.0,0.0,0.0,0.0
+90,,CHI,I call a doctor for baby .,NONE,simple statement,0.0,0.0,0.0,0.0
+91,,CHI,here baby having a foot .,NONE,unclear statement,0.0,0.0,0.0,0.0
+92,,CHI,you see baby needta sleep .,NONE,simple statement,0.0,0.0,0.0,0.0
+93,,CHI,baby needta sleep .,NONE,simple statement,0.0,0.0,0.0,0.0
+94,,CHI,baby need doctor and xxx .,NONE,unclear statement,0.0,0.0,0.0,0.0
+95,,CHI,baby need a doctor for xxx and baby need a doctor for xxx .,NONE,repetition of previous statement,0.0,0.0,0.0,0.0
+96,,MOT,the baby need a doctor for the ears ?,NONE,normal question,0.0,0.0,0.0,0.0
+97,,MOT,what happened to the baby ears ?,NONE,normal question,0.0,0.0,0.0,0.0
+98,,CHI,(be)cause baby have a &~boo .,NONE,unclear statement,0.0,0.0,0.0,0.0
+99,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+100,,CHI,and baby have a booboo too .,NONE,simple statement about a baby.,0.0,0.0,0.0,0.0
+101,,MOT,okay the two of them have booboos ?,NONE,clarifying question.,0.0,0.0,0.0,0.0
+102,,CHI,"and take it , this baby have a booboo .",NONE,simple statement about a baby.,0.0,0.0,0.0,0.0
+103,,CHI,look I take off this .,NONE,simple statement about taking off something.,0.0,0.0,0.0,0.0
+104,,MOT,I don't understand why you taking off the baby clothes .,NONE,question seeking clarification.,0.0,0.0,0.0,0.0
+105,,CHI,(be)cause baby have a booboo .,NONE,simple statement about a baby.,0.0,0.0,0.0,0.0
+106,,MOT,yes when you go to <the doctor>  [/] the doctor take off your clothes ?,NONE,question about a doctor's actions.,0.0,0.0,0.0,0.0
+107,,CHI,baby have a booboo .,NONE,simple statement about a baby.,0.0,0.0,0.0,0.0
+108,,MOT,&=laughs yes have a booboo .,NONE,laughter in response.,0.0,0.0,0.0,0.0
+109,,CHI,baby make a pee_pee on the hat .,NONE,simple statement about a baby.,0.0,0.0,0.0,0.0
+110,,CHI,what gonna happen ?,T23,child asks multiple questions in succession. clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+111,,CHI,what gonna happen ?,T23,"child repeats the same question, showing urgency. clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+112,,CHI,what gonna happen ?,T23,"child continues to ask the same question, indicating persistence. clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+113,,MOT,okay doctor finish see the babies .,NONE,statement about a doctor finishing.,0.0,0.0,0.0,0.0
+114,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+115,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+116,,CHI,baby get a doctor .,NONE,simple statement about a baby.,0.0,0.0,0.0,0.0
+117,,CHI,baby want a doctor .,NONE,simple statement about a baby wanting something.,0.0,0.0,0.0,0.0
+118,,CHI,xxx baby doctor .,NONE,unclear utterance.,0.0,0.0,0.0,0.0
+119,,CHI,xxx baby .,NONE,unclear utterance.,0.0,0.0,0.0,0.0
+120,,MOT,what are you making ?,NONE,question about an action.,0.0,0.0,0.0,0.0
+121,,CHI,"a baby , have a booboo .",NONE,simple statement about a baby.,0.0,0.0,0.0,0.0
+122,,MOT,yes ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+123,,CHI,&-um call a baby have a booboo on the nose .,T08,"child uses disfluency with ""um"" and incomplete thought. clarity=0.50; uniqueness=1.00; confidence=0.65",0.65,0.5,1.0,0.0
+124,,MOT,the baby have a booboo in the nose ?,NONE,question about a baby.,0.0,0.0,0.0,0.0
+125,,CHI,"yeah and I'll  [/] , I'll doctor .",NONE,unclear utterance.,0.0,0.0,0.0,0.0
+126,,MOT,xxx a doctor .,NONE,unclear utterance.,0.0,0.0,0.0,0.0
+127,,CHI,who's that ?,NONE,question seeking information.,0.0,0.0,0.0,0.0
+128,,CHI,this is a medicine ?,NONE,question about a medicine.,0.0,0.0,0.0,0.0
+129,,CHI,a baby's ?,NONE,unclear utterance.,0.0,0.0,0.0,0.0
+130,,MOT,okay you don't know so you're sposta look .,NONE,statement about looking.,0.0,0.0,0.0,0.0
+131,,MOT,that's the medicine for the baby ?,NONE,question about medicine.,0.0,0.0,0.0,0.0
+132,,CHI,I put on baby nose .,NONE,simple statement about applying something.,0.0,0.0,0.0,0.0
+133,,CHI,xxx .,NONE,unclear utterance.,0.0,0.0,0.0,0.0
+134,,CHI,I love you .,NONE,simple expression of affection.,0.0,0.0,0.0,0.0
+135,,CHI,(o)kay it's this  [/] this .,NONE,unclear utterance.,0.0,0.0,0.0,0.0
+136,,CHI,xxx the doctor .,NONE,unclear utterance.,0.0,0.0,0.0,0.0
+150,,CHI,&~ch .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+151,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+152,,CHI,I see it .,NONE,clear statement,0.0,0.0,0.0,0.0
+153,,CHI,www .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+154,,MOT,clean up .,NONE,clear directive,0.0,0.0,0.0,0.0
+155,,MOT,clean up Krista .,NONE,clear directive,0.0,0.0,0.0,0.0
+156,,MOT,clean up your mess .,NONE,clear directive,0.0,0.0,0.0,0.0
+157,,CHI,I'm cleaning up .,NONE,clear statement,0.0,0.0,0.0,0.0
+158,,MOT,so hurry up .,NONE,clear directive,0.0,0.0,0.0,0.0
+159,,CHI,&~ch .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+160,,MOT,you wanna play with these toys Krista ?,NONE,clear question,0.0,0.0,0.0,0.0
+161,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+162,,MOT,so hurry clean up .,NONE,clear directive,0.0,0.0,0.0,0.0
+163,,CHI,&~ch .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+164,,CHI,&~ch .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+165,,MOT,<clean@si up@si>  [/] clean@si up@si everybody@si do@si their@si share@si .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+166,,MOT,come on Krista clean up .,NONE,clear directive,0.0,0.0,0.0,0.0
+167,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+168,,MOT,no you put them in the bag Krista .,NONE,clear directive,0.0,0.0,0.0,0.0
+169,,MOT,"<put the>  [/] , put the toys in the bag .",NONE,clear directive,0.0,0.0,0.0,0.0
+170,,CHI,(o)kay .,NONE,clear response,0.0,0.0,0.0,0.0
+171,,MOT,good girl .,NONE,clear praise,0.0,0.0,0.0,0.0
+172,,MOT,Krista are we cleaning up ?,NONE,clear question,0.0,0.0,0.0,0.0
+173,,CHI,&~ch .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+174,,MOT,Krista okay I'm cleaning up without you .,NONE,clear statement,0.0,0.0,0.0,0.0
+175,,CHI,xxx baby xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+176,,MOT,okay so +...,NONE,normal conversational response,0.0,0.0,0.0,0.0
+177,,MOT,good girl .,NONE,clear praise,0.0,0.0,0.0,0.0
+178,,MOT,oh there goes the naked babies in the bag .,NONE,clear observation,0.0,0.0,0.0,0.0
+179,,CHI,&~ts .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+180,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+181,,CHI,we're not finished yet .,T12,child shows difficulty sustaining focus on the task; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+182,,MOT,no I know noticed that .,NONE,clear statement,0.0,0.0,0.0,0.0
+183,,MOT,but look you miss .,NONE,clear statement,0.0,0.0,0.0,0.0
+184,,MOT,there .,NONE,clear directive,0.0,0.0,0.0,0.0
+185,,MOT,everything xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0

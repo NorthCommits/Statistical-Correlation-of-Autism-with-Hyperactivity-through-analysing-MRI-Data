@@ -1,0 +1,231 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,FAT,"can you see the &-uh , what is it ?",NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+1,,FAT,xxx toes .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+2,,FAT,tickle xxx .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+3,,FAT,&~tick &~tick .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+4,,FAT,ah she's gonna tickle Billy too ?,NONE,normal question,0.0,0.0,0.0,0.0
+5,,FAT,&~tick &~tick &~tick &~tick &~tick &~tick &~tick &~tick &~tick &~tick &~tick &~tick .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+6,,FAT,<come back>  [/] come back .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+7,,CHI,&=grunts .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+8,,FAT,"yes , come here .",NONE,normal directive,0.0,0.0,0.0,0.0
+9,,FAT,"what about the , can you brush her hair ?",NONE,normal question,0.0,0.0,0.0,0.0
+10,,FAT,can you brush her hair ?,NONE,normal question,0.0,0.0,0.0,0.0
+11,,FAT,brush her hair ?,NONE,normal question,0.0,0.0,0.0,0.0
+12,,FAT,"good , brush her hair .",NONE,normal directive,0.0,0.0,0.0,0.0
+13,,FAT,or you wanna brush the front ?,NONE,normal question,0.0,0.0,0.0,0.0
+14,,FAT,how (a)bout brush Billy's hair ?,NONE,normal question,0.0,0.0,0.0,0.0
+15,,FAT,can you brush your hair ?,NONE,normal question,0.0,0.0,0.0,0.0
+16,,FAT,there you go .,NONE,normal affirmation,0.0,0.0,0.0,0.0
+17,,FAT,see look xxx brush her hair .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+18,,CHI,&=laughs .,NONE,normal laughter,0.0,0.0,0.0,0.0
+19,,FAT,what do you see ?,NONE,normal question,0.0,0.0,0.0,0.0
+20,,CHI,&~de &=laughs .,NONE,normal laughter,0.0,0.0,0.0,0.0
+21,,FAT,haha cool .,NONE,normal expression,0.0,0.0,0.0,0.0
+22,,FAT,is he gonna sleep <&~kr &~shoo>  [/] &~kr &~shoo .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+23,,CHI,&=laughs .,NONE,normal laughter,0.0,0.0,0.0,0.0
+24,,FAT,&=laughs &~kr &~shoo she only has one eye that closes ?,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+25,,FAT,&~kr &~shoo she go to sleep ?,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+26,,CHI,0 .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+27,,FAT,no  [/] no  [/] no  [/] no hitting .,NONE,normal directive,0.0,0.0,0.0,0.0
+28,,FAT,&~kr &~shoo okay there you go .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+29,,FAT,brush her hair .,NONE,normal directive,0.0,0.0,0.0,0.0
+30,,FAT,but easy  [/] easy  [/] easy .,NONE,normal directive,0.0,0.0,0.0,0.0
+31,,FAT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+32,,FAT,what's this ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+33,,FAT,Billy what's this ?,NONE,normal question,0.0,0.0,0.0,0.0
+34,,FAT,look &~wh what's this ?,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+35,,FAT,what's this ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+36,,CHI,&~nah .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+37,,FAT,that's her nose ?,NONE,normal question,0.0,0.0,0.0,0.0
+38,,FAT,that's her nose ?,NONE,normal question,0.0,0.0,0.0,0.0
+39,,FAT,where's Billy's nose ?,NONE,normal question,0.0,0.0,0.0,0.0
+40,,FAT,where's  [/] where's your nose ?,NONE,normal question,0.0,0.0,0.0,0.0
+41,,CHI,0 .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+42,,FAT,where's your mouth ?,NONE,normal question,0.0,0.0,0.0,0.0
+43,,CHI,0 .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+44,,FAT,where's her mouth ?,NONE,normal question,0.0,0.0,0.0,0.0
+45,,FAT,where's the doll's mouth ?,NONE,normal question,0.0,0.0,0.0,0.0
+46,,FAT,the little girl's mouth ?,NONE,normal question,0.0,0.0,0.0,0.0
+47,,FAT,where's her mouth ?,NONE,normal question,0.0,0.0,0.0,0.0
+48,,CHI,0 .,NONE,unclear utterance with no hyperactivity traits,0.0,0.0,0.0,0.0
+50,,FAT,does she have ears ?,NONE,normal question,0.0,0.0,0.0,0.0
+51,,CHI,0 .,NONE,single-word response,0.0,0.0,0.0,0.0
+52,,FAT,the other ear ?,NONE,normal question,0.0,0.0,0.0,0.0
+53,,CHI,0 .,NONE,single-word response,0.0,0.0,0.0,0.0
+54,,FAT,where (a)r(e) your ears ?,NONE,normal question,0.0,0.0,0.0,0.0
+55,,FAT,where's Billy's ears ?,NONE,normal question,0.0,0.0,0.0,0.0
+56,,CHI,0 .,NONE,single-word response,0.0,0.0,0.0,0.0
+57,,FAT,&~oop you have two ears !,NONE,playful statement,0.0,0.0,0.0,0.0
+58,,FAT,you have both of them look at that .,NONE,normal statement,0.0,0.0,0.0,0.0
+59,,FAT,what about her hair .,NONE,normal question,0.0,0.0,0.0,0.0
+60,,FAT,does she have hair ?,NONE,normal question,0.0,0.0,0.0,0.0
+61,,CHI,0 .,NONE,single-word response,0.0,0.0,0.0,0.0
+62,,FAT,where's your hair ?,NONE,normal question,0.0,0.0,0.0,0.0
+63,,FAT,where's your hair ?,NONE,normal question,0.0,0.0,0.0,0.0
+64,,CHI,&~eh &~nuh .,NONE,vocalization without context,0.0,0.0,0.0,0.0
+65,,FAT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+66,,FAT,well what about some of the other toys .,NONE,normal statement,0.0,0.0,0.0,0.0
+67,,FAT,come here .,NONE,normal command,0.0,0.0,0.0,0.0
+68,,FAT,what do we see .,NONE,normal question,0.0,0.0,0.0,0.0
+69,,FAT,what do you see .,NONE,normal question,0.0,0.0,0.0,0.0
+70,,FAT,come here .,NONE,normal command,0.0,0.0,0.0,0.0
+71,,FAT,what's in bucket ?,NONE,normal question,0.0,0.0,0.0,0.0
+72,,FAT,xxx you know what this one is .,NONE,unclear statement,0.0,0.0,0.0,0.0
+73,,FAT,oh what's that ?,NONE,normal question,0.0,0.0,0.0,0.0
+74,,FAT,horsie .,NONE,normal statement,0.0,0.0,0.0,0.0
+75,,FAT,it's a phone .,NONE,normal statement,0.0,0.0,0.0,0.0
+76,,FAT,is that for you ?,NONE,normal question,0.0,0.0,0.0,0.0
+77,,FAT,hello ?,NONE,normal question,0.0,0.0,0.0,0.0
+78,,FAT,hello ?,NONE,normal question,0.0,0.0,0.0,0.0
+79,,FAT,"yes , can you tell a story on the phone ?",NONE,normal question,0.0,0.0,0.0,0.0
+80,,FAT,huh ?,NONE,simple response,0.0,0.0,0.0,0.0
+81,,FAT,yeah ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+82,,FAT,tell a story .,NONE,normal command,0.0,0.0,0.0,0.0
+83,,FAT,say hello .,NONE,normal command,0.0,0.0,0.0,0.0
+84,,FAT,who's on the phone ?,NONE,normal question,0.0,0.0,0.0,0.0
+85,,FAT,is it Mommy ?,NONE,normal question,0.0,0.0,0.0,0.0
+86,,FAT,is Mommy on the phone ?,NONE,normal question,0.0,0.0,0.0,0.0
+87,,FAT,"oh , can you do your little phone ?",NONE,normal statement,0.0,0.0,0.0,0.0
+88,,FAT,phone conversations ?,NONE,normal statement,0.0,0.0,0.0,0.0
+89,,FAT,like this .,NONE,normal statement,0.0,0.0,0.0,0.0
+90,,FAT,like this &~wee &~wee &~wee &~wee &~wee &~wee &~wee .,NONE,playful vocalization,0.0,0.0,0.0,0.0
+91,,FAT,xxx .,NONE,unclear statement,0.0,0.0,0.0,0.0
+92,,CHI,&~nuh .,NONE,vocalization without context,0.0,0.0,0.0,0.0
+93,,FAT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+94,,CHI,&=grunts .,NONE,vocalization without context,0.0,0.0,0.0,0.0
+95,,FAT,is that a bottle ?,NONE,normal question,0.0,0.0,0.0,0.0
+96,,FAT,does the baby get the bottle ?,NONE,normal question,0.0,0.0,0.0,0.0
+97,,FAT,no  [/] no not for you .,NONE,normal statement,0.0,0.0,0.0,0.0
+98,,FAT,for the baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+99,,FAT,there you go &=sips .,NONE,normal statement,0.0,0.0,0.0,0.0
+100,,FAT,&=gasps what's that ?,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+101,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0
+102,,CHI,&~da !,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+103,,FAT,"it's for , is that for  [/] , for drinking ?",NONE,normal question,0.0,0.0,0.0,0.0
+104,,FAT,oh it's a plate .,NONE,normal statement,0.0,0.0,0.0,0.0
+105,,FAT,are you putting milk on the plate ?,NONE,normal question,0.0,0.0,0.0,0.0
+106,,FAT,can I have some ?,NONE,normal question,0.0,0.0,0.0,0.0
+107,,FAT,can I have some ?,NONE,repetition of previous question,0.0,0.0,0.0,0.0
+108,,FAT,&=sips Billy's turn &=sips ?,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+109,,FAT,ready &=sips ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+110,,FAT,"can we have some more , can we have some milk ?",NONE,repetition of previous question,0.0,0.0,0.0,0.0
+111,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0
+112,,FAT,"oh , it's a &~oo lots of milk !",NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+113,,FAT,want some ?,NONE,normal question,0.0,0.0,0.0,0.0
+114,,FAT,Billy have some ?,NONE,normal question,0.0,0.0,0.0,0.0
+115,,FAT,&=sips can Daddy have some now ?,NONE,normal question,0.0,0.0,0.0,0.0
+116,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0
+117,,FAT,&=sips &=coughs &~oo xxx some more ?,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+118,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0
+119,,FAT,oh good_job .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+120,,FAT,do you want it ?,NONE,normal question,0.0,0.0,0.0,0.0
+121,,FAT,is it for Daddy or for Billy ?,NONE,normal question,0.0,0.0,0.0,0.0
+122,,FAT,for Billy ?,NONE,normal question,0.0,0.0,0.0,0.0
+123,,FAT,good_job &=coughs .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+124,,FAT,oh what's this one for Daddy ?,NONE,normal question,0.0,0.0,0.0,0.0
+125,,FAT,do I get some more ?,NONE,normal question,0.0,0.0,0.0,0.0
+126,,FAT,"little bit more , squeeze !",NONE,normal statement,0.0,0.0,0.0,0.0
+127,,FAT,"&=grunts good_job , ready &=sips ?",NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+128,,FAT,"<how about>  [/] , how about can we put some milk in here ?",NONE,normal question,0.0,0.0,0.0,0.0
+129,,CHI,0 .,NONE,simple response,0.0,0.0,0.0,0.0
+130,,CHI,&~m &~m .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+131,,FAT,"who's that for , is that for Daddy or for Billy ?",NONE,normal question,0.0,0.0,0.0,0.0
+132,,FAT,or for the baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+133,,FAT,"how about for the , &~th &~lil baby ?",NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+134,,FAT,&=sips there baby's turn ?,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+135,,CHI,baby .,NONE,simple response,0.0,0.0,0.0,0.0
+136,,FAT,"yeah , the baby .",NONE,normal statement,0.0,0.0,0.0,0.0
+137,,FAT,good_job you share ?,NONE,normal statement,0.0,0.0,0.0,0.0
+138,,FAT,you sharing your milk with the baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+139,,FAT,so there's two babies .,NONE,normal statement,0.0,0.0,0.0,0.0
+140,,FAT,here look .,NONE,normal statement,0.0,0.0,0.0,0.0
+141,,FAT,share your milk with the two babies .,NONE,normal statement,0.0,0.0,0.0,0.0
+142,,CHI,0 &=sips .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+143,,FAT,good_job .,NONE,normal statement,0.0,0.0,0.0,0.0
+144,,CHI,xxx .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+145,,FAT,yeah two babies ?,NONE,normal question,0.0,0.0,0.0,0.0
+146,,FAT,is this baby want some ?,NONE,normal question,0.0,0.0,0.0,0.0
+147,,CHI,0 &=sips .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+148,,FAT,yeah &=laughs ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+149,,FAT,what about for Billy ?,NONE,normal question,0.0,0.0,0.0,0.0
+150,,FAT,does Billy get some ?,NONE,normal question,0.0,0.0,0.0,0.0
+151,,CHI,baba@b .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+152,,FAT,what ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+153,,FAT,yeah two spoons .,NONE,simple statement,0.0,0.0,0.0,0.0
+154,,FAT,you don't need two ?,NONE,normal question,0.0,0.0,0.0,0.0
+155,,FAT,oh some for Billy &=sips ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+156,,FAT,good_job .,NONE,simple statement,0.0,0.0,0.0,0.0
+157,,FAT,you gonna share ?,NONE,normal question,0.0,0.0,0.0,0.0
+158,,CHI,&=sips .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+159,,FAT,there you go .,NONE,simple statement,0.0,0.0,0.0,0.0
+160,,FAT,you gonna share ?,NONE,normal question,0.0,0.0,0.0,0.0
+161,,FAT,where you squeezing the milk ?,NONE,normal question,0.0,0.0,0.0,0.0
+162,,FAT,could put it in the spoon .,NONE,normal suggestion,0.0,0.0,0.0,0.0
+163,,CHI,&=sips .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+164,,FAT,good_job .,NONE,simple statement,0.0,0.0,0.0,0.0
+165,,FAT,&~oop xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+166,,FAT,here xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+167,,FAT,fill it up ?,NONE,normal question,0.0,0.0,0.0,0.0
+168,,FAT,"is this one for , who's this for ?",NONE,normal question,0.0,0.0,0.0,0.0
+169,,FAT,is this for me or you ?,NONE,normal question,0.0,0.0,0.0,0.0
+170,,FAT,hello is this for Daddy or Billy ?,NONE,normal question,0.0,0.0,0.0,0.0
+171,,CHI,0 .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+172,,FAT,oh you must be hungry .,NONE,simple statement,0.0,0.0,0.0,0.0
+173,,FAT,you have lots of milk .,NONE,simple statement,0.0,0.0,0.0,0.0
+174,,CHI,&=grunts .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+175,,FAT,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+176,,FAT,"&~oop hey this one , who's this one for ?",NONE,unclear utterance,0.0,0.0,0.0,0.0
+177,,FAT,this one for Billy ?,NONE,normal question,0.0,0.0,0.0,0.0
+178,,FAT,&=gasps no  [/] no oh  [/] oh it's for Daddy !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+179,,FAT,&=sips oh I got it !,NONE,simple statement,0.0,0.0,0.0,0.0
+180,,FAT,your turn ?,NONE,normal question,0.0,0.0,0.0,0.0
+181,,CHI,0 .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+182,,FAT,good_job &=eats .,NONE,simple statement,0.0,0.0,0.0,0.0
+183,,FAT,now how (a)bout some for babies .,NONE,normal suggestion,0.0,0.0,0.0,0.0
+184,,FAT,can you put some in for babies ?,NONE,normal question,0.0,0.0,0.0,0.0
+185,,CHI,0 .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+186,,FAT,there you go good_job .,NONE,simple statement,0.0,0.0,0.0,0.0
+187,,FAT,good sharing .,NONE,simple statement,0.0,0.0,0.0,0.0
+188,,FAT,"now &~lil bit more , how about for the little baby ?",NONE,normal suggestion,0.0,0.0,0.0,0.0
+189,,CHI,&~m &~m .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+190,,FAT,can you give some for the little baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+191,,FAT,good_job .,NONE,simple statement,0.0,0.0,0.0,0.0
+192,,FAT,"oh did you get a little , here gotta clean the &~lil baby &~oh &~oh &~oh .",NONE,unclear utterance,0.0,0.0,0.0,0.0
+193,,FAT,xxx hold the spoon ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+194,,FAT,here .,NONE,simple statement,0.0,0.0,0.0,0.0
+195,,FAT,sharing it ?,NONE,normal question,0.0,0.0,0.0,0.0
+196,,CHI,&~hm &~ah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+197,,FAT,yeah ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+198,,FAT,&~oop you got it the baby's eye !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+199,,FAT,"oh no , can you clean the baby's eye ?",NONE,normal question,0.0,0.0,0.0,0.0
+200,,FAT,can you clean the baby's eye ?,NONE,normal question,0.0,0.0,0.0,0.0
+201,,FAT,no xxx the cups xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+202,,FAT,do like this .,NONE,simple directive,0.0,0.0,0.0,0.0
+203,,FAT,go oh  [/] oh say sorry .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+204,,FAT,&=gasps where's the baby's hair ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+205,,FAT,&=gasps what'd you do ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+206,,FAT,xxx is baby's head gonna get cold ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+207,,CHI,0 .,NONE,monosyllabic response,0.0,0.0,0.0,0.0
+208,,FAT,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+209,,FAT,pull &~ta .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+210,,FAT,"pull , come on .",NONE,simple directive,0.0,0.0,0.0,0.0
+211,,FAT,good_job .,NONE,positive reinforcement,0.0,0.0,0.0,0.0
+212,,FAT,&=gasps &~wah baby got cold head .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+213,,FAT,put the hat on the baby .,NONE,simple directive,0.0,0.0,0.0,0.0
+214,,FAT,gonna hat for &~th Billy's head ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+215,,FAT,hm: ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+216,,FAT,can you fit the hat on your head ?,NONE,question about fitting,0.0,0.0,0.0,0.0
+217,,CHI,0 .,NONE,monosyllabic response,0.0,0.0,0.0,0.0
+218,,FAT,&~oop your head's too big &=laughs .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+219,,FAT,"it's too big , how (a)bout this little guy's head .",NONE,question about size,0.0,0.0,0.0,0.0
+220,,FAT,&=gasps peekaboo .,NONE,playful interaction,0.0,0.0,0.0,0.0
+221,,FAT,are you playing peekaboo with the baby ?,NONE,question about activity,0.0,0.0,0.0,0.0
+222,,FAT,xxx let me help you a little bit .,NONE,offer to assist,0.0,0.0,0.0,0.0
+223,,FAT,okay let's fix the hat .,NONE,directive to fix,0.0,0.0,0.0,0.0
+224,,FAT,fix his hat .,NONE,directive to fix,0.0,0.0,0.0,0.0
+225,,FAT,there we go good_job .,NONE,positive reinforcement,0.0,0.0,0.0,0.0
+226,,FAT,good_job .,NONE,positive reinforcement,0.0,0.0,0.0,0.0
+227,,FAT,alright now we hafta put the toys back ?,NONE,question about cleaning,0.0,0.0,0.0,0.0
+228,,FAT,(o)kay it's time to clean up .,NONE,directive to clean,0.0,0.0,0.0,0.0
+229,,CHI,0 .,NONE,monosyllabic response,0.0,0.0,0.0,0.0
+230,,FAT,<good_job>  [/] good_job !,NONE,positive reinforcement,0.0,0.0,0.0,0.0

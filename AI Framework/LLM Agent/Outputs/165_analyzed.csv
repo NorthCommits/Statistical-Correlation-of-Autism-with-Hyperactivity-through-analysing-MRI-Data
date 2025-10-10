@@ -1,0 +1,269 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,MOT,hi &=laughs .,NONE,simple laughter,0.0,0.0,0.0,0.0
+1,,MOT,"oh you wanna talk to Lance , okay here .",NONE,straightforward statement,0.0,0.0,0.0,0.0
+2,,MOT,it's for you .,NONE,simple statement,0.0,0.0,0.0,0.0
+3,,MOT,say hello .,NONE,simple directive,0.0,0.0,0.0,0.0
+4,,MOT,say hello .,NONE,simple directive,0.0,0.0,0.0,0.0
+5,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+6,,MOT,hello .,NONE,simple greeting,0.0,0.0,0.0,0.0
+7,,MOT,"sit down , so I can see you .",NONE,simple directive,0.0,0.0,0.0,0.0
+8,,MOT,thank_you .,NONE,simple expression of gratitude,0.0,0.0,0.0,0.0
+9,,MOT,hello ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+10,,MOT,hello are you there ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+11,,MOT,hi what are you doing to me Lance &=laughs ?,NONE,simple question with laughter,0.0,0.0,0.0,0.0
+12,,MOT,okay bye !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+13,,MOT,"press &~th , press off .",NONE,simple directive,0.0,0.0,0.0,0.0
+14,,MOT,press off !,NONE,simple directive,0.0,0.0,0.0,0.0
+15,,MOT,turn it off .,NONE,simple directive,0.0,0.0,0.0,0.0
+16,,MOT,look !,NONE,simple directive,0.0,0.0,0.0,0.0
+17,,MOT,okay you gonna dial ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+18,,MOT,dial the numbers .,NONE,simple directive,0.0,0.0,0.0,0.0
+19,,MOT,&~di &~di &~di &~di &~di &~di &~di &~brr &~brr .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+20,,CHI,hello ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+21,,MOT,hello ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+22,,MOT,&=laughs is it for me ?,NONE,simple question with laughter,0.0,0.0,0.0,0.0
+23,,MOT,is it for me ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+24,,CHI,&~eh &~eh .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+25,,MOT,is it for me ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+26,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+27,,MOT,beep@o  [/] beep@o  [/] beep@o .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+28,,MOT,is it for her ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+29,,MOT,what's her name ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+30,,MOT,Sophie ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+31,,MOT,her name's Sophie ?,NONE,simple statement,0.0,0.0,0.0,0.0
+32,,MOT,&~dahring &~dahring hello ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+33,,MOT,&~dahring you better answer !,NONE,simple directive,0.0,0.0,0.0,0.0
+34,,MOT,say hello .,NONE,simple directive,0.0,0.0,0.0,0.0
+35,,MOT,hello ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+36,,MOT,hi how are you ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+37,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+38,,MOT,yes is it Nana ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+39,,MOT,on the phone ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+40,,MOT,are you pressing the buttons ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+41,,MOT,your turn ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+42,,MOT,hello  [/] hello  [/] hello !,NONE,repetitive greeting,0.0,0.0,0.0,0.0
+43,,MOT,"oh it's Lance's , okay .",NONE,simple statement,0.0,0.0,0.0,0.0
+44,,MOT,&-um .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+45,,CHI,eidai@b .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+46,,MOT,oh she wants her bottle .,NONE,simple statement,0.0,0.0,0.0,0.0
+47,,MOT,look she just woke up .,NONE,simple observation,0.0,0.0,0.0,0.0
+48,,MOT,she wants her bottle .,NONE,simple statement,0.0,0.0,0.0,0.0
+49,,MOT,are you gonna give her  [/] her bottle ?,NONE,simple inquiry,0.0,0.0,0.0,0.0
+50,,MOT,hm: ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+51,,MOT,like that ?,NONE,simple question,0.0,0.0,0.0,0.0
+52,,MOT,xxx dodo@s:fra ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+53,,MOT,can you go to sleep ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+54,,MOT,she's drinking her milk ?,NONE,straightforward observation,0.0,0.0,0.0,0.0
+55,,MOT,you gonna give her  [/] her bottle now ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+56,,MOT,yeah she wants her milk eh ?,NONE,straightforward observation,0.0,0.0,0.0,0.0
+57,,MOT,she wants her bottle mm: &=sips .,NONE,straightforward observation,0.0,0.0,0.0,0.0
+58,,MOT,she's having her milk .,NONE,straightforward observation,0.0,0.0,0.0,0.0
+59,,MOT,(o)kay oh she's done !,NONE,straightforward observation,0.0,0.0,0.0,0.0
+60,,MOT,thank_you !,NONE,simple expression of gratitude,0.0,0.0,0.0,0.0
+61,,MOT,"and more  [/] more milk , more bottle .",NONE,straightforward observation,0.0,0.0,0.0,0.0
+62,,CHI,dodeh@b .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+63,,MOT,dodo@s:fra time ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+64,,MOT,c'est@s:fra le@s:fra temp@s:fra de@s:fra faire@s:fra dodo@s:fra ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+65,,MOT,what about this baby ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+66,,MOT,this baby's smaller .,NONE,straightforward observation,0.0,0.0,0.0,0.0
+67,,MOT,does she want a bottle too ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+68,,MOT,is it a girl or a boy ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+69,,MOT,"little boy in pink , in purple .",NONE,straightforward observation,0.0,0.0,0.0,0.0
+70,,CHI,&~huh .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+71,,MOT,"yeah what's &~wh , what happened to her eye ?",NONE,straightforward question,0.0,0.0,0.0,0.0
+72,,MOT,it's open ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+73,,MOT,oh she woke up !,NONE,straightforward observation,0.0,0.0,0.0,0.0
+74,,MOT,see her eyes open when she sits up .,NONE,straightforward observation,0.0,0.0,0.0,0.0
+75,,MOT,she's awake !,NONE,straightforward observation,0.0,0.0,0.0,0.0
+76,,MOT,maybe she's hungry .,NONE,straightforward suggestion,0.0,0.0,0.0,0.0
+77,,MOT,you wanna feed her ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+78,,MOT,&=eats here you could do it .,NONE,straightforward suggestion,0.0,0.0,0.0,0.0
+79,,MOT,"here you take that one , I'll take this one .",NONE,straightforward suggestion,0.0,0.0,0.0,0.0
+80,,MOT,yeah that's right she's hungry .,NONE,straightforward observation,0.0,0.0,0.0,0.0
+81,,MOT,"what about baby , this baby .",NONE,straightforward question,0.0,0.0,0.0,0.0
+82,,MOT,"&=eats what are they eating , breakfast ?",NONE,straightforward question,0.0,0.0,0.0,0.0
+83,,MOT,oatmeal ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+84,,MOT,"&=eats mhm , we hafta feed the babies huh ?",NONE,straightforward observation,0.0,0.0,0.0,0.0
+85,,MOT,&=laughs oh she fell down !,NONE,straightforward observation with laughter,0.0,0.0,0.0,0.0
+86,,MOT,hey &=laughs !,NONE,straightforward expression with laughter,0.0,0.0,0.0,0.0
+87,,CHI,&=laughs .,NONE,straightforward expression with laughter,0.0,0.0,0.0,0.0
+88,,MOT,she fell down !,NONE,straightforward observation,0.0,0.0,0.0,0.0
+89,,MOT,"well maybe she wants something to drink , ready ?",NONE,straightforward suggestion,0.0,0.0,0.0,0.0
+90,,MOT,"I'm gonna , you wanna pour it ?",NONE,straightforward question,0.0,0.0,0.0,0.0
+91,,MOT,can you pour it ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+92,,MOT,"look , like this &~tchou &~tchou .",NONE,unclear utterance,0.0,0.0,0.0,0.0
+93,,MOT,(o)kay yeah  [/] yeah oh here let's put it in the middle .,NONE,straightforward suggestion,0.0,0.0,0.0,0.0
+94,,MOT,if you need more you pour it okay ?,NONE,straightforward suggestion,0.0,0.0,0.0,0.0
+95,,MOT,mm: stir it .,NONE,straightforward command,0.0,0.0,0.0,0.0
+96,,CHI,uhoh !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+97,,MOT,oh it fell down .,NONE,straightforward observation,0.0,0.0,0.0,0.0
+98,,MOT,"here let's move it , okay ?",NONE,straightforward suggestion,0.0,0.0,0.0,0.0
+99,,CHI,uhoh !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+100,,MOT,oh !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+101,,CHI,&=laughs ah !,NONE,laughter without context,0.0,0.0,0.0,0.0
+102,,MOT,&=laughs oh she fell down !,NONE,laughter with a statement,0.0,0.0,0.0,0.0
+103,,MOT,"what about the truck , is the truck hungry ?",NONE,normal question,0.0,0.0,0.0,0.0
+104,,MOT,&=eats the truck needs gas .,NONE,statement about the truck,0.0,0.0,0.0,0.0
+105,,CHI,xxx ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+106,,MOT,&=eats yeah nice truck .,NONE,statement about the truck,0.0,0.0,0.0,0.0
+107,,MOT,xxx a dump truck .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+108,,MOT,"what is the truck gonna carry , a block ?",NONE,question about the truck,0.0,0.0,0.0,0.0
+109,,MOT,can you pick up another block ?,NONE,question about blocks,0.0,0.0,0.0,0.0
+110,,MOT,and the spoon ?,NONE,question about the spoon,0.0,0.0,0.0,0.0
+111,,MOT,what about this spoon ?,NONE,question about the spoon,0.0,0.0,0.0,0.0
+112,,MOT,that one too ?,NONE,question about another item,0.0,0.0,0.0,0.0
+113,,MOT,"where's he gonna bring it , over here ?",NONE,question about location,0.0,0.0,0.0,0.0
+114,,MOT,are you gonna put that in there too ?,NONE,question about action,0.0,0.0,0.0,0.0
+115,,MOT,oh it's starting to be a lot in your truck .,NONE,statement about the truck,0.0,0.0,0.0,0.0
+116,,MOT,let's see &~puh &~puh &~puh &~puh &~puh &~puh &~puh &~puh &~puh .,NONE,vocal sounds without context,0.0,0.0,0.0,0.0
+117,,CHI,uhoh !,NONE,exclamation without context,0.0,0.0,0.0,0.0
+118,,MOT,oh no they fell out .,NONE,statement about items falling,0.0,0.0,0.0,0.0
+119,,MOT,let's put them in please .,NONE,request to put items in,0.0,0.0,0.0,0.0
+120,,MOT,there .,NONE,simple statement,0.0,0.0,0.0,0.0
+121,,MOT,okay ready ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+122,,MOT,&~doo &~doo &~doo &~doo &~doo &~doo &~doo &~doo .,NONE,vocal sounds without context,0.0,0.0,0.0,0.0
+123,,CHI,&~doo &~doo &~doo .,NONE,vocal sounds without context,0.0,0.0,0.0,0.0
+124,,MOT,"oh dump it out , dump !",NONE,command to dump,0.0,0.0,0.0,0.0
+125,,MOT,dump it out &~pewch !,NONE,command with vocal sound,0.0,0.0,0.0,0.0
+126,,MOT,everything out .,NONE,statement about items,0.0,0.0,0.0,0.0
+127,,MOT,come get more .,NONE,command to come,0.0,0.0,0.0,0.0
+128,,MOT,here .,NONE,simple statement,0.0,0.0,0.0,0.0
+129,,CHI,&~eh !,NONE,vocal sound without context,0.0,0.0,0.0,0.0
+130,,MOT,oh !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+131,,MOT,pile it up ?,NONE,question about action,0.0,0.0,0.0,0.0
+132,,CHI,&~eh 0 !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+133,,MOT,&=laughs .,NONE,laughter without context,0.0,0.0,0.0,0.0
+134,,CHI,&~dah !,NONE,vocal sound without context,0.0,0.0,0.0,0.0
+135,,MOT,boom@o it's falling out .,NONE,statement about items falling,0.0,0.0,0.0,0.0
+136,,MOT,uhoh I get to sneeze .,NONE,statement about sneezing,0.0,0.0,0.0,0.0
+137,,MOT,my nose !,NONE,statement about nose,0.0,0.0,0.0,0.0
+138,,MOT,oh you're piling it up !,NONE,statement about action,0.0,0.0,0.0,0.0
+139,,CHI,&~bah .,NONE,vocal sound without context,0.0,0.0,0.0,0.0
+140,,MOT,boom@o !,NONE,exclamation without context,0.0,0.0,0.0,0.0
+141,,MOT,&=sneezes &=sneezes .,NONE,sneezing sound,0.0,0.0,0.0,0.0
+142,,MOT,&=laughs where did it go ?,NONE,laughter with a question,0.0,0.0,0.0,0.0
+143,,MOT,where's the truck ?,NONE,question about the truck,0.0,0.0,0.0,0.0
+144,,MOT,I don't see it .,NONE,statement about visibility,0.0,0.0,0.0,0.0
+145,,MOT,xxx ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+146,,MOT,where's the truck ?,NONE,question about the truck,0.0,0.0,0.0,0.0
+147,,MOT,is he picking up blocks ?,NONE,question about blocks,0.0,0.0,0.0,0.0
+148,,CHI,&~buoh !,NONE,vocal sound without context,0.0,0.0,0.0,0.0
+149,,MOT,woah look at the pile there .,NONE,statement about the pile,0.0,0.0,0.0,0.0
+150,,MOT,is it gonna fall ?,NONE,normal question,0.0,0.0,0.0,0.0
+151,,MOT,it's not falling ?,NONE,normal question,0.0,0.0,0.0,0.0
+152,,MOT,oh it fell .,NONE,normal statement,0.0,0.0,0.0,0.0
+153,,MOT,here can you put this one too ?,NONE,normal request,0.0,0.0,0.0,0.0
+154,,MOT,okay ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+155,,CHI,oh !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+156,,MOT,oh_my_goodness it fell .,NONE,normal statement,0.0,0.0,0.0,0.0
+157,,MOT,here what about these ones ?,NONE,normal inquiry,0.0,0.0,0.0,0.0
+158,,MOT,are these too much ?,NONE,normal question,0.0,0.0,0.0,0.0
+159,,MOT,or can they fit ?,NONE,normal question,0.0,0.0,0.0,0.0
+160,,CHI,&=engine .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+161,,MOT,lemme see ?,NONE,normal request,0.0,0.0,0.0,0.0
+162,,MOT,wow you piled that up !,NONE,normal statement,0.0,0.0,0.0,0.0
+163,,MOT,&=laughs oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+164,,CHI,&~buoh !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+165,,MOT,&~y go get it .,NONE,normal request,0.0,0.0,0.0,0.0
+166,,MOT,go get it and bring it back .,NONE,normal instruction,0.0,0.0,0.0,0.0
+167,,MOT,thank_you .,NONE,normal expression of gratitude,0.0,0.0,0.0,0.0
+168,,MOT,oh thanks .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+169,,MOT,look what if we put the yellow round ones on top of the blue ones .,NONE,normal suggestion,0.0,0.0,0.0,0.0
+170,,CHI,&~buoh !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+171,,MOT,boom@o can you do that ?,NONE,normal request,0.0,0.0,0.0,0.0
+172,,MOT,put the yellow on top of the blue .,NONE,normal instruction,0.0,0.0,0.0,0.0
+173,,MOT,thanks .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+174,,MOT,and the orange on the block on top of the yellow ?,NONE,normal instruction,0.0,0.0,0.0,0.0
+175,,CHI,&~eh &-uh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+176,,MOT,woah it's starting to get tall !,NONE,normal observation,0.0,0.0,0.0,0.0
+177,,CHI,&=laughs .,NONE,simple exclamation,0.0,0.0,0.0,0.0
+178,,MOT,&=laughs boom@o hey .,NONE,simple exclamation,0.0,0.0,0.0,0.0
+179,,CHI,boom@o  [/] boom@o !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+180,,MOT,oh you made it fall .,NONE,normal statement,0.0,0.0,0.0,0.0
+181,,CHI,&=laughs .,NONE,simple exclamation,0.0,0.0,0.0,0.0
+182,,MOT,&=laughs .,NONE,simple exclamation,0.0,0.0,0.0,0.0
+183,,CHI,boom@o .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+184,,MOT,"boom@o , what if I do it like this ?",NONE,normal inquiry,0.0,0.0,0.0,0.0
+185,,MOT,will it be stronger ?,NONE,normal question,0.0,0.0,0.0,0.0
+186,,MOT,will it be stronger ?,NONE,normal question,0.0,0.0,0.0,0.0
+187,,MOT,where's the other blocks ?,NONE,normal inquiry,0.0,0.0,0.0,0.0
+188,,MOT,in the truck ?,NONE,normal question,0.0,0.0,0.0,0.0
+189,,MOT,"oh the trucks cleaning &~th , over it all fell down .",NONE,normal statement,0.0,0.0,0.0,0.0
+190,,MOT,thank_you .,NONE,normal expression of gratitude,0.0,0.0,0.0,0.0
+191,,MOT,which one first ?,NONE,normal question,0.0,0.0,0.0,0.0
+192,,MOT,this one ?,NONE,normal question,0.0,0.0,0.0,0.0
+193,,CHI,ehuhai@b .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+194,,MOT,this one ?,NONE,normal question,0.0,0.0,0.0,0.0
+195,,CHI,ahzay@b !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+196,,MOT,two yellow ?,NONE,normal question,0.0,0.0,0.0,0.0
+197,,CHI,&-uh !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+198,,MOT,&=laughs oh it fell .,NONE,normal statement,0.0,0.0,0.0,0.0
+199,,MOT,she wants her &~bo bottle !,NONE,normal statement,0.0,0.0,0.0,0.0
+200,,MOT,&=laughs her eye keeps closing eh ?,NONE,normal laughter,0.0,0.0,0.0,0.0
+201,,MOT,maybe she's half asleep ?,NONE,normal question,0.0,0.0,0.0,0.0
+202,,MOT,&=laughs hm: ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+203,,CHI,&~mm &~mm .,T07,child makes vocal noises while speaking; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+204,,MOT,yeah she wants her bottle ?,NONE,normal statement,0.0,0.0,0.0,0.0
+205,,MOT,&=sips .,NONE,normal action,0.0,0.0,0.0,0.0
+206,,CHI,&=sips &~ah .,T07,child makes vocal noises while sipping; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+207,,MOT,here <can you>  [/] can you fill up my cup ?,NONE,normal request,0.0,0.0,0.0,0.0
+208,,MOT,<pour it in>  [/] pour it in &~tch .,NONE,normal instruction,0.0,0.0,0.0,0.0
+209,,MOT,"thank_you , this cup too .",NONE,normal gratitude,0.0,0.0,0.0,0.0
+210,,CHI,&=laughs .,T07,child laughs during conversation; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+211,,MOT,here so you can stir it .,NONE,normal instruction,0.0,0.0,0.0,0.0
+212,,CHI,&~bu .,T07,child makes vocal noise; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+213,,MOT,uhoh here it spilled !,NONE,normal observation,0.0,0.0,0.0,0.0
+214,,MOT,maybe the baby's hungry again ?,NONE,normal question,0.0,0.0,0.0,0.0
+215,,MOT,look you're opening her eye huh ?,NONE,normal observation,0.0,0.0,0.0,0.0
+216,,MOT,oh I see her toes !,NONE,normal observation,0.0,0.0,0.0,0.0
+217,,MOT,I see your toes !,NONE,normal observation,0.0,0.0,0.0,0.0
+218,,MOT,her toes are just little  [/] little .,NONE,normal statement,0.0,0.0,0.0,0.0
+219,,CHI,&=screams .,T07,child screams during conversation; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+220,,MOT,xxx little baby toes !,NONE,normal observation,0.0,0.0,0.0,0.0
+221,,MOT,"I hear your brother , whoops .",NONE,normal observation,0.0,0.0,0.0,0.0
+222,,MOT,oh here's the plates .,NONE,normal observation,0.0,0.0,0.0,0.0
+223,,CHI,dehdehda@b !,T09,child repeats sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+224,,MOT,oh yes ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+225,,CHI,mhm ?,NONE,normal response,0.0,0.0,0.0,0.0
+226,,MOT,you wanna put this in the truck ?,NONE,normal question,0.0,0.0,0.0,0.0
+227,,CHI,&=engine .,T09,child repeats sound; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+228,,MOT,woah xxx red truck .,NONE,normal observation,0.0,0.0,0.0,0.0
+229,,MOT,dump truck .,NONE,normal statement,0.0,0.0,0.0,0.0
+230,,MOT,is he going fast ?,NONE,normal question,0.0,0.0,0.0,0.0
+231,,MOT,or is he going slow ?,NONE,normal question,0.0,0.0,0.0,0.0
+232,,MOT,hm: ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+233,,CHI,&=engine .,T09,child repeats sound; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+234,,MOT,yeah oh right into the cup .,NONE,normal statement,0.0,0.0,0.0,0.0
+235,,MOT,it's her cup .,NONE,normal statement,0.0,0.0,0.0,0.0
+236,,MOT,is she hungry ?,NONE,normal question,0.0,0.0,0.0,0.0
+237,,CHI,uhoh .,NONE,normal exclamation,0.0,0.0,0.0,0.0
+238,,MOT,does she wanna sit up ?,NONE,normal question,0.0,0.0,0.0,0.0
+239,,MOT,"her eye will open if she sits up , see ?",NONE,normal statement,0.0,0.0,0.0,0.0
+240,,MOT,open close open closed .,NONE,normal statement,0.0,0.0,0.0,0.0
+250,,MOT,like me look .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+251,,MOT,look at me .,NONE,straightforward request,0.0,0.0,0.0,0.0
+252,,MOT,open close .,NONE,unclear utterance without context,0.0,0.0,0.0,0.0
+253,,MOT,where's your eyes ?,NONE,simple question,0.0,0.0,0.0,0.0
+254,,MOT,"you wanna open , stand her up .",NONE,straightforward instruction,0.0,0.0,0.0,0.0
+255,,MOT,see ?,NONE,simple confirmation,0.0,0.0,0.0,0.0
+256,,MOT,you just hafta put her upright .,NONE,clear instruction,0.0,0.0,0.0,0.0
+257,,CHI,&~hm &~huh ?,NONE,normal conversational response,0.85,0.75,1.0,0.0
+258,,MOT,yes is that her truck ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+259,,MOT,can she ride in the truck ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+260,,MOT,&~eh can I see can she get in ?,T07,child makes vocal noises indicating engagement; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+261,,MOT,&~yoohoo &=laughs .,T27,"mother laughs mid-sentence, showing excitement; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+262,,CHI,&=laughs .,T27,"child laughs, indicating enjoyment; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+263,,MOT,she fell !,NONE,straightforward statement,0.0,0.0,0.0,0.0
+264,,MOT,&~woohoo !,T36,"mother expresses excitement with ""woohoo!""; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+265,,CHI,&=laughs .,T27,"child laughs, indicating enjoyment; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+266,,MOT,&=laughs it's fun eh ?,T36,mother expresses excitement with laughter; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+267,,MOT,she's riding in a truck !,NONE,straightforward statement,0.0,0.0,0.0,0.0
+268,,MOT,yeehaw !,T36,"mother expresses excitement with ""yeehaw!""; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+269,,CHI,&=laughs .,T27,"child laughs, indicating enjoyment; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+270,,MOT,&=laughs ah dump !,T27,"mother laughs, indicating enjoyment; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+271,,MOT,she fell .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+272,,MOT,the dump truck dumped her out .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+273,,MOT,here .,NONE,straightforward instruction,0.0,0.0,0.0,0.0
+274,,MOT,she wants to do it again ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+275,,CHI,&=laughs .,T27,"child laughs, indicating enjoyment; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+276,,MOT,whee !,T36,"mother expresses excitement with ""whee!""; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0

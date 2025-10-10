@@ -1,0 +1,159 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,CHI,would you open it please ?,NONE,normal question,0.0,0.0,0.0,0.0
+1,,MOT,I can .,NONE,simple response,0.0,0.0,0.0,0.0
+2,,CHI,and they dolls .,NONE,incomplete thought,0.0,0.0,0.0,0.0
+3,,MOT,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+4,,CHI,two .,NONE,single word response,0.0,0.0,0.0,0.0
+5,,MOT,mhm .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+6,,CHI,there's a girl and a baby .,NONE,descriptive statement,0.0,0.0,0.0,0.0
+7,,MOT,mhm .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+8,,CHI,it's hat .,NONE,incomplete thought,0.0,0.0,0.0,0.0
+9,,CHI,these are a xxx for big girl .,NONE,unclear statement,0.0,0.0,0.0,0.0
+10,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+11,,MOT,so babies can't have them ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+12,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+13,,CHI,this is a big girl .,NONE,descriptive statement,0.0,0.0,0.0,0.0
+14,,MOT,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+15,,CHI,that's a little boy .,NONE,descriptive statement,0.0,0.0,0.0,0.0
+16,,MOT,that's a little boy ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+17,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+18,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+19,,CHI,what is xxx .,NONE,unclear question,0.0,0.0,0.0,0.0
+20,,CHI,xxx baby spoons .,NONE,unclear statement,0.0,0.0,0.0,0.0
+21,,MOT,do you want the spoons ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+22,,CHI,not yet for the babies .,NONE,simple response,0.0,0.0,0.0,0.0
+23,,MOT,"not yet , okay .",NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+24,,MOT,what are you making for the baby ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+25,,CHI,this is not a baby .,NONE,descriptive statement,0.0,0.0,0.0,0.0
+26,,MOT,oh what are you making for the big girl ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+27,,CHI,I put some milk inside .,NONE,descriptive statement,0.0,0.0,0.0,0.0
+28,,CHI,"he has , she has drink it .",NONE,unclear statement,0.0,0.0,0.0,0.0
+29,,MOT,mhm .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+30,,MOT,what is she drinking ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+31,,CHI,she drinking milk .,NONE,descriptive statement,0.0,0.0,0.0,0.0
+32,,MOT,what kind of milk ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+33,,CHI,strawberry milk .,NONE,descriptive statement,0.0,0.0,0.0,0.0
+34,,MOT,strawberry milk ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+35,,MOT,is it cow's milk or soy milk ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+36,,CHI,soy milk .,NONE,descriptive statement,0.0,0.0,0.0,0.0
+37,,CHI,the other baby +...,NONE,unclear statement,0.0,0.0,0.0,0.0
+38,,CHI,I think the big girl and the little boy is hungry .,NONE,descriptive statement,0.0,0.0,0.0,0.0
+39,,MOT,oh you think they're hungry .,NONE,question for clarification,0.0,0.0,0.0,0.0
+40,,MOT,should we feed them then ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+41,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+42,,MOT,what should we feed them ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+43,,CHI,this is the baby's milk .,NONE,descriptive statement,0.0,0.0,0.0,0.0
+44,,MOT,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+45,,CHI,for sleep .,NONE,unclear statement,0.0,0.0,0.0,0.0
+46,,MOT,for sleeping ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+47,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+48,,MOT,what kind of milk is the baby drinking ?,NONE,question for clarification,0.0,0.0,0.0,0.0
+49,,CHI,he's gonna drink something .,NONE,unclear statement,0.0,0.0,0.0,0.0
+50,,CHI,&~ka plates &=sighs .,NONE,unclear utterance with no discernible content,0.0,0.0,0.0,0.0
+51,,MOT,who's gonna feed the baby ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+52,,CHI,xxx .,NONE,unclear utterance with no discernible content,0.0,0.0,0.0,0.0
+53,,MOT,you're gonna feed the baby ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+54,,CHI,yeah I guess .,NONE,simple agreement,0.0,0.0,0.0,0.0
+55,,CHI,it's nap time xxx hafta eat very quick .,T12,child shows difficulty sustaining focus with abrupt mention of eating quickly; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+56,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+57,,MOT,how are you gonna feed the baby ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+58,,CHI,xxx eat .,NONE,unclear utterance with no discernible content,0.0,0.0,0.0,0.0
+59,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+60,,CHI,these are foods .,NONE,simple statement,0.0,0.0,0.0,0.0
+61,,MOT,they are food ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+62,,MOT,what kind of food are they ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+63,,CHI,"ah &~ba ah , they have ice on it .",T08,child exhibits disfluency with hesitations and repetitions; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+64,,MOT,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+65,,CHI,so hafta put it back .,T12,child shows difficulty sustaining focus with abrupt mention of putting it back; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+66,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+67,,CHI,"because the other , (be)cause it's , (be)cause the other has ice , this one .",T08,child exhibits disfluency with hesitations and repetitions; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+68,,MOT,okay they have ice on them ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+69,,CHI,yep .,NONE,simple agreement,0.0,0.0,0.0,0.0
+70,,MOT,so they're frozen .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+71,,CHI,these ones are not frozen .,NONE,simple statement,0.0,0.0,0.0,0.0
+72,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+73,,MOT,what is it ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+74,,CHI,it's yummy cake .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+75,,MOT,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+76,,CHI,"there's another piece left if the , baby wants it .",NONE,straightforward statement,0.0,0.0,0.0,0.0
+77,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+78,,CHI,(be)cause he gots  [: has]  [*] some little plates .,NONE,unclear utterance with no discernible content,0.0,0.0,0.0,0.0
+79,,CHI,the big girl need some little more &~m of strawberry milk .,T12,child shows difficulty sustaining focus with unclear phrasing; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+80,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+81,,CHI,she likes it .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+82,,MOT,should we try and make her sit down ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+83,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+84,,MOT,does she sit ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+85,,MOT,if she'll sit .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+86,,MOT,lets put the blocks up next to her so she can sit up .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+87,,CHI,she likes it .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+88,,MOT,mm: .,NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+89,,MOT,what kind of cake is it ?,NONE,straightforward question,0.0,0.0,0.0,0.0
+90,,CHI,it's strawberry cake .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+91,,MOT,oh strawberry cake with strawberry milk that sounds yummy .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+100,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+101,,MOT,what are they missing ?,NONE,normal question,0.0,0.0,0.0,0.0
+102,,CHI,they're missing some cars outside .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+103,,CHI,"this  [/] , this is a +/.",T08,child uses fragmented speech with unclear meaning; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+104,,MOT,what is that ?,NONE,normal question,0.0,0.0,0.0,0.0
+105,,CHI,"+, a phone .",NONE,simple response,0.0,0.0,0.0,0.0
+106,,MOT,oh a phone !,NONE,normal reaction,0.0,0.0,0.0,0.0
+107,,CHI,this a horse .,T25,child uses incomplete sentence; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+108,,MOT,with a horse lets see .,NONE,normal statement,0.0,0.0,0.0,0.0
+109,,MOT,oh it does have a horse on it .,NONE,normal observation,0.0,0.0,0.0,0.0
+110,,CHI,"and if you switch it , then , it will go to +...",T25,child uses incomplete sentence; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+111,,MOT,are you calling somebody ?,NONE,normal question,0.0,0.0,0.0,0.0
+112,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+113,,MOT,oh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+114,,CHI,xxx right here .,T09,child repeats unclear phrase; clarity=0.25; uniqueness=1.00; confidence=0.50,0.5,0.25,1.0,0.0
+115,,MOT,okay just in case somebody calls us ?,NONE,normal statement,0.0,0.0,0.0,0.0
+116,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+117,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+118,,MOT,mm: are they all done with their cake ?,NONE,normal question,0.0,0.0,0.0,0.0
+119,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+120,,MOT,mm: should we get them something else ?,NONE,normal question,0.0,0.0,0.0,0.0
+121,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+122,,MOT,"what else , what are these ?",NONE,normal question,0.0,0.0,0.0,0.0
+123,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+124,,MOT,"what are they , what do you think ?",NONE,normal question,0.0,0.0,0.0,0.0
+125,,CHI,xxx .,T09,child repeats unclear phrase; clarity=0.25; uniqueness=1.00; confidence=0.50,0.5,0.25,1.0,0.0
+126,,MOT,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+127,,MOT,what kind of food could they be ?,NONE,normal question,0.0,0.0,0.0,0.0
+128,,CHI,them are mango orange .,T09,child repeats unclear phrase; clarity=0.25; uniqueness=1.00; confidence=0.50,0.5,0.25,1.0,0.0
+129,,MOT,"oh &~mang , mango oranges ?",NONE,normal reaction,0.0,0.0,0.0,0.0
+130,,CHI,yeah them are so juicy &~an yummy .,T01,child provides excessive detail about food; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+131,,MOT,oh mango's so yummy .,NONE,normal reaction,0.0,0.0,0.0,0.0
+132,,CHI,&=sighs they will need their spoons .,T12,child shows difficulty maintaining focus; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+133,,MOT,they need their spoons ?,NONE,normal question,0.0,0.0,0.0,0.0
+134,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+135,,CHI,(be)cause it's so &~s tricky and so slippery .,T08,child uses fragmented speech with unclear meaning; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+136,,CHI,"so there's the need two spoons , to pick it up (be)cause it's so oranges squishy and tricky .",T01,child provides excessive detail about needing spo,0.0,0.0,0.0,0.0
+150,,CHI,we're done .,NONE,simple statement,0.0,0.0,0.0,0.0
+151,,MOT,they're all done eating ?,NONE,normal question,0.0,0.0,0.0,0.0
+152,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+153,,MOT,(o)kay so what should we do with the stuff ?,NONE,normal question,0.0,0.0,0.0,0.0
+154,,CHI,hafta put the dishes in the sink .,NONE,straightforward statement,0.0,0.0,0.0,0.0
+155,,MOT,oh good idea .,NONE,positive acknowledgment,0.0,0.0,0.0,0.0
+156,,MOT,are you gonna wash them too ?,NONE,normal question,0.0,0.0,0.0,0.0
+157,,CHI,"no (be)cause , (be)cause these needta go in the dump+truck .",T05,child responds impulsively before mother finishes; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+158,,MOT,okay where's the dump+truck gonna bring them ?,NONE,normal question,0.0,0.0,0.0,0.0
+159,,CHI,no let me do it .,T06,"child struggles to wait for turn, interrupts mother; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+160,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+161,,MOT,coming back for more ?,NONE,casual inquiry,0.0,0.0,0.0,0.0
+162,,CHI,yes more for the +...,T23,child asks multiple questions rapidly; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+163,,MOT,uhoh you lost one .,NONE,observation,0.0,0.0,0.0,0.0
+164,,CHI,it parked it's way to the orange .,T12,"child shows difficulty sustaining focus, shifts topic abruptly; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+165,,CHI,think someone's some more &~t to drink .,T08,child exhibits disfluency with hesitations and unclear speech; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+166,,MOT,they need some more tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+167,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+168,,MOT,mm: .,NONE,acknowledgment,0.0,0.0,0.0,0.0
+169,,CHI,&~sh &=sips .,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+170,,CHI,see he likes it .,NONE,simple statement,0.0,0.0,0.0,0.0
+171,,MOT,mhm .,NONE,acknowledgment,0.0,0.0,0.0,0.0
+172,,CHI,&=sips .,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+173,,MOT,time to clean up the toys .,NONE,normal statement,0.0,0.0,0.0,0.0
+174,,CHI,I don't wanna clean up .,T12,"child shows difficulty sustaining focus, expresses reluctance; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+175,,MOT,"I know , but it's time , these toys we're done with them .",NONE,normal statement,0.0,0.0,0.0,0.0
+176,,MOT,so it's time to clean up .,NONE,normal statement,0.0,0.0,0.0,0.0
+177,,MOT,thank_you .,NONE,positive acknowledgment,0.0,0.0,0.0,0.0
+178,,MOT,good_job .,NONE,positive acknowledgment,0.0,0.0,0.0,0.0

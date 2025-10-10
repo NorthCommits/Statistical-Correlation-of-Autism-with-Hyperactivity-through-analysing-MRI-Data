@@ -1,0 +1,252 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,CHI,we need an xxx .,NONE,simple response,0.0,0.0,0.0,0.0
+1,,MOT,we need an airplane .,NONE,simple statement,0.0,0.0,0.0,0.0
+2,,MOT,hm: there's no airplane in here .,NONE,simple observation,0.0,0.0,0.0,0.0
+3,,CHI,I can make the airplane .,T01,"child expresses eagerness to create, dominating the topic. clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+4,,MOT,you're gonna make the airplane ?,NONE,question seeking confirmation,0.0,0.0,0.0,0.0
+5,,MOT,okay make the airplane .,NONE,directive statement,0.0,0.0,0.0,0.0
+6,,MOT,okay ready ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+7,,CHI,&=flying .,T07,"child vocalizes excitement with sounds, showing restlessness. clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+8,,MOT,wow !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+9,,MOT,oopsie@g &=gasp the airplane broke oh no !,T11,"emotional reaction to the situation, showing excitement. clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+10,,CHI,&=yells .,T07,"child yells, indicating excitement or distress. clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+11,,MOT,aw crash !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+12,,MOT,oh no what are we gonna do ?,NONE,question expressing concern,0.0,0.0,0.0,0.0
+13,,CHI,we need call xxx .,T05,child blurts out a response impulsively. clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+14,,MOT,we needta call +/.,NONE,unclear statement,0.0,0.0,0.0,0.0
+15,,MOT,oh your Disney_On_Ice .,NONE,statement about a topic,0.0,0.0,0.0,0.0
+16,,MOT,we don't &~ha +/.,NONE,unclear statement,0.0,0.0,0.0,0.0
+17,,CHI,no Toy_Story_Three .,NONE,normal conversational response,0.85,0.75,1.0,0.0
+18,,MOT,yes we're gonna go see Toy_Story_Three .,NONE,confirmation statement,0.0,0.0,0.0,0.0
+19,,MOT,yes you're right .,NONE,agreement statement,0.0,0.0,0.0,0.0
+20,,CHI,on ice .,NONE,simple phrase,0.0,0.0,0.0,0.0
+21,,MOT,"on ice , yes you're right .",NONE,agreement statement,0.0,0.0,0.0,0.0
+22,,MOT,you're right .,NONE,agreement statement,0.0,0.0,0.0,0.0
+23,,MOT,we don't needta go to Disney_World though to do that .,NONE,statement about plans,0.0,0.0,0.0,0.0
+24,,CHI,&=flying .,T07,"child vocalizes excitement with sounds, showing restlessness. clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+25,,MOT,Oh is there a plane ?,NONE,question about existence,0.0,0.0,0.0,0.0
+26,,CHI,&=flying .,T07,"child vocalizes excitement with sounds, showing restlessness. clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+27,,MOT,&=flying .,T07,vocalization indicating excitement or engagement. clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+28,,CHI,&~pt .,NONE,unclear statement,0.0,0.0,0.0,0.0
+29,,MOT,oh what happened now ?,NONE,question expressing concern,0.0,0.0,0.0,0.0
+30,,MOT,what happened ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+31,,MOT,Nevel .,NONE,unclear statement,0.0,0.0,0.0,0.0
+50,,MOT,okay I'm in the airplane .,NONE,normal statement,0.0,0.0,0.0,0.0
+51,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+52,,MOT,&=gasps why ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+53,,CHI,I don't want .,NONE,simple response,0.0,0.0,0.0,0.0
+54,,MOT,you don't want ?,NONE,clarification question,0.0,0.0,0.0,0.0
+55,,MOT,"oh , okay .",NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+56,,CHI,let her go in bed .,NONE,directive statement,0.0,0.0,0.0,0.0
+57,,MOT,"she got to go to bed , well where's my bed ?",NONE,question about location,0.0,0.0,0.0,0.0
+58,,CHI,there !,NONE,simple response,0.0,0.0,0.0,0.0
+59,,MOT,where ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+60,,CHI,there !,NONE,simple response,0.0,0.0,0.0,0.0
+61,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+62,,MOT,can you help me ?,NONE,request for help,0.0,0.0,0.0,0.0
+63,,MOT,thank_you .,NONE,expression of gratitude,0.0,0.0,0.0,0.0
+64,,MOT,I'm so sleepy .,NONE,expression of tiredness,0.0,0.0,0.0,0.0
+65,,MOT,"aw , okay .",NONE,simple acknowledgment,0.0,0.0,0.0,0.0
+66,,CHI,&=moans .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+67,,MOT,but Nevel can <can you>  [/] <can you>  [/] can you give me a kiss ?,NONE,question about affection,0.0,0.0,0.0,0.0
+68,,CHI,0 .,NONE,unclear response,0.0,0.0,0.0,0.0
+69,,MOT,thank_you .,NONE,expression of gratitude,0.0,0.0,0.0,0.0
+70,,MOT,night  [/] night .,NONE,farewell statement,0.0,0.0,0.0,0.0
+71,,CHI,good night .,NONE,farewell statement,0.0,0.0,0.0,0.0
+72,,MOT,she's sleepy now .,NONE,observation about state,0.0,0.0,0.0,0.0
+73,,CHI,&=moans .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+74,,MOT,&=flying we're back on the airplane ?,NONE,question about location,0.0,0.0,0.0,0.0
+75,,MOT,okay we're in Florida .,NONE,statement of location,0.0,0.0,0.0,0.0
+76,,MOT,come let's take the truck and we'll go to Disney_World .,NONE,directive statement,0.0,0.0,0.0,0.0
+77,,CHI,oh no !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+78,,MOT,oh no !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+79,,MOT,what happened ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+80,,MOT,what happened ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+81,,MOT,it broke again .,NONE,statement about situation,0.0,0.0,0.0,0.0
+82,,MOT,it's okay though we'll take the truck .,NONE,reassurance statement,0.0,0.0,0.0,0.0
+83,,MOT,we'll take the truck .,NONE,repetition of statement,0.0,0.0,0.0,0.0
+84,,CHI,I can fix the airplane .,T05,child responds impulsively with a solution; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+85,,MOT,you're gonna fix the airplane again ?,NONE,question about child's statement,0.0,0.0,0.0,0.0
+86,,MOT,but we hafta go to Disney_World .,NONE,statement about necessity,0.0,0.0,0.0,0.0
+87,,MOT,oh okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+88,,CHI,&=yells .,T07,"child yells, indicating vocal restlessness; clarity=0.75; uniqueness=1.00; confidence=0.85",0.85,0.75,1.0,0.0
+89,,MOT,so now we're +/.,NONE,unclear statement,0.0,0.0,0.0,0.0
+90,,CHI,I fixed the airplane .,T01,child dominates conversation with a claim of fixing; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+91,,MOT,"you did you fixed it , so now where are we flying ?",NONE,question about child's statement,0.0,0.0,0.0,0.0
+92,,CHI,to  [/] to Disney_World .,NONE,simple response,0.0,0.0,0.0,0.0
+93,,MOT,and where's Disney_World ?,NONE,question about location,0.0,0.0,0.0,0.0
+94,,MOT,show me .,NONE,request for demonstration,0.0,0.0,0.0,0.0
+95,,CHI,the truck .,NONE,simple response,0.0,0.0,0.0,0.0
+96,,MOT,&~th Disney_World's in the truck .,NONE,unclear statement,0.0,0.0,0.0,0.0
+97,,MOT,okay let's go .,NONE,directive statement,0.0,0.0,0.0,0.0
+98,,CHI,&=engine .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+100,,MOT,"we made it to Disney_World , now what do we do ?",NONE,normal question,0.0,0.0,0.0,0.0
+101,,CHI,we hafta see Toy_Story_Three .,T23,child asks a question rapidly about a specific movie; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+102,,MOT,Toy_Story_Three ?,NONE,simple response,0.0,0.0,0.0,0.0
+103,,MOT,Where is Toy_Story_Three ?,NONE,simple question,0.0,0.0,0.0,0.0
+104,,MOT,we don't have it .,NONE,simple statement,0.0,0.0,0.0,0.0
+105,,CHI,ah .,NONE,simple sound,0.0,0.0,0.0,0.0
+106,,MOT,ah now &~wha ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+107,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+108,,MOT,we're gonna leave those toys after .,NONE,simple statement,0.0,0.0,0.0,0.0
+109,,MOT,we'll leave those ones for after .,NONE,simple statement,0.0,0.0,0.0,0.0
+110,,MOT,come .,NONE,simple command,0.0,0.0,0.0,0.0
+111,,MOT,come  [/] come .,NONE,simple command,0.0,0.0,0.0,0.0
+112,,MOT,"we'll leave those ones for after , let's play with these ones .",NONE,simple statement,0.0,0.0,0.0,0.0
+113,,MOT,let's play with these ones .,NONE,simple suggestion,0.0,0.0,0.0,0.0
+114,,CHI,&~ee &~ee .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+115,,MOT,"here oh , I always wanted to go to Disney_World .",NONE,simple statement,0.0,0.0,0.0,0.0
+116,,MOT,can you take me ?,NONE,simple question,0.0,0.0,0.0,0.0
+117,,MOT,you gonna take care of the baby ?,NONE,simple question,0.0,0.0,0.0,0.0
+118,,MOT,I'll take care of this one .,NONE,simple statement,0.0,0.0,0.0,0.0
+119,,CHI,my baby keeps &~heav .,T07,child shows vocal restlessness with unclear utterance; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+120,,MOT,you're heavy ?,NONE,simple question,0.0,0.0,0.0,0.0
+121,,MOT,oh no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+122,,MOT,I'm thirsty .,NONE,simple statement,0.0,0.0,0.0,0.0
+123,,MOT,&=gasps baby's thirsty .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+124,,MOT,she needs to drink .,NONE,simple statement,0.0,0.0,0.0,0.0
+125,,CHI,this milk .,NONE,simple statement,0.0,0.0,0.0,0.0
+126,,MOT,&=sips .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+127,,MOT,&=gasps baby hasta burp now .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+128,,CHI,&=sneezes .,T07,child shows vocal restlessness with sneezing sound; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+129,,MOT,aw did she barf ?,NONE,simple question,0.0,0.0,0.0,0.0
+130,,MOT,or burp ?,NONE,simple question,0.0,0.0,0.0,0.0
+131,,MOT,&=laughs .,NONE,simple laughter,0.0,0.0,0.0,0.0
+132,,CHI,&=sips .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+133,,MOT,&~da not in your mouth silly that's for the baby .,NONE,simple statement,0.0,0.0,0.0,0.0
+134,,MOT,okay .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+135,,CHI,&=sips .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+136,,MOT,&~ah oh she hasta burp .,NONE,simple statement,0.0,0.0,0.0,0.0
+137,,CHI,&~wa &~wava &=sneezes .,T07,child shows vocal restlessness with sneezing sound; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+138,,MOT,oh disgusting !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+139,,MOT,oh_my_gosh .,NONE,simple exclamation,0.0,0.0,0.0,0.0
+140,,CHI,&=laughs wo(a)h &~he .,T27,child laughs quickly mid-utterance; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+141,,MOT,I'm thirsty too .,NONE,simple statement,0.0,0.0,0.0,0.0
+142,,MOT,oh what do you say ?,NONE,simple question,0.0,0.0,0.0,0.0
+143,,CHI,&~scuse me .,NONE,simple response,0.0,0.0,0.0,0.0
+144,,MOT,thank_you .,NONE,simple statement,0.0,0.0,0.0,0.0
+150,,MOT,she's gotta burp .,NONE,normal statement,0.0,0.0,0.0,0.0
+151,,CHI,&~pft .,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+152,,MOT,ugh disgusting !,NONE,normal expression of disgust,0.0,0.0,0.0,0.0
+153,,MOT,what are we gonna do ?,NONE,normal question,0.0,0.0,0.0,0.0
+154,,MOT,we hafta clean her now .,NONE,normal statement,0.0,0.0,0.0,0.0
+155,,CHI,&=laughs .,T27,child laughs quickly; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+156,,MOT,&~ma you wanna make her drink more ?,NONE,normal question,0.0,0.0,0.0,0.0
+157,,MOT,no  [/] no &~o &~u &~u &~u .,NONE,normal expression,0.0,0.0,0.0,0.0
+158,,MOT,okay now burp .,NONE,normal command,0.0,0.0,0.0,0.0
+159,,MOT,come on xxx .,NONE,normal expression,0.0,0.0,0.0,0.0
+160,,MOT,burp@o .,NONE,normal command,0.0,0.0,0.0,0.0
+161,,MOT,oh there .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+162,,MOT,I feel better now .,NONE,normal statement,0.0,0.0,0.0,0.0
+163,,MOT,would you like to have a drink ?,NONE,normal question,0.0,0.0,0.0,0.0
+164,,CHI,0 &=sips .,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+165,,MOT,awesome .,NONE,normal expression,0.0,0.0,0.0,0.0
+166,,MOT,&=gasps here I'll pour you some more .,NONE,normal statement,0.0,0.0,0.0,0.0
+167,,MOT,slurp@o .,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+168,,CHI,&=sips .,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+169,,MOT,delicious .,NONE,normal expression,0.0,0.0,0.0,0.0
+170,,MOT,can I have some ?,NONE,normal question,0.0,0.0,0.0,0.0
+171,,MOT,oh you're squishing my finger .,NONE,normal statement,0.0,0.0,0.0,0.0
+172,,MOT,thank_you .,NONE,normal expression,0.0,0.0,0.0,0.0
+173,,MOT,thank_you .,NONE,normal expression,0.0,0.0,0.0,0.0
+174,,MOT,what do we say ?,NONE,normal question,0.0,0.0,0.0,0.0
+175,,CHI,cheers .,NONE,normal expression,0.0,0.0,0.0,0.0
+176,,MOT,&=sips ah .,NONE,normal statement,0.0,0.0,0.0,0.0
+177,,MOT,"delicious  [/] delicious &~deli , Nevel would you like to have some cake ?",NONE,normal statement,0.0,0.0,0.0,0.0
+178,,MOT,here's a piece of cake for you .,NONE,normal statement,0.0,0.0,0.0,0.0
+179,,MOT,and here's one for me .,NONE,normal statement,0.0,0.0,0.0,0.0
+180,,MOT,here's a spoon .,NONE,normal statement,0.0,0.0,0.0,0.0
+181,,CHI,&=eats .,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+182,,MOT,&=eats mm: chocolate .,NONE,normal statement,0.0,0.0,0.0,0.0
+183,,CHI,&~oo !,T33,child makes continuous mouth sounds; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+184,,MOT,what ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+185,,CHI,that's too hot !,NONE,normal statement,0.0,0.0,0.0,0.0
+186,,MOT,it's too hot ?,NONE,normal question,0.0,0.0,0.0,0.0
+187,,MOT,oh so what should we do ?,NONE,normal question,0.0,0.0,0.0,0.0
+188,,CHI,need just right .,NONE,normal statement,0.0,0.0,0.0,0.0
+189,,MOT,you need it to be just right ?,NONE,normal question,0.0,0.0,0.0,0.0
+190,,MOT,is it just right now ?,NONE,normal question,0.0,0.0,0.0,0.0
+191,,MOT,is it just right now ?,NONE,normal question,0.0,0.0,0.0,0.0
+192,,MOT,don't put it in your mouth .,NONE,normal command,0.0,0.0,0.0,0.0
+200,,MOT,oh here you go .,NONE,simple statement,0.0,0.0,0.0,0.0
+201,,MOT,give me your glass .,NONE,simple request,0.0,0.0,0.0,0.0
+202,,MOT,behind you look .,NONE,simple directive,0.0,0.0,0.0,0.0
+203,,MOT,tadah &=laughs .,NONE,expression of joy,0.0,0.0,0.0,0.0
+204,,MOT,oops .,NONE,simple exclamation,0.0,0.0,0.0,0.0
+205,,MOT,oh no you spilt the milk &=laughs .,NONE,reaction to a situation,0.0,0.0,0.0,0.0
+206,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+207,,MOT,what ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+208,,CHI,that's a banyu@c .,T09,"child repeats a phrase, possibly echolalia; clarity=0.50; uniqueness=1.00; confidence=0.67",0.67,0.5,1.0,0.0
+209,,MOT,it's a banyo@c ?,T09,"mother repeats child's phrase, indicating confusion; clarity=0.75; uniqueness=1.00; confidence=0.83",0.83,0.75,1.0,0.0
+210,,MOT,&=gasps is it milk ?,NONE,expression of surprise,0.0,0.0,0.0,0.0
+211,,CHI,&=sips .,NONE,unclear action,0.0,0.0,0.0,0.0
+212,,MOT,ah delicious ?,NONE,simple question,0.0,0.0,0.0,0.0
+213,,MOT,can I have some coffee ?,NONE,simple request,0.0,0.0,0.0,0.0
+214,,MOT,ah &~o it's hot .,NONE,simple statement,0.0,0.0,0.0,0.0
+215,,MOT,my coffee's hot .,NONE,simple statement,0.0,0.0,0.0,0.0
+216,,MOT,&=blows .,NONE,unclear action,0.0,0.0,0.0,0.0
+217,,CHI,&=blows .,NONE,unclear action,0.0,0.0,0.0,0.0
+218,,MOT,&=sips ah delicious .,NONE,simple statement,0.0,0.0,0.0,0.0
+219,,CHI,oops &=laughs ?,NONE,unclear question,0.0,0.0,0.0,0.0
+220,,MOT,what ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+221,,CHI,&=laughs .,NONE,unclear laughter,0.0,0.0,0.0,0.0
+222,,MOT,what did you do ?,NONE,simple question,0.0,0.0,0.0,0.0
+223,,MOT,what did you do ?,NONE,repetition of a question,0.0,0.0,0.0,0.0
+224,,CHI,I xxx barf .,T08,child uses unclear utterance with hesitation; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+225,,MOT,you're gonna barf ?,NONE,simple question,0.0,0.0,0.0,0.0
+226,,CHI,&~pft &=laughs .,NONE,unclear laughter,0.0,0.0,0.0,0.0
+227,,MOT,oh disgusting .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+228,,CHI,&=laughs .,NONE,unclear laughter,0.0,0.0,0.0,0.0
+229,,MOT,what  [/] what ?,NONE,repetition of a question,0.0,0.0,0.0,0.0
+230,,CHI,that's &~disgust .,NONE,unclear statement,0.0,0.0,0.0,0.0
+231,,MOT,it disgusting .,NONE,simple statement,0.0,0.0,0.0,0.0
+232,,CHI,it's coffee .,NONE,simple statement,0.0,0.0,0.0,0.0
+233,,MOT,it's coffee ?,NONE,simple question,0.0,0.0,0.0,0.0
+234,,MOT,can I have some more ?,NONE,simple request,0.0,0.0,0.0,0.0
+235,,MOT,thank_you .,NONE,expression of gratitude,0.0,0.0,0.0,0.0
+236,,MOT,do we do cheers again ?,NONE,simple question,0.0,0.0,0.0,0.0
+237,,MOT,ah &=blows &=sips ah .,NONE,unclear actions,0.0,0.0,0.0,0.0
+238,,MOT,delicious .,NONE,simple statement,0.0,0.0,0.0,0.0
+239,,CHI,I &~gon barf .,T08,child uses unclear utterance with hesitation; clarity=0.50; uniqueness=1.00; confidence=0.67,0.67,0.5,1.0,0.0
+240,,MOT,you're gonna barf so stop drinking coffee !,NONE,simple warning,0.0,0.0,0.0,0.0
+241,,MOT,you're too young !,NONE,simple statement,0.0,0.0,0.0,0.0
+242,,CHI,&~bea boua@o .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+243,,MOT,ugh you barfed on me .,NONE,expression of disgust,0.0,0.0,0.0,0.0
+244,,MOT,disgusting ugh .,NONE,expression of disgust,0.0,0.0,0.0,0.0
+245,,CHI,&=laughs .,NONE,unclear laughter,0.0,0.0,0.0,0.0
+246,,MOT,oh no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+247,,CHI,I barfed .,T08,child uses unclear utter,0.0,0.0,0.0,0.0
+250,,MOT,&~m &~m &~m .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+251,,CHI,&=laughs .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+252,,CHI,I'm gonna barf .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+253,,MOT,go barf somewhere else not on me .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+254,,CHI,boua@o .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+255,,MOT,ugh disgusting .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+256,,CHI,www .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+257,,CHI,I did a barf .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+258,,MOT,&=laughs .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+259,,CHI,&=laughs .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+260,,MOT,that's disgusting .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+261,,MOT,let's do clean up now Nevel okay ?,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+262,,CHI,&~da &~dis &~gus .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+263,,MOT,Nevel &~le let's do clean up now .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+264,,MOT,thank_you .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+265,,CHI,disgusting !,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+266,,MOT,can you go and get the truck ?,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+267,,MOT,Nevel .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+268,,CHI,disgusting .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+269,,MOT,get the truck please .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+270,,CHI,disgusting .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+271,,MOT,put it away .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+272,,MOT,and get the water .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+273,,CHI,ah .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+274,,MOT,what else ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+275,,MOT,the plate .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+276,,CHI,it's a cake .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+277,,MOT,"&~m oh yes and the cake , oh &~th what about the little girl ?",NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+278,,MOT,she needs to go to bed .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+279,,MOT,and .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+280,,MOT,and what do we hafta put on top ?,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+281,,MOT,the cover .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0
+282,,MOT,oh snap .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+283,,MOT,give me five .,NONE,no hyperactivity traits observed,0.0,0.0,0.0,0.0

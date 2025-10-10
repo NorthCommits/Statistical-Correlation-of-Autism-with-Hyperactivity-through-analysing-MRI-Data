@@ -1,0 +1,336 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,MOT,can you give the babies <a cup of>  [/] a cup of water ?,NONE,normal question,0.0,0.0,0.0,0.0
+1,,CHI,water .,NONE,single-word response,0.0,0.0,0.0,0.0
+2,,MOT,you wanna give the babies some water ?,NONE,normal question,0.0,0.0,0.0,0.0
+3,,CHI,babies water .,NONE,single-word response,0.0,0.0,0.0,0.0
+4,,MOT,"okay , let's get the babies out then .",NONE,normal statement,0.0,0.0,0.0,0.0
+5,,CHI,xxx the babies &~da .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+6,,MOT,"you &~g , you gonna sit the baby down ?",NONE,normal question,0.0,0.0,0.0,0.0
+7,,MOT,"one baby there  [/] , there you go .",NONE,normal statement,0.0,0.0,0.0,0.0
+8,,CHI,&~bay &~na Mama ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+9,,MOT,&~th oh there's a baby and a mommy ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+10,,MOT,wanna put the hat on ?,NONE,normal question,0.0,0.0,0.0,0.0
+11,,CHI,hat .,NONE,single-word response,0.0,0.0,0.0,0.0
+12,,MOT,can you put the hat on the baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+13,,CHI,0 .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+14,,MOT,nearly yeah ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+15,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+16,,MOT,what it doesn't go on the baby's foot does it ?,NONE,normal question,0.0,0.0,0.0,0.0
+17,,MOT,does the baby have a diaper on ?,NONE,normal question,0.0,0.0,0.0,0.0
+18,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+19,,MOT,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+20,,CHI,xxx caca@s:fra .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+21,,MOT,the baby needs to go caca@s:fra ?,NONE,normal question,0.0,0.0,0.0,0.0
+22,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+23,,MOT,"oh , where are you going ?",NONE,normal question,0.0,0.0,0.0,0.0
+24,,MOT,no  [/] no  [/] no <we hafta stay here>  [/] we hafta stay here (o)kay ?,NONE,normal statement,0.0,0.0,0.0,0.0
+25,,CHI,caca@s:fra .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+26,,MOT,who needs to go caca@s:fra ?,NONE,normal question,0.0,0.0,0.0,0.0
+27,,CHI,&=whines .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+28,,MOT,you needta go caca@s:fra ?,NONE,normal question,0.0,0.0,0.0,0.0
+29,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+30,,MOT,the baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+31,,CHI,&~bay yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+32,,MOT,"okay well let's  [/] , let's make a little toilet for the baby to go caca@s:fra on okay ?",NONE,normal statement,0.0,0.0,0.0,0.0
+33,,MOT,there you got it .,NONE,normal statement,0.0,0.0,0.0,0.0
+34,,MOT,the baby can sit there and go caca@s:fra .,NONE,normal statement,0.0,0.0,0.0,0.0
+35,,CHI,&~ca .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+36,,MOT,"yeah the baby can sit there , <and go>  [/] and go pee !",NONE,normal statement,0.0,0.0,0.0,0.0
+37,,MOT,"and then flush , &~psh !",NONE,normal statement,0.0,0.0,0.0,0.0
+38,,MOT,that's it .,NONE,normal statement,0.0,0.0,0.0,0.0
+39,,MOT,the baby hasta wash hands now .,NONE,normal statement,0.0,0.0,0.0,0.0
+40,,CHI,&=grunts .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+41,,MOT,okay that's our little pretend toilet .,NONE,normal statement,0.0,0.0,0.0,0.0
+42,,CHI,oh no !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+43,,MOT,what ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+44,,MOT,there you go .,NONE,normal statement,0.0,0.0,0.0,0.0
+45,,MOT,that's our little pretend toilet for the baby to go pee_pee .,NONE,normal statement,0.0,0.0,0.0,0.0
+46,,CHI,pee_pee ?,NONE,single-word question,0.0,0.0,0.0,0.0
+47,,MOT,you go pee_pee ?,NONE,normal question,0.0,0.0,0.0,0.0
+48,,CHI,0 .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+49,,MOT,all done .,NONE,normal statement,0.0,0.0,0.0,0.0
+50,,MOT,the baby gonna wash hands ?,NONE,normal question,0.0,0.0,0.0,0.0
+51,,CHI,hand .,NONE,single-word response,0.0,0.0,0.0,0.0
+52,,MOT,&=laughs .,NONE,"laughter, no hyperactivity traits",0.0,0.0,0.0,0.0
+53,,CHI,oh no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+54,,MOT,what ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+55,,CHI,&~la .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+56,,MOT,like that ?,NONE,normal question,0.0,0.0,0.0,0.0
+57,,CHI,&~ah &~la .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+58,,MOT,like that ?,NONE,normal question,0.0,0.0,0.0,0.0
+59,,MOT,what's the baby doing ?,NONE,normal question,0.0,0.0,0.0,0.0
+60,,CHI,&~le &~delo .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+61,,MOT,&~ne what &-uh you're gonna give them some water then ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+62,,MOT,are you gonna sit them down then ?,NONE,normal question,0.0,0.0,0.0,0.0
+63,,MOT,sit the baby down .,NONE,normal statement,0.0,0.0,0.0,0.0
+64,,MOT,you're gonna put the hat on or not ?,NONE,normal question,0.0,0.0,0.0,0.0
+65,,MOT,hat ?,NONE,normal question,0.0,0.0,0.0,0.0
+66,,MOT,or no hat ?,NONE,normal question,0.0,0.0,0.0,0.0
+67,,CHI,hm: &~bet .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+68,,MOT,yeah there's no shoes for the baby .,NONE,normal statement,0.0,0.0,0.0,0.0
+69,,CHI,shoe ?,NONE,single-word response,0.0,0.0,0.0,0.0
+70,,MOT,"no , there's no shoes for the baby .",NONE,normal statement,0.0,0.0,0.0,0.0
+71,,MOT,there you go let's put his hat on so he doesn't get cold .,NONE,normal statement,0.0,0.0,0.0,0.0
+72,,CHI,&-uh &~sho .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+73,,MOT,you don't want the hat on ?,NONE,normal question,0.0,0.0,0.0,0.0
+74,,MOT,oh it's a bit annoying isn't it ?,NONE,normal statement,0.0,0.0,0.0,0.0
+75,,MOT,okay whoops .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+76,,CHI,&-uh dis  [: this] .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+77,,MOT,okay there's one there and one there .,NONE,normal statement,0.0,0.0,0.0,0.0
+78,,MOT,okay you're gonna do the cups Albus ?,NONE,normal question,0.0,0.0,0.0,0.0
+79,,MOT,you wanna get the cups out ?,NONE,normal question,0.0,0.0,0.0,0.0
+80,,CHI,where's the l'eau@s:fra ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+81,,MOT,where's the l'eau@s:fra ?,NONE,normal question,0.0,0.0,0.0,0.0
+82,,MOT,is that for the baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+83,,MOT,it's not eyedrops in her mouth .,NONE,normal statement,0.0,0.0,0.0,0.0
+84,,MOT,there you go .,NONE,normal statement,0.0,0.0,0.0,0.0
+85,,MOT,in the baby's mouth &=sips .,NONE,normal statement,0.0,0.0,0.0,0.0
+86,,MOT,well done .,NONE,normal statement,0.0,0.0,0.0,0.0
+87,,CHI,xxx for the mom .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+88,,MOT,and what about the mama ?,NONE,normal question,0.0,0.0,0.0,0.0
+89,,MOT,"what'd the big baby , what does the baby get ?",NONE,normal question,0.0,0.0,0.0,0.0
+90,,MOT,"does it , &~b &~g baby get a cup ?",NONE,unclear utterance,0.0,0.0,0.0,0.0
+91,,CHI,cup .,NONE,single-word response,0.0,0.0,0.0,0.0
+92,,MOT,a cup ?,NONE,normal question,0.0,0.0,0.0,0.0
+93,,MOT,and what about this ?,NONE,normal question,0.0,0.0,0.0,0.0
+94,,MOT,teapot !,NONE,single-word response,0.0,0.0,0.0,0.0
+95,,MOT,whoops .,NONE,normal statement,0.0,0.0,0.0,0.0
+96,,MOT,and you're gonna give the baby some food as well ?,NONE,normal question,0.0,0.0,0.0,0.0
+97,,CHI,&=whimpers cakie .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+98,,MOT,is there some cakie ?,NONE,normal question,0.0,0.0,0.0,0.0
+99,,MOT,that would be good .,NONE,normal statement,0.0,0.0,0.0,0.0
+100,,MOT,why don't you get the plates out and we'll do the cakie then .,NONE,normal suggestion,0.0,0.0,0.0,0.0
+101,,CHI,plate ?,T22,child uses monosyllabic response; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+102,,MOT,a plate .,T22,child uses monosyllabic response; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+103,,MOT,is there one plate ?,NONE,normal question,0.0,0.0,0.0,0.0
+104,,MOT,and what &~r (a)bout the other baby ?,NONE,normal question,0.0,0.0,0.0,0.0
+105,,MOT,is the other baby get plate ?,NONE,normal question,0.0,0.0,0.0,0.0
+106,,MOT,oh there you go .,NONE,normal affirmation,0.0,0.0,0.0,0.0
+107,,CHI,xxx cake .,T22,child uses monosyllabic response; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+108,,MOT,a cake mm: num_num .,NONE,normal statement,0.0,0.0,0.0,0.0
+109,,MOT,you gonna give the baby a spoon ?,NONE,normal question,0.0,0.0,0.0,0.0
+110,,MOT,there a spoon ?,NONE,normal question,0.0,0.0,0.0,0.0
+111,,CHI,is there a spoon ?,T22,child uses monosyllabic response; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+112,,MOT,hm: mhm where's the cake ?,NONE,normal question,0.0,0.0,0.0,0.0
+113,,CHI,&-um there .,NONE,normal conversational response,0.85,0.75,1.0,0.0
+114,,MOT,oh there okay .,NONE,normal affirmation,0.0,0.0,0.0,0.0
+115,,MOT,"is it &~oran , &-uh no we got different cakes .",NONE,normal statement,0.0,0.0,0.0,0.0
+116,,MOT,look we got orange cake or blue cake .,NONE,normal statement,0.0,0.0,0.0,0.0
+117,,MOT,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+118,,MOT,there you go .,NONE,normal affirmation,0.0,0.0,0.0,0.0
+119,,MOT,now that's looking more like a party !,NONE,normal statement,0.0,0.0,0.0,0.0
+120,,CHI,&~da &~da .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+121,,MOT,yeah ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+122,,MOT,so this baby's got a cup .,NONE,normal statement,0.0,0.0,0.0,0.0
+123,,MOT,look see if she xxx &=sips .,NONE,normal question,0.0,0.0,0.0,0.0
+124,,CHI,no not like that .,T05,child blurts out response before mother finishes; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+125,,MOT,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+126,,MOT,what's that ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+127,,MOT,is that for Mama ?,NONE,normal question,0.0,0.0,0.0,0.0
+128,,MOT,thank_you .,NONE,normal statement,0.0,0.0,0.0,0.0
+129,,MOT,chinchin@g !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+130,,MOT,you need your cup so we can do chinchin@g .,NONE,normal statement,0.0,0.0,0.0,0.0
+131,,MOT,where's your cup ?,NONE,normal question,0.0,0.0,0.0,0.0
+132,,CHI,ah !,T11,child shows emotional reactivity with exclamation; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+133,,MOT,there we go .,NONE,normal affirmation,0.0,0.0,0.0,0.0
+134,,MOT,does Mommy get a cup and Albus gets a cup we'll go chinchin@g ?,NONE,normal question,0.0,0.0,0.0,0.0
+135,,MOT,"one two three , chinchin@g !",NONE,normal statement,0.0,0.0,0.0,0.0
+136,,CHI,xxx there .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+137,,MOT,and did you feed the baby yet ?,NONE,normal question,0.0,0.0,0.0,0.0
+138,,MOT,did you feed the baby Albus ?,NONE,normal question,0.0,0.0,0.0,0.0
+139,,MOT,look here we go <mm: &~num>  [/] mm: &~num mm: Albus .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+150,,MOT,what else can we do then ?,NONE,normal question,0.0,0.0,0.0,0.0
+151,,MOT,what else can we play with in here ?,NONE,normal question,0.0,0.0,0.0,0.0
+152,,CHI,&~nah .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+153,,MOT,&~dun some cake .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+154,,MOT,cup for the baby .,NONE,simple statement,0.0,0.0,0.0,0.0
+155,,MOT,what can the truck be doing ?,NONE,normal question,0.0,0.0,0.0,0.0
+156,,MOT,how does the truck play in this ?,NONE,normal question,0.0,0.0,0.0,0.0
+157,,MOT,you wanna put the cups on the truck !,NONE,normal suggestion,0.0,0.0,0.0,0.0
+158,,MOT,that's a good plan .,NONE,simple statement,0.0,0.0,0.0,0.0
+159,,CHI,xxx &~la .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+160,,MOT,"so then , look I can say would you like a cup of tea mister Albus &=engine ?",NONE,unclear utterance,0.0,0.0,0.0,0.0
+161,,CHI,xxx Mama  [/] Mama xxx &~la .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+162,,CHI,&~vram &~buk &~pucho !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+163,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+164,,CHI,Mama .,NONE,simple call,0.0,0.0,0.0,0.0
+165,,MOT,where you going ?,NONE,normal question,0.0,0.0,0.0,0.0
+166,,MOT,eh  [/] eh  [/] eh we're sposta be playing with these ones .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+167,,MOT,"Albus  [/] Albus  [/] Albus  [/] Albus  [/] Albus  [/] Albus let's just play with , let's just keep playing with these ones .",NONE,repetitive statement,0.0,0.0,0.0,0.0
+168,,MOT,look  [/] look at the truck .,NONE,simple observation,0.0,0.0,0.0,0.0
+169,,CHI,<&~ah &~mo>  [/] <&~ah &~mo>  [/] &~ah &~mo .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+170,,MOT,Albus  [/] Albus .,NONE,simple call,0.0,0.0,0.0,0.0
+171,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+172,,MOT,"what , you need Elmo ?",NONE,normal question,0.0,0.0,0.0,0.0
+173,,CHI,&~el .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+174,,MOT,"Elmo's  [/] , Elmo's here .",NONE,simple statement,0.0,0.0,0.0,0.0
+175,,MOT,bring Elmo to the tea_party then .,NONE,normal suggestion,0.0,0.0,0.0,0.0
+176,,MOT,is he gonna come have some tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+177,,MOT,is Elmo gonna come and have some tea ?,NONE,normal question,0.0,0.0,0.0,0.0
+178,,MOT,"is everyone gonna drink some &~c , tea now ?",NONE,normal question,0.0,0.0,0.0,0.0
+179,,MOT,hm: ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+180,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+181,,MOT,should we feed Elmo ?,NONE,normal question,0.0,0.0,0.0,0.0
+182,,CHI,look .,NONE,simple observation,0.0,0.0,0.0,0.0
+183,,MOT,num_num .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+184,,CHI,no  [/] no look .,NONE,simple response,0.0,0.0,0.0,0.0
+185,,MOT,hm: ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+186,,CHI,look .,NONE,simple observation,0.0,0.0,0.0,0.0
+187,,MOT,what .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+188,,CHI,look .,NONE,simple observation,0.0,0.0,0.0,0.0
+189,,MOT,what is this ?,NONE,normal question,0.0,0.0,0.0,0.0
+190,,MOT,beep@o  [/] beep@o  [/] beep@o  [/] beep@o  [/] beep@o  [/] beep@o  [/] beep@o  [/] beep@o  [/] beep@o .,T07,excessive vocal sounds made repeatedly; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+191,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+192,,MOT,who you gonna call ?,NONE,normal question,0.0,0.0,0.0,0.0
+193,,MOT,who you gonna call ?,NONE,normal question,0.0,0.0,0.0,0.0
+194,,MOT,Ghostbusters !,NONE,enthusiastic response,0.0,0.0,0.0,0.0
+195,,MOT,wanna call Papa ?,NONE,normal question,0.0,0.0,0.0,0.0
+196,,MOT,ringring@o  [/] ringring@o  [/] ringring@o  [/] ringring@o  [/] ringring@o .,T07,excessive vocal sounds made repeatedly; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+197,,MOT,you better answer the phone quick !,NONE,normal statement,0.0,0.0,0.0,0.0
+198,,MOT,ringring@o  [/] ringring@o  [/] ringring@o .,T07,excessive vocal sounds made repeatedly; clarity=0.75; uniqueness=1.00; confidence=0.85,0.85,0.75,1.0,0.0
+199,,CHI,no Papa .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+200,,MOT,no Papa ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+201,,MOT,hello ?,NONE,simple question,0.0,0.0,0.0,0.0
+202,,MOT,"oh yeah Albus's here , would you like to speak to Albus ?",NONE,normal inquiry,0.0,0.0,0.0,0.0
+203,,MOT,&=gasps oh really ?,NONE,expression of surprise,0.0,0.0,0.0,0.0
+204,,MOT,"oh I don't know , it's for you .",NONE,simple statement,0.0,0.0,0.0,0.0
+205,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+206,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+207,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+208,,MOT,you being grumplepump@c .,NONE,unclear statement,0.0,0.0,0.0,0.0
+209,,MOT,you be a grumplepump@c .,NONE,unclear statement,0.0,0.0,0.0,0.0
+210,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+211,,MOT,you wanna phone Jenny ?,NONE,normal question,0.0,0.0,0.0,0.0
+212,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+213,,MOT,"say hello Jen I'm playing with dollies , and we're having a tea_party , without you !",NONE,playful statement,0.0,0.0,0.0,0.0
+214,,CHI,no xxx .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+215,,MOT,no Jen wanna phone Gillian ?,NONE,normal question,0.0,0.0,0.0,0.0
+216,,MOT,hello Gilliandoo we're having a tea_party !,NONE,normal statement,0.0,0.0,0.0,0.0
+217,,MOT,Gillian &=laughs .,NONE,laughter,0.0,0.0,0.0,0.0
+218,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+219,,MOT,Zaza Gillian .,NONE,unclear statement,0.0,0.0,0.0,0.0
+220,,MOT,what else can we play with ?,NONE,normal question,0.0,0.0,0.0,0.0
+221,,MOT,oh I don't think that's gonna work on the carpet .,NONE,normal statement,0.0,0.0,0.0,0.0
+222,,MOT,think that's gonna work Albus ?,NONE,normal question,0.0,0.0,0.0,0.0
+223,,MOT,oh uhoh .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+224,,CHI,oh Mama .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+225,,MOT,uhoh oh ah you xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+226,,MOT,Albus you xxx .,NONE,unclear statement,0.0,0.0,0.0,0.0
+227,,MOT,should we try again ?,NONE,normal question,0.0,0.0,0.0,0.0
+228,,MOT,encore@s:fra ?,NONE,unclear statement,0.0,0.0,0.0,0.0
+229,,CHI,encore@s:fra .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+230,,MOT,encore@s:fra .,NONE,unclear statement,0.0,0.0,0.0,0.0
+231,,MOT,one two .,NONE,counting,0.0,0.0,0.0,0.0
+232,,CHI,uhoh .,NONE,expression of concern,0.0,0.0,0.0,0.0
+233,,MOT,uhoh .,NONE,expression of concern,0.0,0.0,0.0,0.0
+234,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+235,,MOT,encore@s:fra ?,NONE,normal question,0.0,0.0,0.0,0.0
+236,,CHI,la@s:fra .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+237,,MOT,oh good_job another one ?,NONE,positive reinforcement,0.0,0.0,0.0,0.0
+238,,MOT,uhoh .,NONE,expression of concern,0.0,0.0,0.0,0.0
+239,,CHI,uhoh cake .,NONE,unclear statement,0.0,0.0,0.0,0.0
+240,,MOT,cake ?,NONE,normal question,0.0,0.0,0.0,0.0
+241,,CHI,no  [/] no on there .,NONE,unclear statement,0.0,0.0,0.0,0.0
+242,,MOT,we're making a cake tower .,NONE,normal statement,0.0,0.0,0.0,0.0
+243,,CHI,xxx too .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+244,,MOT,okay see if you can do that one .,NONE,normal encouragement,0.0,0.0,0.0,0.0
+245,,MOT,uhoh &=laughs .,NONE,laughter,0.0,0.0,0.0,0.0
+246,,CHI,cake down !,NONE,unclear statement,0.0,0.0,0.0,0.0
+247,,MOT,should we try again ?,NONE,normal question,0.0,0.0,0.0,0.0
+248,,CHI,yeah .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+249,,MOT,okay one two three .,NONE,counting,0.0,0.0,0.0,0.0
+250,,MOT,can you do number four ?,NONE,normal question,0.0,0.0,0.0,0.0
+251,,MOT,oh !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+252,,CHI,xxx encore@s:fra  [/] encore@s:fra !,NONE,unclear utterance,0.0,0.0,0.0,0.0
+253,,MOT,encore@s:fra ?,NONE,normal question,0.0,0.0,0.0,0.0
+254,,MOT,one two three .,NONE,simple counting,0.0,0.0,0.0,0.0
+255,,MOT,Albus ?,NONE,normal question,0.0,0.0,0.0,0.0
+256,,MOT,you do number four ?,NONE,normal question,0.0,0.0,0.0,0.0
+257,,MOT,doucement@s:fra &~du &~du &~du &~du .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+258,,MOT,oh &=laughs .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+259,,CHI,uhoh  [/] uhoh .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+260,,MOT,uhoh again ?,NONE,normal question,0.0,0.0,0.0,0.0
+261,,MOT,one two .,NONE,simple counting,0.0,0.0,0.0,0.0
+262,,MOT,doucement@s:fra &~sh .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+263,,MOT,&=laughs .,NONE,laughter,0.0,0.0,0.0,0.0
+264,,CHI,uhoh  [/] uhoh .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+265,,MOT,uhoh one two three !,NONE,counting with exclamation,0.0,0.0,0.0,0.0
+266,,CHI,&=gasps uhoh .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+267,,MOT,&=laughs uhoh !,NONE,laughter with exclamation,0.0,0.0,0.0,0.0
+268,,MOT,here you go .,NONE,normal statement,0.0,0.0,0.0,0.0
+269,,MOT,let's try put these together mister .,NONE,normal statement,0.0,0.0,0.0,0.0
+270,,CHI,three .,NONE,simple counting,0.0,0.0,0.0,0.0
+271,,MOT,"one , press three yeah , but you better go up  [/] , up the way .",NONE,normal statement,0.0,0.0,0.0,0.0
+272,,CHI,three .,NONE,simple counting,0.0,0.0,0.0,0.0
+273,,MOT,four .,NONE,simple counting,0.0,0.0,0.0,0.0
+274,,CHI,oh no on &~dar .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+275,,MOT,five .,NONE,simple counting,0.0,0.0,0.0,0.0
+276,,MOT,you gonna keep going ?,NONE,normal question,0.0,0.0,0.0,0.0
+277,,CHI,oh up .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+278,,MOT,up ?,NONE,normal question,0.0,0.0,0.0,0.0
+279,,MOT,good_job .,NONE,positive affirmation,0.0,0.0,0.0,0.0
+280,,CHI,oh no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+281,,MOT,that's good .,NONE,positive affirmation,0.0,0.0,0.0,0.0
+282,,CHI,xxx la@s:fra .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+283,,MOT,xxx la@s:fra ?,NONE,normal question,0.0,0.0,0.0,0.0
+284,,MOT,you and your french huh ?,NONE,normal statement,0.0,0.0,0.0,0.0
+285,,CHI,there's more .,NONE,simple statement,0.0,0.0,0.0,0.0
+286,,MOT,is there more ?,NONE,normal question,0.0,0.0,0.0,0.0
+287,,CHI,no xxx .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+288,,MOT,there's another orange one somewhere .,NONE,normal statement,0.0,0.0,0.0,0.0
+289,,MOT,are you sitting on it ?,NONE,normal question,0.0,0.0,0.0,0.0
+290,,CHI,xxx .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+291,,MOT,are you sitting on the orange one ?,NONE,normal question,0.0,0.0,0.0,0.0
+292,,CHI,there it is .,NONE,simple statement,0.0,0.0,0.0,0.0
+293,,MOT,you wanna count them ?,NONE,normal question,0.0,0.0,0.0,0.0
+294,,MOT,"look one two three , four five six seven .",NONE,counting statement,0.0,0.0,0.0,0.0
+295,,MOT,there's one more orange one .,NONE,normal statement,0.0,0.0,0.0,0.0
+296,,MOT,are you sitting on it ?,NONE,normal question,0.0,0.0,0.0,0.0
+297,,MOT,&=grunts where's the orange one ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+298,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+299,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+300,,CHI,xxx .,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0
+301,,MOT,oh <there they are>  [/] there they are !,NONE,normal statement,0.0,0.0,0.0,0.0
+302,,CHI,there !,NONE,simple response,0.0,0.0,0.0,0.0
+303,,MOT,there !,NONE,simple response,0.0,0.0,0.0,0.0
+304,,CHI,there's orange .,NONE,simple statement,0.0,0.0,0.0,0.0
+305,,CHI,there's xxx .,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0
+306,,MOT,tadah !,NONE,normal expression,0.0,0.0,0.0,0.0
+307,,CHI,xxx .,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0
+308,,MOT,you happy now ?,NONE,normal question,0.0,0.0,0.0,0.0
+309,,CHI,encore@s:fra .,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0
+310,,MOT,encore@s:fra .,NONE,normal statement,0.0,0.0,0.0,0.0
+311,,MOT,okay off you go !,NONE,normal directive,0.0,0.0,0.0,0.0
+312,,MOT,www .,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0
+313,,CHI,tadah xxx .,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0
+314,,MOT,okay Albus we're gonna do clean up !,NONE,normal directive,0.0,0.0,0.0,0.0
+315,,MOT,you gonna help Mama do clean up ?,NONE,normal question,0.0,0.0,0.0,0.0
+316,,CHI,xxx .,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0
+317,,MOT,<clean up>  [/] clean up everybody everywhere <clean up>  [/] clean up everybody do their share .,NONE,normal directive,0.0,0.0,0.0,0.0
+318,,MOT,good_job Albus .,NONE,normal praise,0.0,0.0,0.0,0.0
+319,,MOT,keep going cleanie@g  [/] cleanie@g  [/] cleanie@g .,NONE,normal encouragement,0.0,0.0,0.0,0.0
+320,,MOT,like you do in day+care .,NONE,normal statement,0.0,0.0,0.0,0.0
+321,,MOT,that's it .,NONE,normal statement,0.0,0.0,0.0,0.0
+322,,MOT,all the clean up away .,NONE,normal directive,0.0,0.0,0.0,0.0
+323,,CHI,xxx .,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0
+324,,MOT,good boy .,NONE,normal praise,0.0,0.0,0.0,0.0
+325,,MOT,<clean up>  [/] clean up everybody everywhere <clean up>  [/] clean up everybody do their share .,NONE,normal directive,0.0,0.0,0.0,0.0
+326,,CHI,xxx car .,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0
+327,,MOT,no the car huh &=laughs ?,NONE,normal question with laughter,0.0,0.0,0.0,0.0
+328,,MOT,yeah the car hasta get cleaned up too .,NONE,normal statement,0.0,0.0,0.0,0.0
+329,,MOT,go on good boy .,NONE,normal encouragement,0.0,0.0,0.0,0.0
+330,,CHI,la@s:fra ?,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0
+331,,MOT,and that one yeah .,NONE,normal statement,0.0,0.0,0.0,0.0
+332,,MOT,"yup lala@s:fra that's where you put it , in there .",NONE,normal statement,0.0,0.0,0.0,0.0
+333,,MOT,and the car please .,NONE,normal directive,0.0,0.0,0.0,0.0
+334,,CHI,no .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+335,,MOT,yes please .,NONE,normal conversational response,0.0,0.0,0.0,0.0
+336,,CHI,&=engine .,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0
+337,,MOT,&=laughs you gonna put the car away ?,NONE,normal question with laughter,0.0,0.0,0.0,0.0
+338,,MOT,go on .,NONE,normal encouragement,0.0,0.0,0.0,0.0
+339,,MOT,put the lid on ?,NONE,normal question,0.0,0.0,0.0,0.0
+340,,MOT,you're &~gon grab the lid and we'll put the lid on ?,NONE,normal question,0.0,0.0,0.0,0.0
+341,,MOT,"you gonna grab the lid , for the box ?",NONE,normal question,0.0,0.0,0.0,0.0
+342,,MOT,"that's it , okay .",NONE,normal statement,0.0,0.0,0.0,0.0
+343,,MOT,"here turnie@g  [/] turnie@g  [/] turnie@g  [/] turnie@g  [/] turnie@g  [/] turnie@g  [/] turnie@g  [/] turnie@g and then oh , wait  [/] wait we gotta get in the middle xxx push ah !",NONE,normal directive with repetition,0.0,0.0,0.0,0.0
+344,,CHI,&~ma .,NONE,no meaningful content in utterance,0.0,0.0,0.0,0.0

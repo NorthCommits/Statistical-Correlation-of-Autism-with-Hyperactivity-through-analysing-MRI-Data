@@ -1,0 +1,55 @@
+Index,Timestamp,Speaker,Utterance,Traits,Justification,Confidence,ClarityScore,UniquenessScore,QualityScore
+0,,MOT,who's on the phone ?,NONE,normal question,0.0,0.0,0.0,0.0
+1,,MOT,can you say hello ?,NONE,normal request,0.0,0.0,0.0,0.0
+2,,MOT,say hello .,NONE,simple command,0.0,0.0,0.0,0.0
+3,,MOT,who is it ?,NONE,normal question,0.0,0.0,0.0,0.0
+4,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+5,,MOT,can you make tea Severus ?,NONE,normal request,0.0,0.0,0.0,0.0
+6,,MOT,can you pour me some tea ?,NONE,normal request,0.0,0.0,0.0,0.0
+7,,MOT,"Severus , pour me tea .",NONE,simple command,0.0,0.0,0.0,0.0
+8,,MOT,&~sh pour me some tea .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+9,,MOT,"&~psh hey &=laughs , you knocked over my tea !",NONE,unclear utterance with laughter,0.0,0.0,0.0,0.0
+10,,MOT,come on .,NONE,simple command,0.0,0.0,0.0,0.0
+11,,MOT,I want tea .,NONE,simple statement,0.0,0.0,0.0,0.0
+12,,MOT,"look , I'm gonna make myself some more tea &~psh .",NONE,unclear utterance,0.0,0.0,0.0,0.0
+13,,CHI,&~mm .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+14,,MOT,yeah he wants it .,NONE,simple statement,0.0,0.0,0.0,0.0
+15,,MOT,do you wanna feed the doll ?,NONE,normal question,0.0,0.0,0.0,0.0
+16,,MOT,do you wanna feed the doll ?,NONE,normal question,0.0,0.0,0.0,0.0
+17,,MOT,some  [/] some milk ?,NONE,unclear utterance,0.0,0.0,0.0,0.0
+18,,MOT,no ?,NONE,normal conversational response,0.0,0.0,0.0,0.0
+19,,MOT,"&=eats , do you wanna feed the baby ?",NONE,unclear utterance,0.0,0.0,0.0,0.0
+20,,MOT,www .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+21,,MOT,come knock my blocks down .,NONE,simple command,0.0,0.0,0.0,0.0
+22,,MOT,come .,NONE,simple command,0.0,0.0,0.0,0.0
+23,,CHI,&=coughs .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+24,,MOT,wanna do that ?,NONE,normal question,0.0,0.0,0.0,0.0
+25,,MOT,knock my blocks down .,NONE,simple command,0.0,0.0,0.0,0.0
+26,,MOT,come  [/] come .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+27,,MOT,knock my blocks down .,NONE,simple command,0.0,0.0,0.0,0.0
+28,,MOT,yeah thank_you !,NONE,normal conversational response,0.0,0.0,0.0,0.0
+29,,MOT,you wanna do like this ?,NONE,normal question,0.0,0.0,0.0,0.0
+30,,MOT,knock these blocks down .,NONE,simple command,0.0,0.0,0.0,0.0
+31,,MOT,come on .,NONE,simple command,0.0,0.0,0.0,0.0
+32,,MOT,knock (th)em down .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+33,,MOT,thank_you !,NONE,simple statement,0.0,0.0,0.0,0.0
+34,,MOT,can I have these ones then ?,NONE,normal question,0.0,0.0,0.0,0.0
+35,,MOT,can I take these ?,NONE,normal question,0.0,0.0,0.0,0.0
+36,,MOT,"I'm gonna take these , okay ?",NONE,simple statement,0.0,0.0,0.0,0.0
+37,,MOT,"I'm gonna do this , and like this  [/] , this , oh &~psh , and they all &~ju fell &~woo .",NONE,unclear utterance with multiple actions,0.0,0.0,0.0,0.0
+38,,MOT,let's do this .,NONE,simple command,0.0,0.0,0.0,0.0
+39,,MOT,come on .,NONE,simple command,0.0,0.0,0.0,0.0
+40,,MOT,knock it down .,NONE,simple command,0.0,0.0,0.0,0.0
+41,,MOT,come on !,NONE,simple command with emphasis,0.0,0.0,0.0,0.0
+42,,CHI,0 .,NONE,unclear utterance,0.0,0.0,0.0,0.0
+43,,MOT,nice good_job .,NONE,simple statement,0.0,0.0,0.0,0.0
+44,,MOT,here do this .,NONE,simple command,0.0,0.0,0.0,0.0
+45,,MOT,knock it down .,NONE,simple command,0.0,0.0,0.0,0.0
+46,,MOT,oh very good !,NONE,simple statement,0.0,0.0,0.0,0.0
+47,,MOT,do you wanna build this here ?,NONE,normal question,0.0,0.0,0.0,0.0
+48,,MOT,or you gonna build this ?,NONE,normal question,0.0,0.0,0.0,0.0
+49,,MOT,let's build something else huh ?,NONE,normal suggestion,0.0,0.0,0.0,0.0
+50,,MOT,you wanna knock the tower xxx ?,NONE,normal question,0.0,0.0,0.0,0.0
+51,,MOT,"can I , try this too ?",NONE,normal question,0.0,0.0,0.0,0.0
+52,,MOT,"xxx I'll do one like this , no ?",NONE,normal question,0.0,0.0,0.0,0.0
+53,,MOT,www .,NONE,normal utterance,0.0,0.0,0.0,0.0
