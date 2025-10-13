@@ -271,15 +271,15 @@ This project is designed for:
 
 ## License
 
-Copyright (c) 2024 Swapnil Bhattacharya
+Copyright (c) 2025 Dr Qamar Natsheh, Daniela Cifuentes Barrios and Swapnil Bhattacharya
 
 This project is proprietary and confidential. All rights reserved.
 
-This software and associated documentation files (the "Software") are the exclusive property of the copyright holder. The Software is provided for research and clinical support purposes only.
+This software and associated documentation files (the "Software") are the exclusive property of the copyright holders. The Software is provided for research and clinical support purposes only.
 
 **Unauthorized copying, distribution, or use of this Software is strictly prohibited.**
 
-For licensing inquiries, please contact the copyright holder.
+For licensing inquiries, please contact the copyright holders.
 
 ## Support
 
