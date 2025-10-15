@@ -102,6 +102,12 @@ Statistical-Correlation-of-Autism-with-Hyperactivity-through-analysing-MRI-Data/
 - Optional modality files: structural T1 (`anat.nii.gz`), DTI (`dti.nii.gz` with `.bval/.bvec`), resting-state fMRI (`rest.nii.gz`)
 - Provided ROI masks in `AI Framework/ASD-ADHD-Research/OutputFiles/Masks/`
 
+### Data Access
+- **Dataset folder** (`AI Framework/ASD-ADHD-Research/Dataset`): See the dataset contents on Google Drive: [ABIDEII-STANFORD dataset (Drive)](https://drive.google.com/drive/folders/1bR9UlqHNKlPxZ-HWVmQIGmGDmWd6SBG-?usp=sharing).
+  - Local path: `AI Framework/ASD-ADHD-Research/Dataset`
+- **Output files** (`AI Framework/ASD-ADHD-Research/OutputFiles`): View generated outputs on Google Drive: [Neuroimaging outputs (Drive)](https://drive.google.com/drive/folders/1MyYOmPUfgUdxdKYot1pvu4NKAuQ6Mq9F?usp=sharing).
+  - Local path: `AI Framework/ASD-ADHD-Research/OutputFiles`
+
 ### For Speech Analysis
 - **CHAT format files** (.cha) in the `Nadig/` directories
 
