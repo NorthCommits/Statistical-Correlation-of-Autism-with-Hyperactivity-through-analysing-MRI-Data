@@ -1,74 +1,65 @@
 # Statistical Correlation of Autism with Hyperactivity through Analyzing MRI Data
 
-A comprehensive research project that combines multiple AI and machine learning approaches to analyze the correlation between Autism Spectrum Disorder (ASD) and hyperactivity through speech pattern analysis and gene expression studies.
+A comprehensive research project combining neuroimaging (MRI: structural, DTI, and resting-state fMRI) with AI/ML-based speech analysis to study relationships between Autism Spectrum Disorder (ASD) and hyperactivity.
 
 ## Project Overview
 
 This project implements a multi-faceted approach to understanding the relationship between autism and hyperactivity through:
 
-1. **Speech Pattern Analysis**: AI-powered analysis of conversational transcripts to identify hyperactivity traits
-2. **Machine Learning Clustering**: Statistical analysis and clustering of speech patterns using ML techniques
-3. **Gene Expression Analysis**: Bioinformatics analysis of ASD-related genes and their correlation with brain tumor markers
-4. **Clinical Research Integration**: Comprehensive framework for clinical research applications
+1. **Neuroimaging Analysis**: Structural MRI, DTI-derived metrics (e.g., FA, MD), and rs-fMRI features (e.g., ReHo, ALFF), including ROI-based analyses and group comparisons
+2. **Speech Pattern Analysis**: LLM-powered analysis of conversational transcripts to identify hyperactivity traits
+3. **ML Integration**: Clustering and correlation analyses linking speech-derived traits with quantitative features
+4. **Clinical Research Integration**: Reproducible workflows for research and exploratory clinical support
 
 ## Project Structure
 
 ```
 Statistical-Correlation-of-Autism-with-Hyperactivity-through-analysing-MRI-Data/
-├── AI Framework/                    # Core AI analysis framework
-│   ├── LLM Agent/                  # Large Language Model-based speech analysis
-│   │   ├── agent.py               # Main LLM agent for trait classification
-│   │   ├── parser.py              # CHAT file parser
-│   │   ├── HyperactivityKnowledge.py # Knowledge base loader
-│   │   ├── HyperactivityKnowledge.yaml # Trait definitions
-│   │   ├── requirements.txt       # Dependencies
-│   │   ├── Nadig/                 # Sample transcript data (.cha files)
-│   │   └── Outputs/               # Analysis results (CSV files)
-│   └── ML+LLM/                    # Machine Learning + LLM integration
-│       ├── ML+LLM.py              # Combined ML and LLM analysis
-│       ├── LLM_Results_Plots.py   # Visualization tools
-│       └── Nadig/                 # Transcript data for ML analysis
-├── AI-Solution/                    # Integrated solution components
-│   ├── agent.py                   # Alternative agent implementation
-│   ├── agent1.py                  # Improved agent with validation
-│   ├── ASD+BRAIN.py              # Gene expression analysis
-│   ├── HyperactivityKnowledge.py  # Knowledge base
-│   ├── parser.py                  # Transcript parser
-│   ├── requirements.txt           # Dependencies
-│   ├── README.md                  # Detailed usage documentation
-│   └── Nadig/                     # Sample data
-└── README.md                      # This file
+├── AI Framework/
+│   ├── ASD-ADHD-Research/                 # Neuroimaging workflows and data
+│   │   ├── Dataset/                       # Source MRI data (e.g., ABIDEII-STANFORD)
+│   │   ├── OutputFiles/                   # Derived NIfTI/NumPy/CSV outputs and masks
+│   │   └── codes/                         # Jupyter notebooks and helper CSVs
+│   ├── LLM Agent/                         # LLM-based speech analysis
+│   │   ├── agent.py                       # Main agent for trait classification
+│   │   ├── parser.py                      # CHAT file parser
+│   │   ├── HyperactivityKnowledge.py      # Knowledge base loader
+│   │   ├── HyperactivityKnowledge.yaml    # Trait definitions
+│   │   ├── Nadig/                         # Sample transcript data (.cha files)
+│   │   ├── Outputs/                       # Analysis results (CSV files)
+│   │   └── requirements.txt               # Dependencies (LLM agent)
+│   └── ML+LLM/                            # Machine Learning + LLM integration
+│       ├── ML+LLM.py                      # Combined ML and LLM analysis
+│       ├── LLM_Results_Plots.py           # Visualization utilities
+│       └── Nadig/                         # Transcript data for ML analysis
+└── README.md
 ```
 
 ## Key Features
 
-### 1. Speech Pattern Analysis (LLM Agent)
-- **CHAT Format Support**: Processes clinical transcript files in CHAT format (.cha)
-- **Trait Classification**: Identifies 50 specific hyperactivity traits using OpenAI GPT models
-- **Clinical Validation**: Built-in validation to reduce false positives
-- **Batch Processing**: Efficient handling of large transcript files
-- **Structured Output**: Generates detailed CSV reports with confidence scores
+### 1. Neuroimaging (MRI, DTI, rs-fMRI)
+- **Structural preprocessing**: Brain extraction, tissue segmentation, masks
+- **DTI processing**: FA/MD/L1-L3/MO maps, tract-focused analyses (e.g., corpus callosum, SLF)
+- **rs-fMRI features**: ReHo, mALFF, nuisance regression, motion correction
+- **ROI analyses**: Prefrontal, cingulate, temporal lobe, corpus callosum masks
+- **Group comparisons**: t-statistics, p-value maps, FDR/BH correction
 
-### 2. Machine Learning Analysis (ML+LLM)
-- **Feature Extraction**: Extracts 50+ linguistic features from speech patterns
-- **Clustering Analysis**: Hierarchical clustering to identify speech pattern groups
-- **Statistical Correlation**: Correlation analysis between ML features and LLM classifications
-- **Visualization**: Comprehensive plotting and visualization tools
-- **Domain Mapping**: Maps traits to hyperactivity, impulsivity, and inattention domains
+### 2. Speech Pattern Analysis (LLM Agent)
+- **CHAT format support**: Processes clinical transcript files (.cha)
+- **Trait classification**: Identifies 50 traits related to hyperactivity/impulsivity/inattention
+- **Batch processing**: Efficient handling of large transcripts with structured CSV outputs
 
-### 3. Gene Expression Analysis (ASD+BRAIN)
-- **SFARI Gene Database**: Analysis of autism-related genes from SFARI database
-- **Tumor Marker Correlation**: Comparison with brain tumor marker genes
-- **Pathway Enrichment**: Reactome pathway analysis using hypergeometric testing
-- **Machine Learning Classification**: Elastic net logistic regression for gene classification
-- **Statistical Testing**: Fisher's exact test and permutation testing
+### 3. Machine Learning Analysis (ML+LLM)
+- **Feature extraction**: Linguistic features and LLM-derived traits
+- **Clustering/correlation**: Hierarchical clustering and correlation studies
+- **Visualization**: Result plots and exploratory analytics
 
 ## Installation
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.9 or higher
 - OpenAI API key (for LLM analysis)
-- Required data files (see Data Requirements section)
+- MRI datasets (see Data Requirements)
 
 ### Setup
 
@@ -86,17 +77,13 @@ Statistical-Correlation-of-Autism-with-Hyperactivity-through-analysing-MRI-Data/
 
 3. **Install dependencies**:
    ```bash
-   # For LLM Agent
+   # LLM Agent
    cd "AI Framework/LLM Agent"
    pip install -r requirements.txt
-   
-   # For ML+LLM analysis
+
+   # ML+LLM utilities (uses core scientific Python stack)
    cd "../ML+LLM"
-   pip install -r requirements.txt
-   
-   # For gene expression analysis
-   cd "../../AI-Solution"
-   pip install -r requirements.txt
+   # If a requirements.txt is present, install it; otherwise ensure numpy, pandas, scikit-learn, matplotlib, seaborn are available
    ```
 
 4. **Set up environment variables**:
@@ -110,59 +97,45 @@ Statistical-Correlation-of-Autism-with-Hyperactivity-through-analysing-MRI-Data/
 
 ## Data Requirements
 
-### For Speech Analysis
-- **CHAT Format Files**: Clinical transcript files (.cha) containing conversational data
-- **Sample Data**: The project includes sample data in the `Nadig/` directories
+### For Neuroimaging
+- **ABIDE II STANFORD** (example dataset in `AI Framework/ASD-ADHD-Research/Dataset/ABIDEII-STANFORD/`)
+- Optional modality files: structural T1 (`anat.nii.gz`), DTI (`dti.nii.gz` with `.bval/.bvec`), resting-state fMRI (`rest.nii.gz`)
+- Provided ROI masks in `AI Framework/ASD-ADHD-Research/OutputFiles/Masks/`
 
-### For Gene Expression Analysis
-- **SFARI Gene Database**: `SFARI-Gene_genes_07-08-2025release_08-11-2025export.csv`
-- **Brain Tumor Markers**: `brain_tumor_genes.csv`
-- **Reactome Pathways**: `ReactomePathways.gmt`
-- **Measured Genes**: `TCGA_LGG_measured_genes.txt` (optional)
+### For Speech Analysis
+- **CHAT format files** (.cha) in the `Nadig/` directories
 
 ## Usage
 
-### 1. Speech Pattern Analysis
+### 1. Neuroimaging Workflows (Notebooks)
+- Launch Jupyter and open notebooks under `AI Framework/ASD-ADHD-Research/codes/` (e.g., `main.ipynb`, `code.ipynb`, `wmh.ipynb`). These notebooks walk through preprocessing, feature extraction (ReHo, mALFF, DTI metrics), and group comparisons. Many intermediate and final outputs are written to `AI Framework/ASD-ADHD-Research/OutputFiles/`.
 
-#### Basic Analysis
+### 2. Speech Pattern Analysis (LLM Agent)
 ```bash
 cd "AI Framework/LLM Agent"
 python agent.py
 # Enter path to .cha file when prompted
 ```
 
-#### Improved Analysis (Recommended)
-```bash
-cd "AI-Solution"
-python agent1.py
-# Enter path to .cha file when prompted
-```
-
-### 2. Machine Learning Analysis
+### 3. Machine Learning Analysis (ML+LLM)
 ```bash
 cd "AI Framework/ML+LLM"
 python ML+LLM.py --k 2 --kmin 2 --kmax 8
 ```
 
-### 3. Gene Expression Analysis
-```bash
-cd "AI-Solution"
-python ASD+BRAIN.py
-```
-
 ## Output Files
 
-### Speech Analysis Outputs
-- `*_analyzed.csv`: Detailed trait classification results
+### Neuroimaging Outputs (examples)
+- NIfTI volumes: `anat_brain.nii.gz`, `dti_FA.nii.gz`, `reho_asd.nii.gz`, `alff_adhd.nii.gz`
+- ROI derivatives: `fa_corpus_callosum.nii.gz`, `fa_prefrontal_cortex.nii.gz`, etc.
+- Group stats: `t_stat_group_comparison.nii.gz`, `p_value_group_comparison.nii.gz`, corrected maps (`p_map_corrected.nii.gz`)
+- Intermediate artifacts: motion parameters (`*.par`), masks (`*_mask.nii.gz`), cleaned series (`rest_cleaned_*.nii.gz`)
+
+### Speech/ML Outputs
+- `*_analyzed.csv`: Per-utterance trait classification
 - `clustering_results.csv`: ML clustering results
 - `merged_with_llm.csv`: Combined ML and LLM results
-- `one_child_utterance_traits.csv`: Per-utterance trait annotations
-
-### Gene Analysis Outputs
-- `ASD+TumorMarkers.csv`: Overlap between ASD and tumor marker genes
-- `ASD_TumorMarkers_Reactome_enrichment.csv`: Pathway enrichment results
-- `ML_TopPathwayWeights.csv`: Machine learning pathway weights
-- `ML_GeneSetScores.csv`: Gene set classification scores
+- Feature arrays: `features_asd.npy`, `features_adhd.npy`, regional metrics (`regional_malff_*.npy`)
 
 ## Trait Categories
 
@@ -226,28 +199,26 @@ The system identifies 50 specific hyperactivity traits organized into three doma
 ## Technical Details
 
 ### Dependencies
-- **Core**: pandas, numpy, scikit-learn, matplotlib
-- **AI/ML**: openai, scipy, seaborn
-- **Data Processing**: PyYAML, python-dotenv, tqdm
-- **Bioinformatics**: (for gene analysis) - standard scientific Python stack
+- **Core**: numpy, pandas, scipy, matplotlib, seaborn, tqdm
+- **LLM Agent**: openai, PyYAML, python-dotenv
+- **Imaging**: nibabel, nilearn (and external neuroimaging tools if used in notebooks)
 
-### Model Specifications
-- **LLM Model**: GPT-4o-mini (configurable)
-- **Temperature**: 0.0 for consistent results
-- **Batch Size**: 50 utterances per API call
-- **Clustering**: Agglomerative clustering with Ward linkage
-- **Classification**: Elastic net logistic regression
+### Model/Analysis Specifications
+- **LLM model**: GPT-4o-mini (configurable)
+- **Temperature**: 0.0 for consistency
+- **Batch size**: 50 utterances per API call
+- **Clustering**: Agglomerative (Ward linkage)
 
 ### Performance Metrics
-- **Confidence Scoring**: Clarity, uniqueness, and quality metrics
-- **Silhouette Analysis**: Cluster quality assessment
-- **Correlation Analysis**: Pearson and Spearman correlations
-- **Statistical Testing**: FDR correction, permutation testing
+- **Confidence scoring**: Clarity, uniqueness, quality metrics
+- **Silhouette analysis**: Cluster quality assessment
+- **Correlation analysis**: Pearson and Spearman correlations
+- **Statistical testing**: Multiple-comparison correction where applicable
 
 ## Clinical Applications
 
 This project is designed for:
-- **Research**: Analyzing speech patterns in ADHD/ASD studies
+- **Research**: Analyzing neuroimaging and speech patterns in ASD/ADHD
 - **Assessment**: Supporting clinical evaluations
 - **Monitoring**: Tracking treatment progress
 - **Documentation**: Creating detailed analysis reports
@@ -259,7 +230,6 @@ This project is designed for:
 - CHAT format specific for speech analysis
 - English language transcripts only
 - Requires manual review for clinical decisions
-- Gene analysis requires specific data files
 
 ## Contributing
 
